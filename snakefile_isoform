@@ -1,0 +1,88 @@
+species = ['BRO','BAT','BGM','TPA','TGE','EXT','BRO_1k','ABRO','ACHR','AGAM','AGAT','ANTO','ARET','CARA','CLIT','CREO','DIAP','DIMO','EPID','EURY','EXTA','HETE','LIBE','MEDA','MEGA','METR','NEOH','OREO','ORES','ORTO','ORXI','PARA','PERU','PHAL','PHYL','RAMU','SIPY','SPAT','SPIN','TIRA','TRACH','VELU','XENO']
+#species = ['BRO', 'BAT', 'BGM', 'TPA', 'TGE','EXT','BRO_1k']
+
+chunk = [str(x).zfill(2) for x in range(80)]
+
+rule all:
+	input:
+		cds='PHYL.final.raw.transdecoder.cds',
+		gff='PHYL.final.raw.transdecoder.gff3',
+		pep='PHYL.final.raw.transdecoder.pep'
+	shell:  'rm -f -r pipeliner* snakejob*'
+
+rule split_fasta:
+	input:
+		 'assemblies/{species}/{species}.fasta'
+	output:
+                 temp(expand('assemblies/{{species}}/{{species}}.{chunk}.fasta', species = species, chunk = chunk))
+	conda:   'env/pyfasta.yaml'
+	shell:   'pyfasta split -n 80 {input}'
+
+rule transdecoder_longorfs:
+	input:
+		 'assemblies/{species}/{species}.{chunk}.fasta'
+	output:
+		 '{species}.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	conda:   'env/transdecoder.yaml'
+	shell:   'TransDecoder.LongOrfs -t {input}'
+
+rule hmmscan:
+	input:
+		 '{species}.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	output:
+		 '{species}.{chunk}.fasta.transdecoder_dir/{chunk}.pfam.domtblout'
+	threads: 4
+	conda:   'env/hmmscan.yaml'
+	shell:   'hmmscan --cpu {threads} --domtblout {output} dbs/Pfam-A.hmm {input}'
+
+rule blastp:
+	input:
+		 '{species}.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	output:
+		 '{species}.{chunk}.fasta.transdecoder_dir/{chunk}.blastp.outfmt6'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastp -query {input} -db dbs/uniprot_sprot -max_target_seqs 1 -outfmt 6 -evalue 1e-5 -num_threads {threads} > {output}'
+
+rule cp_chunk:
+	input:
+		 'assemblies/{species}/{species}.{chunk}.fasta'
+	output:
+		 '{species}.{chunk}.fasta.transdecoder_dir/{species}.{chunk}.fasta'
+	shell:   'cp {input} {output}'
+
+rule transdecoder_predict:
+	input:
+		 assembly = rules.cp_chunk.output,
+		 blast    = rules.blastp.output,
+		 hmmscan  = rules.hmmscan.output
+	output:
+		 cds='{species}.{chunk}.fasta.transdecoder.cds',
+		 gff='{species}.{chunk}.fasta.transdecoder.gff3',
+		 pep='{species}.{chunk}.fasta.transdecoder.pep'
+	conda:   'env/transdecoder.yaml'
+	shell:   'TransDecoder.Predict -t {input.assembly} --retain_pfam_hits {input.hmmscan} --retain_blastp_hits {input.blast}'
+
+rule merge_cds:
+	input: 
+		  expand('{{species}}.{chunk}.fasta.transdecoder.cds', chunk = chunk)
+	output:
+		  '{species}.final.raw.transdecoder.cds'
+	shell:    'cat {input} >> {output}'
+
+rule merge_gff:
+        input:                                                                            
+                  expand('{{species}}.{chunk}.fasta.transdecoder.gff3', chunk = chunk)
+        output:
+                  '{species}.final.raw.transdecoder.gff3'
+        shell:	  'cat {input} >> {output}'
+
+rule merge_pep:
+        input:
+                  expand('{{species}}.{chunk}.fasta.transdecoder.pep', chunk = chunk)
+        output:
+                  '{species}.final.raw.transdecoder.pep'
+        shell:    'cat {input} >> {output}'
+
+
+

@@ -1,0 +1,6 @@
+rule ortholog_search:
+        input:
+                 'orthology_searches/def_proteomes_5sp/formatted/' 
+        conda:   'env/orthofinder.yaml'
+	threads: 16
+        shell:   'orthofinder -f {input}'

@@ -1,0 +1,95 @@
+species = ['BRO', 'BAT', 'BGM', 'TPA', 'TGE','BRO_1k','PLA','HYP']
+
+chunk = [str(x).zfill(2) for x in range(80)]
+
+rule all:
+	input:
+		cds='PLA.final.raw.transdecoder.cds',
+		gff='PLA.final.raw.transdecoder.gff3',
+		pep='PLA.final.raw.transdecoder.pep'
+	shell:  'rm -f -r pipeliner* snakejob* *longest_isoform*'
+
+rule longest_isoform:
+        input:
+              	 'assemblies/{species}/{species}.fasta'
+        output:
+               	 'assemblies/{species}/{species}.longest_isoform.fasta'
+        conda:   'env/trinity.yaml'
+        shell:   'perl /short/rh35/gf6030/miniconda3/opt/trinity-2.1.1/util/misc/get_longest_isoform_seq_per_trinity_gene.pl {input} > {output}'
+
+rule split_fasta:
+	input:
+		 rules.longest_isoform.output
+	output:
+                 temp(expand('assemblies/{{species}}/{{species}}.longest_isoform.{chunk}.fasta', species = species, chunk = chunk))
+	conda:   'env/pyfasta.yaml'
+	shell:   'pyfasta split -n 80 {input}'
+
+rule transdecoder_longorfs:
+	input:
+		 'assemblies/{species}/{species}.longest_isoform.{chunk}.fasta'
+	output:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	conda:   'env/transdecoder.yaml'
+	shell:   'TransDecoder.LongOrfs -t {input}'
+
+rule hmmscan:
+	input:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	output:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/{chunk}.pfam.domtblout'
+	threads: 4
+	conda:   'env/hmmscan.yaml'
+	shell:   'hmmscan --cpu {threads} --domtblout {output} dbs/Pfam-A.hmm {input}'
+
+rule blastp:
+	input:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/longest_orfs.pep'
+	output:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/{chunk}.blastp.outfmt6'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastp -query {input} -db dbs/uniprot_sprot -max_target_seqs 1 -outfmt 6 -evalue 1e-5 -num_threads {threads} > {output}'
+
+rule cp_chunk:
+	input:
+		 'assemblies/{species}/{species}.longest_isoform.{chunk}.fasta'
+	output:
+		 '{species}.longest_isoform.{chunk}.fasta.transdecoder_dir/{species}.longest_isoform.{chunk}.fasta'
+	shell:   'cp {input} {output}'
+
+rule transdecoder_predict:
+	input:
+		 assembly = rules.cp_chunk.output,
+		 blast    = rules.blastp.output,
+		 hmmscan  = rules.hmmscan.output
+	output:
+		 cds='{species}.longest_isoform.{chunk}.fasta.transdecoder.cds',
+		 gff='{species}.longest_isoform.{chunk}.fasta.transdecoder.gff3',
+		 pep='{species}.longest_isoform.{chunk}.fasta.transdecoder.pep'
+	conda:   'env/transdecoder.yaml'
+	shell:   'TransDecoder.Predict -t {input.assembly} --retain_pfam_hits {input.hmmscan} --retain_blastp_hits {input.blast}'
+
+rule merge_cds:
+	input: 
+		  expand('{{species}}.longest_isoform.{chunk}.fasta.transdecoder.cds', chunk = chunk)
+	output:
+		  '{species}.final.raw.transdecoder.cds'
+	shell:    'cat {input} >> {output}'
+
+rule merge_gff:
+        input:                                                                            
+              	  expand('{{species}}.longest_isoform.{chunk}.fasta.transdecoder.gff3', chunk = chunk)
+        output:
+                  '{species}.final.raw.transdecoder.gff3'
+        shell:	  'cat {input} >> {output}'
+
+rule merge_pep:
+        input:
+              	  expand('{{species}}.longest_isoform.{chunk}.fasta.transdecoder.pep', chunk = chunk)
+        output:
+               	  '{species}.final.raw.transdecoder.pep'
+        shell:    'cat {input} >> {output}'
+
+
+

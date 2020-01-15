@@ -1,0 +1,67 @@
+species = ['BRO', 'BAT', 'BGM', 'TPO', 'TGE']
+
+chunk = [str(x).zfill(2) for x in range(90)]
+
+rule all:
+	input:
+		 'BRO.final.filtered.cds.fasta',
+		 'BRO.final.contaminants.cds.fasta'
+	shell:	 'rm *lst snakejob*'
+
+rule split_fasta:
+        input:
+                 '{species}.final.raw.transdecoder.cds' 
+        output:
+                 temp(expand('{{species}}.final.raw.transdecoder.cds.{chunk}', species = species, chunk = chunk))
+        conda:   'env/pyfasta.yaml'
+        shell:   'pyfasta split -n 90 {input}'
+
+rule blastn:
+	input:
+                 '{species}.final.raw.transdecoder.cds.{chunk}'
+	output:
+                 '{species}.{chunk}.blastn.outfmt6'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastn -query {input} -db=dbs/nt/nt -max_hsps 1 -task blastn -evalue 1e-3 -outfmt "6 qseqid sseqid evalue staxids" -num_threads {threads} > {output}'
+
+rule taxonomy_assignement:
+	input:
+		 rules.blastn.output
+	output:
+		 contaminants=temp('{species}.{chunk}.contaminants.lst'),
+		 filtered_contigs=temp('{species}.{chunk}.filtered_contigs.lst')
+	threads: 1
+	conda:   'env/taxonkit.yaml'
+	shell:   'bash taxonomy_assignement.sh {input} {output.contaminants} {output.filtered_contigs}' 
+	
+rule merge_filtered_contigs:
+	input: 
+		  expand('{{species}}.{chunk}.filtered_contigs.lst', chunk = chunk)
+	output:
+		  '{species}.filtered_contigs'
+	shell:    'cat {input} >> {output}'
+
+rule merge_contaminants_contigs:
+        input:
+                  expand('{{species}}.{chunk}.contaminants.lst', chunk = chunk)
+        output:
+                  '{species}.contaminants'
+        shell:    'cat {input} >> {output}'
+
+
+rule keep_filtered_contigs:
+	input:
+		  filtered_contigs='{species}.filtered_contigs',
+		  original_cds='{species}.final.raw.transdecoder.cds'
+	output:
+		  '{species}.final.filtered.cds.fasta'	
+	shell:    'seqkit grep -f {input.filtered_contigs} {input.original_cds} > {output}'
+
+rule keep_contaminants_contigs:
+	input:
+                 contaminants_contigs='{species}.contaminants',
+                 original_cds='{species}.final.raw.transdecoder.cds'
+	output:
+                 '{species}.final.contaminants.cds.fasta'
+	shell:    'seqkit grep -f {input.contaminants_contigs} {input.original_cds} > {output}'

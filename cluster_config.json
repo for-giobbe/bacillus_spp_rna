@@ -1,0 +1,8 @@
+{
+    "__default__" :
+    {
+        "project"   : "kl83",
+        "cue"       : "normal",
+        "resources" : "'walltime=20:00:00,mem=10GB,ncpus=4'"
+    }
+}

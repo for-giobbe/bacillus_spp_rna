@@ -1,0 +1,66 @@
+species = ['BRO', 'BAT', 'BGM', 'TPO', 'TGE']
+
+chunk = [str(x).zfill(2) for x in range(90)]
+
+rule all:
+	input:
+		 'BGM.blastp_filtered_contaminant.pep.fasta',
+		 'BGM.blastp_filtered_transcripts.pep.fasta'
+	shell:	 'rm *lst snakejob*'
+
+rule split_fasta:
+        input:
+                '{species}.final.raw.transdecoder.pep' 
+        output:
+                 temp(expand('{{species}}.final.raw.transdecoder.pep.{chunk}', species = species, chunk = chunk))
+        conda:   'env/pyfasta.yaml'
+        shell:   'pyfasta split -n 90 {input}'
+
+rule blastp:
+	input:
+                 '{species}.final.raw.transdecoder.pep.{chunk}'
+	output:
+                 '{species}.{chunk}.blastp.outfmt6'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastp -query {input} -db=dbs/nr/nr -max_hsps 1 -task blastp-fast -evalue 1e-3 -outfmt "6 qseqid sseqid evalue staxids" -num_threads {threads} > {output}'
+
+rule taxonomy_assignement:
+	input:
+		 rules.blastp.output
+	output:
+		 contaminants=temp('{species}.{chunk}.contaminants.lst'),
+		 filtered_contigs=temp('{species}.{chunk}.filtered_contigs.lst')
+	conda:   'env/taxonkit.yaml'
+	shell:   'bash taxonomy_assignement.sh {input} {output.contaminants} {output.filtered_contigs}' 
+	
+rule merge_filtered_contigs:
+	input: 
+		  expand('{{species}}.{chunk}.filtered_contigs.lst', chunk = chunk)
+	output:
+		  '{species}.blastp.filtered_contigs'
+	shell:    'cat {input} >> {output}'
+
+rule merge_contaminants_contigs:
+        input:
+                  expand('{{species}}.{chunk}.contaminants.lst', chunk = chunk)
+        output:
+                  '{species}.blastp.contaminants_contigs'
+        shell:    'cat {input} >> {output}'
+
+
+rule keep_filtered_contigs:
+	input:
+		  filtered_contigs='{species}.blastp.filtered_contigs',
+		  original_pep='{species}.final.raw.transdecoder.pep'
+	output:
+		  '{species}.blastp_filtered_transcripts.pep.fasta'	
+	shell:    'seqkit grep -f {input.filtered_contigs} {input.original_pep} > {output}'
+
+rule keep_contaminants_contigs:
+	input:
+                 contaminants_contigs='{species}.blastp.contaminants_contigs',
+                 original_pep='{species}.final.raw.transdecoder.pep'
+	output:
+                 '{species}.blastp_filtered_contaminant.pep.fasta'
+	shell:    'seqkit grep -f {input.contaminants_contigs} {input.original_pep} > {output}'
