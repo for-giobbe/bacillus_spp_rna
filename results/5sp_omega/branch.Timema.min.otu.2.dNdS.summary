@@ -1,0 +1,2156 @@
+clade 	 gene 	 OTUs_n 	 dNdS 	 t 	 dN 	 dS
+Timema 	 OG0002707.ref.mafft.n 	 2 	 0.4149 	 1.491 	 0.3579 	 0.8626
+Timema 	 OG0002709.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002711.ref.mafft.n 	 2 	 0.2204 	 1.164 	 0.2186 	 0.9917
+Timema 	 OG0002712.ref.mafft.n 	 2 	 0.1242 	 1.364 	 0.1833 	 1.4764
+Timema 	 OG0002713.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002714.ref.mafft.n 	 2 	 0.0742 	 0.946 	 0.0944 	 1.2726
+Timema 	 OG0002717.ref.mafft.n 	 2 	 0.1900 	 1.108 	 0.2227 	 1.1719
+Timema 	 OG0002719.ref.mafft.n 	 2 	 0.1729 	 0.903 	 0.1502 	 0.8686
+Timema 	 OG0002720.ref.mafft.n 	 2 	 0.1131 	 1.167 	 0.1281 	 1.1321
+Timema 	 OG0002721.ref.mafft.n 	 2 	 0.0821 	 0.930 	 0.0900 	 1.0966
+Timema 	 OG0002722.ref.mafft.n 	 2 	 0.2882 	 1.598 	 0.3384 	 1.1741
+Timema 	 OG0002724.ref.mafft.n 	 2 	 0.0720 	 1.081 	 0.1105 	 1.5342
+Timema 	 OG0002725.ref.mafft.n 	 2 	 0.0846 	 1.396 	 0.1280 	 1.5142
+Timema 	 OG0002727.ref.mafft.n 	 2 	 0.1174 	 0.957 	 0.1183 	 1.0073
+Timema 	 OG0002729.ref.mafft.n 	 2 	 0.1806 	 1.859 	 0.3078 	 1.7045
+Timema 	 OG0002731.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002732.ref.mafft.n 	 2 	 0.2536 	 1.225 	 0.2410 	 0.9502
+Timema 	 OG0002734.ref.mafft.n 	 2 	 0.0420 	 0.950 	 0.0657 	 1.5651
+Timema 	 OG0002736.ref.mafft.n 	 2 	 0.0924 	 0.896 	 0.1144 	 1.2381
+Timema 	 OG0002737.ref.mafft.n 	 2 	 0.1542 	 1.630 	 0.2453 	 1.5910
+Timema 	 OG0002740.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002741.ref.mafft.n 	 2 	 0.0648 	 0.842 	 0.0731 	 1.1275
+Timema 	 OG0002743.ref.mafft.n 	 2 	 0.0678 	 1.317 	 0.1015 	 1.4968
+Timema 	 OG0002745.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002746.ref.mafft.n 	 2 	 0.2123 	 1.145 	 0.2022 	 0.9523
+Timema 	 OG0002747.ref.mafft.n 	 2 	 0.0391 	 1.200 	 0.0541 	 1.3843
+Timema 	 OG0002748.ref.mafft.n 	 2 	 0.0430 	 0.998 	 0.0790 	 1.8381
+Timema 	 OG0002750.ref.mafft.n 	 2 	 0.0803 	 0.799 	 0.0955 	 1.1901
+Timema 	 OG0002751.ref.mafft.n 	 2 	 0.0921 	 0.619 	 0.0901 	 0.9788
+Timema 	 OG0002755.ref.mafft.n 	 2 	 0.1632 	 1.909 	 0.2880 	 1.7642
+Timema 	 OG0002756.ref.mafft.n 	 2 	 0.4525 	 2.118 	 0.5368 	 1.1863
+Timema 	 OG0002757.ref.mafft.n 	 2 	 0.0934 	 0.982 	 0.1204 	 1.2882
+Timema 	 OG0002759.ref.mafft.n 	 2 	 0.0944 	 1.162 	 0.1498 	 1.5866
+Timema 	 OG0002760.ref.mafft.n 	 2 	 0.2697 	 1.347 	 0.2657 	 0.9854
+Timema 	 OG0002761.ref.mafft.n 	 2 	 0.1507 	 1.681 	 0.2245 	 1.4897
+Timema 	 OG0002762.ref.mafft.n 	 2 	 0.2964 	 1.052 	 0.2328 	 0.7852
+Timema 	 OG0002764.ref.mafft.n 	 2 	 0.1697 	 1.641 	 0.2846 	 1.6776
+Timema 	 OG0002765.ref.mafft.n 	 2 	 0.3355 	 1.680 	 0.3923 	 1.1692
+Timema 	 OG0002766.ref.mafft.n 	 2 	 0.0326 	 0.800 	 0.0471 	 1.4426
+Timema 	 OG0002769.ref.mafft.n 	 2 	 0.1478 	 1.109 	 0.1652 	 1.1176
+Timema 	 OG0002770.ref.mafft.n 	 2 	 0.1198 	 1.200 	 0.1454 	 1.2137
+Timema 	 OG0002771.ref.mafft.n 	 2 	 0.3370 	 0.382 	 0.0953 	 0.2828
+Timema 	 OG0002772.ref.mafft.n 	 2 	 0.2072 	 3.017 	 0.4954 	 2.3915
+Timema 	 OG0002773.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002774.ref.mafft.n 	 2 	 0.2024 	 0.883 	 0.1646 	 0.8130
+Timema 	 OG0002775.ref.mafft.n 	 2 	 0.0828 	 1.116 	 0.1076 	 1.2999
+Timema 	 OG0002778.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002779.ref.mafft.n 	 2 	 0.3231 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0002782.ref.mafft.n 	 2 	 0.1209 	 1.331 	 0.1733 	 1.4338
+Timema 	 OG0002783.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002784.ref.mafft.n 	 2 	 0.2358 	 1.173 	 0.2306 	 0.9779
+Timema 	 OG0002785.ref.mafft.n 	 2 	 0.2098 	 2.044 	 0.3802 	 1.8127
+Timema 	 OG0002786.ref.mafft.n 	 2 	 0.0164 	 1.045 	 0.0334 	 2.0343
+Timema 	 OG0002787.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002789.ref.mafft.n 	 2 	 0.2520 	 1.542 	 0.2771 	 1.0994
+Timema 	 OG0002790.ref.mafft.n 	 2 	 0.1573 	 1.478 	 0.2289 	 1.4555
+Timema 	 OG0002792.ref.mafft.n 	 2 	 0.0527 	 0.576 	 0.0566 	 1.0731
+Timema 	 OG0002795.ref.mafft.n 	 2 	 0.0650 	 2.314 	 0.1764 	 2.7123
+Timema 	 OG0002796.ref.mafft.n 	 2 	 0.2493 	 1.670 	 0.3188 	 1.2786
+Timema 	 OG0002798.ref.mafft.n 	 2 	 0.1502 	 1.148 	 0.1584 	 1.0546
+Timema 	 OG0002799.ref.mafft.n 	 2 	 0.0828 	 1.300 	 0.1295 	 1.5634
+Timema 	 OG0002801.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002805.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002806.ref.mafft.n 	 2 	 0.1629 	 1.227 	 0.1783 	 1.0943
+Timema 	 OG0002807.ref.mafft.n 	 2 	 0.0790 	 1.632 	 0.1499 	 1.8988
+Timema 	 OG0002808.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002809.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002812.ref.mafft.n 	 2 	 0.1015 	 1.305 	 0.1494 	 1.4717
+Timema 	 OG0002813.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002814.ref.mafft.n 	 2 	 0.0840 	 1.004 	 0.0982 	 1.1697
+Timema 	 OG0002815.ref.mafft.n 	 2 	 0.1008 	 1.126 	 0.1234 	 1.2238
+Timema 	 OG0002816.ref.mafft.n 	 2 	 0.0535 	 1.518 	 0.0951 	 1.7752
+Timema 	 OG0002817.ref.mafft.n 	 2 	 0.1794 	 1.356 	 0.2296 	 1.2801
+Timema 	 OG0002818.ref.mafft.n 	 2 	 0.3038 	 1.270 	 0.2873 	 0.9458
+Timema 	 OG0002819.ref.mafft.n 	 2 	 0.1712 	 0.918 	 0.1616 	 0.9438
+Timema 	 OG0002820.ref.mafft.n 	 2 	 0.1172 	 1.213 	 0.1425 	 1.2161
+Timema 	 OG0002821.ref.mafft.n 	 2 	 0.1564 	 0.913 	 0.1379 	 0.8819
+Timema 	 OG0002822.ref.mafft.n 	 2 	 0.4275 	 1.823 	 0.4734 	 1.1073
+Timema 	 OG0002823.ref.mafft.n 	 2 	 0.1100 	 1.190 	 0.1457 	 1.3245
+Timema 	 OG0002824.ref.mafft.n 	 2 	 0.1883 	 2.607 	 0.4075 	 2.1637
+Timema 	 OG0002825.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002827.ref.mafft.n 	 2 	 0.2470 	 2.530 	 0.4559 	 1.8457
+Timema 	 OG0002828.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002829.ref.mafft.n 	 2 	 0.1734 	 1.238 	 0.1813 	 1.0454
+Timema 	 OG0002830.ref.mafft.n 	 2 	 0.2425 	 0.794 	 0.1597 	 0.6584
+Timema 	 OG0002831.ref.mafft.n 	 2 	 0.0407 	 1.697 	 0.0979 	 2.4044
+Timema 	 OG0002832.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002833.ref.mafft.n 	 2 	 0.2860 	 1.722 	 0.3738 	 1.3071
+Timema 	 OG0002835.ref.mafft.n 	 2 	 0.2377 	 2.424 	 0.4409 	 1.8544
+Timema 	 OG0002837.ref.mafft.n 	 2 	 0.5912 	 1.621 	 0.4593 	 0.7770
+Timema 	 OG0002838.ref.mafft.n 	 2 	 0.0913 	 0.783 	 0.1176 	 1.2887
+Timema 	 OG0002840.ref.mafft.n 	 2 	 0.1811 	 1.083 	 0.1789 	 0.9876
+Timema 	 OG0002841.ref.mafft.n 	 2 	 0.2441 	 0.919 	 0.1791 	 0.7340
+Timema 	 OG0002843.ref.mafft.n 	 2 	 0.1178 	 1.997 	 0.2958 	 2.5110
+Timema 	 OG0002844.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002845.ref.mafft.n 	 2 	 0.1962 	 1.622 	 0.2547 	 1.2979
+Timema 	 OG0002848.ref.mafft.n 	 2 	 0.0536 	 1.780 	 0.1260 	 2.3493
+Timema 	 OG0002849.ref.mafft.n 	 2 	 0.1200 	 1.104 	 0.1460 	 1.2166
+Timema 	 OG0002850.ref.mafft.n 	 2 	 0.0687 	 1.326 	 0.1056 	 1.5368
+Timema 	 OG0002851.ref.mafft.n 	 2 	 0.1906 	 1.112 	 0.1946 	 1.0209
+Timema 	 OG0002852.ref.mafft.n 	 2 	 0.1361 	 1.809 	 0.2633 	 1.9349
+Timema 	 OG0002853.ref.mafft.n 	 2 	 0.1664 	 1.722 	 0.2950 	 1.7726
+Timema 	 OG0002854.ref.mafft.n 	 2 	 0.1325 	 1.349 	 0.1916 	 1.4457
+Timema 	 OG0002855.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002857.ref.mafft.n 	 2 	 0.1778 	 1.786 	 0.2670 	 1.5022
+Timema 	 OG0002859.ref.mafft.n 	 2 	 0.1612 	 0.866 	 0.1423 	 0.8831
+Timema 	 OG0002861.ref.mafft.n 	 2 	 0.0923 	 0.989 	 0.0979 	 1.0608
+Timema 	 OG0002864.ref.mafft.n 	 2 	 0.0755 	 0.815 	 0.0892 	 1.1814
+Timema 	 OG0002865.ref.mafft.n 	 2 	 0.2570 	 1.328 	 0.2586 	 1.0064
+Timema 	 OG0002866.ref.mafft.n 	 2 	 0.0521 	 1.236 	 0.0754 	 1.4476
+Timema 	 OG0002867.ref.mafft.n 	 2 	 0.2742 	 1.834 	 0.3915 	 1.4278
+Timema 	 OG0002869.ref.mafft.n 	 2 	 0.0594 	 1.459 	 0.1043 	 1.7554
+Timema 	 OG0002872.ref.mafft.n 	 2 	 0.1542 	 0.966 	 0.1295 	 0.8397
+Timema 	 OG0002873.ref.mafft.n 	 2 	 0.1128 	 1.148 	 0.1326 	 1.1752
+Timema 	 OG0002874.ref.mafft.n 	 2 	 0.0922 	 1.570 	 0.1688 	 1.8318
+Timema 	 OG0002875.ref.mafft.n 	 2 	 0.3592 	 2.137 	 0.5239 	 1.4586
+Timema 	 OG0002876.ref.mafft.n 	 2 	 0.0774 	 0.790 	 0.0828 	 1.0701
+Timema 	 OG0002877.ref.mafft.n 	 2 	 0.0917 	 0.885 	 0.1317 	 1.4356
+Timema 	 OG0002878.ref.mafft.n 	 2 	 0.1081 	 0.603 	 0.0936 	 0.8655
+Timema 	 OG0002879.ref.mafft.n 	 2 	 0.3977 	 1.445 	 0.3770 	 0.9482
+Timema 	 OG0002880.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002882.ref.mafft.n 	 2 	 0.1064 	 1.154 	 0.1218 	 1.1447
+Timema 	 OG0002883.ref.mafft.n 	 2 	 0.2943 	 2.554 	 0.5569 	 1.8922
+Timema 	 OG0002885.ref.mafft.n 	 2 	 0.0359 	 1.402 	 0.0767 	 2.1378
+Timema 	 OG0002886.ref.mafft.n 	 2 	 0.2019 	 2.253 	 0.3855 	 1.9098
+Timema 	 OG0002887.ref.mafft.n 	 2 	 0.1253 	 0.994 	 0.1210 	 0.9656
+Timema 	 OG0002888.ref.mafft.n 	 2 	 0.0660 	 1.009 	 0.0986 	 1.4926
+Timema 	 OG0002889.ref.mafft.n 	 2 	 0.0888 	 2.892 	 0.2722 	 3.0660
+Timema 	 OG0002890.ref.mafft.n 	 2 	 0.0723 	 1.020 	 0.0907 	 1.2553
+Timema 	 OG0002891.ref.mafft.n 	 2 	 0.0399 	 1.213 	 0.0747 	 1.8715
+Timema 	 OG0002892.ref.mafft.n 	 2 	 0.1058 	 2.671 	 0.2721 	 2.5705
+Timema 	 OG0002893.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002894.ref.mafft.n 	 2 	 0.0729 	 1.099 	 0.0965 	 1.3232
+Timema 	 OG0002895.ref.mafft.n 	 2 	 0.0757 	 1.347 	 0.1285 	 1.6976
+Timema 	 OG0002897.ref.mafft.n 	 2 	 0.1850 	 2.298 	 0.3488 	 1.8852
+Timema 	 OG0002898.ref.mafft.n 	 2 	 0.1307 	 1.579 	 0.2196 	 1.6807
+Timema 	 OG0002899.ref.mafft.n 	 2 	 0.1746 	 1.303 	 0.2082 	 1.1922
+Timema 	 OG0002901.ref.mafft.n 	 2 	 0.0867 	 1.234 	 0.1397 	 1.6112
+Timema 	 OG0002902.ref.mafft.n 	 2 	 0.3199 	 1.261 	 0.2789 	 0.8717
+Timema 	 OG0002903.ref.mafft.n 	 2 	 0.2093 	 1.675 	 0.2984 	 1.4256
+Timema 	 OG0002904.ref.mafft.n 	 2 	 0.0440 	 1.253 	 0.0729 	 1.6558
+Timema 	 OG0002906.ref.mafft.n 	 2 	 0.1893 	 1.563 	 0.2459 	 1.2994
+Timema 	 OG0002907.ref.mafft.n 	 2 	 0.0300 	 0.683 	 0.0303 	 1.0069
+Timema 	 OG0002908.ref.mafft.n 	 2 	 0.3769 	 1.491 	 0.3563 	 0.9452
+Timema 	 OG0002909.ref.mafft.n 	 2 	 0.1363 	 2.056 	 0.2469 	 1.8105
+Timema 	 OG0002911.ref.mafft.n 	 2 	 0.0729 	 0.858 	 0.0880 	 1.2066
+Timema 	 OG0002913.ref.mafft.n 	 2 	 0.1617 	 1.256 	 0.1870 	 1.1563
+Timema 	 OG0002914.ref.mafft.n 	 2 	 0.3273 	 1.497 	 0.3272 	 0.9997
+Timema 	 OG0002915.ref.mafft.n 	 2 	 0.1541 	 1.167 	 0.1723 	 1.1177
+Timema 	 OG0002916.ref.mafft.n 	 2 	 0.0389 	 0.980 	 0.0544 	 1.3967
+Timema 	 OG0002917.ref.mafft.n 	 2 	 0.0600 	 1.381 	 0.0853 	 1.4225
+Timema 	 OG0002918.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002919.ref.mafft.n 	 2 	 0.0857 	 0.845 	 0.1133 	 1.3214
+Timema 	 OG0002920.ref.mafft.n 	 2 	 0.2861 	 1.734 	 0.3667 	 1.2817
+Timema 	 OG0002921.ref.mafft.n 	 2 	 0.1174 	 1.286 	 0.1525 	 1.2993
+Timema 	 OG0002924.ref.mafft.n 	 2 	 0.2850 	 2.398 	 0.4972 	 1.7442
+Timema 	 OG0002926.ref.mafft.n 	 2 	 0.1177 	 1.420 	 0.1654 	 1.4044
+Timema 	 OG0002927.ref.mafft.n 	 2 	 0.1219 	 1.735 	 0.1889 	 1.5492
+Timema 	 OG0002928.ref.mafft.n 	 2 	 0.3341 	 0.953 	 0.2205 	 0.6598
+Timema 	 OG0002931.ref.mafft.n 	 2 	 0.1145 	 1.392 	 0.2150 	 1.8784
+Timema 	 OG0002932.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002935.ref.mafft.n 	 2 	 0.1219 	 1.218 	 0.1607 	 1.3188
+Timema 	 OG0002936.ref.mafft.n 	 2 	 0.2531 	 2.053 	 0.3967 	 1.5674
+Timema 	 OG0002937.ref.mafft.n 	 2 	 0.1651 	 1.571 	 0.2239 	 1.3564
+Timema 	 OG0002938.ref.mafft.n 	 2 	 0.0767 	 1.269 	 0.1197 	 1.5617
+Timema 	 OG0002939.ref.mafft.n 	 2 	 0.2167 	 1.761 	 0.3038 	 1.4023
+Timema 	 OG0002942.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002943.ref.mafft.n 	 2 	 0.2329 	 1.862 	 0.3921 	 1.6831
+Timema 	 OG0002944.ref.mafft.n 	 2 	 0.2826 	 1.678 	 0.3408 	 1.2058
+Timema 	 OG0002945.ref.mafft.n 	 2 	 0.1790 	 1.378 	 0.2457 	 1.3728
+Timema 	 OG0002950.ref.mafft.n 	 2 	 0.1209 	 1.433 	 0.1697 	 1.4042
+Timema 	 OG0002956.ref.mafft.n 	 2 	 0.2530 	 2.046 	 0.4384 	 1.7328
+Timema 	 OG0002958.ref.mafft.n 	 2 	 0.1365 	 1.271 	 0.1782 	 1.3050
+Timema 	 OG0002960.ref.mafft.n 	 2 	 0.1779 	 1.024 	 0.1721 	 0.9675
+Timema 	 OG0002961.ref.mafft.n 	 2 	 0.0186 	 0.722 	 0.0189 	 1.0172
+Timema 	 OG0002963.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002964.ref.mafft.n 	 2 	 0.0864 	 4.635 	 0.4511 	 5.2236
+Timema 	 OG0002965.ref.mafft.n 	 2 	 0.1955 	 1.486 	 0.2453 	 1.2543
+Timema 	 OG0002966.ref.mafft.n 	 2 	 0.2999 	 2.336 	 0.5445 	 1.8157
+Timema 	 OG0002967.ref.mafft.n 	 2 	 0.2471 	 1.066 	 0.2221 	 0.8987
+Timema 	 OG0002968.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002969.ref.mafft.n 	 2 	 0.1639 	 1.902 	 0.2869 	 1.7500
+Timema 	 OG0002970.ref.mafft.n 	 2 	 0.2015 	 1.259 	 0.2033 	 1.0094
+Timema 	 OG0002971.ref.mafft.n 	 2 	 0.1603 	 0.962 	 0.1406 	 0.8772
+Timema 	 OG0002972.ref.mafft.n 	 2 	 0.1699 	 1.408 	 0.2410 	 1.4181
+Timema 	 OG0002974.ref.mafft.n 	 2 	 0.0925 	 1.242 	 0.1448 	 1.5652
+Timema 	 OG0002976.ref.mafft.n 	 2 	 0.0947 	 1.104 	 0.1192 	 1.2580
+Timema 	 OG0002977.ref.mafft.n 	 2 	 0.0183 	 2.439 	 0.0634 	 3.4594
+Timema 	 OG0002978.ref.mafft.n 	 2 	 0.1115 	 1.349 	 0.1676 	 1.5035
+Timema 	 OG0002980.ref.mafft.n 	 2 	 0.3703 	 1.713 	 0.3982 	 1.0751
+Timema 	 OG0002982.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002983.ref.mafft.n 	 2 	 0.1777 	 1.298 	 0.2286 	 1.2866
+Timema 	 OG0002984.ref.mafft.n 	 2 	 0.2652 	 1.388 	 0.2820 	 1.0632
+Timema 	 OG0002986.ref.mafft.n 	 2 	 0.0748 	 2.317 	 0.1784 	 2.3852
+Timema 	 OG0002987.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002988.ref.mafft.n 	 2 	 0.1572 	 1.068 	 0.1398 	 0.8891
+Timema 	 OG0002989.ref.mafft.n 	 2 	 0.0742 	 1.200 	 0.1123 	 1.5136
+Timema 	 OG0002990.ref.mafft.n 	 2 	 0.0671 	 1.416 	 0.1148 	 1.7110
+Timema 	 OG0002991.ref.mafft.n 	 2 	 0.2894 	 1.251 	 0.2945 	 1.0177
+Timema 	 OG0002992.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0002994.ref.mafft.n 	 2 	 0.0409 	 0.564 	 0.0356 	 0.8711
+Timema 	 OG0002995.ref.mafft.n 	 2 	 0.2324 	 1.789 	 0.3334 	 1.4348
+Timema 	 OG0002997.ref.mafft.n 	 2 	 0.3716 	 0.525 	 0.1189 	 0.3199
+Timema 	 OG0002999.ref.mafft.n 	 2 	 0.1848 	 1.138 	 0.1869 	 1.0110
+Timema 	 OG0003001.ref.mafft.n 	 2 	 0.3614 	 1.366 	 0.2935 	 0.8120
+Timema 	 OG0003003.ref.mafft.n 	 2 	 0.2114 	 1.399 	 0.2632 	 1.2450
+Timema 	 OG0003004.ref.mafft.n 	 2 	 0.0911 	 1.519 	 0.1550 	 1.7018
+Timema 	 OG0003008.ref.mafft.n 	 2 	 0.3409 	 1.764 	 0.3975 	 1.1661
+Timema 	 OG0003009.ref.mafft.n 	 2 	 0.2036 	 1.250 	 0.2515 	 1.2353
+Timema 	 OG0003011.ref.mafft.n 	 2 	 0.1612 	 0.872 	 0.1271 	 0.7889
+Timema 	 OG0003012.ref.mafft.n 	 2 	 0.0745 	 0.973 	 0.0861 	 1.1550
+Timema 	 OG0003013.ref.mafft.n 	 2 	 0.1322 	 0.920 	 0.1405 	 1.0624
+Timema 	 OG0003014.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003016.ref.mafft.n 	 2 	 0.1379 	 0.978 	 0.1251 	 0.9074
+Timema 	 OG0003017.ref.mafft.n 	 2 	 0.0702 	 2.192 	 0.2163 	 3.0825
+Timema 	 OG0003018.ref.mafft.n 	 2 	 0.2915 	 1.408 	 0.3019 	 1.0357
+Timema 	 OG0003020.ref.mafft.n 	 2 	 0.2058 	 1.625 	 0.2672 	 1.2982
+Timema 	 OG0003022.ref.mafft.n 	 2 	 0.1672 	 2.584 	 0.4006 	 2.3961
+Timema 	 OG0003023.ref.mafft.n 	 2 	 0.2354 	 1.615 	 0.3136 	 1.3323
+Timema 	 OG0003026.ref.mafft.n 	 2 	 0.0972 	 0.963 	 0.1094 	 1.1257
+Timema 	 OG0003027.ref.mafft.n 	 2 	 0.0920 	 1.352 	 0.1196 	 1.2997
+Timema 	 OG0003028.ref.mafft.n 	 2 	 0.3570 	 1.302 	 0.2969 	 0.8315
+Timema 	 OG0003029.ref.mafft.n 	 2 	 0.0939 	 0.805 	 0.0888 	 0.9457
+Timema 	 OG0003030.ref.mafft.n 	 2 	 0.0486 	 0.935 	 0.0797 	 1.6384
+Timema 	 OG0003032.ref.mafft.n 	 2 	 0.1131 	 1.714 	 0.2172 	 1.9203
+Timema 	 OG0003034.ref.mafft.n 	 2 	 0.2578 	 1.926 	 0.3812 	 1.4788
+Timema 	 OG0003035.ref.mafft.n 	 2 	 0.0341 	 1.575 	 0.0691 	 2.0234
+Timema 	 OG0003036.ref.mafft.n 	 2 	 0.1991 	 2.847 	 0.4874 	 2.4475
+Timema 	 OG0003037.ref.mafft.n 	 2 	 0.0739 	 1.169 	 0.1007 	 1.3630
+Timema 	 OG0003038.ref.mafft.n 	 2 	 0.4373 	 1.402 	 0.3489 	 0.7977
+Timema 	 OG0003040.ref.mafft.n 	 2 	 0.1084 	 1.733 	 0.1799 	 1.6592
+Timema 	 OG0003041.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003042.ref.mafft.n 	 2 	 0.0389 	 0.888 	 0.0564 	 1.4475
+Timema 	 OG0003043.ref.mafft.n 	 2 	 0.0505 	 0.992 	 0.0667 	 1.3200
+Timema 	 OG0003044.ref.mafft.n 	 2 	 0.2429 	 3.742 	 0.6788 	 2.7951
+Timema 	 OG0003046.ref.mafft.n 	 2 	 0.1318 	 0.990 	 0.1429 	 1.0849
+Timema 	 OG0003047.ref.mafft.n 	 2 	 0.3192 	 1.394 	 0.3348 	 1.0490
+Timema 	 OG0003048.ref.mafft.n 	 2 	 0.1623 	 1.120 	 0.1698 	 1.0467
+Timema 	 OG0003049.ref.mafft.n 	 2 	 0.1878 	 1.520 	 0.2523 	 1.3439
+Timema 	 OG0003050.ref.mafft.n 	 2 	 0.0753 	 1.472 	 0.1417 	 1.8802
+Timema 	 OG0003051.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003052.ref.mafft.n 	 2 	 0.1957 	 0.851 	 0.1516 	 0.7746
+Timema 	 OG0003053.ref.mafft.n 	 2 	 0.0402 	 1.493 	 0.0729 	 1.8119
+Timema 	 OG0003057.ref.mafft.n 	 2 	 0.2152 	 1.897 	 0.2965 	 1.3775
+Timema 	 OG0003058.ref.mafft.n 	 2 	 0.0278 	 0.618 	 0.0406 	 1.4645
+Timema 	 OG0003059.ref.mafft.n 	 2 	 0.4028 	 1.650 	 0.3956 	 0.9820
+Timema 	 OG0003060.ref.mafft.n 	 2 	 0.1573 	 1.321 	 0.2084 	 1.3250
+Timema 	 OG0003061.ref.mafft.n 	 2 	 0.0879 	 1.088 	 0.1220 	 1.3890
+Timema 	 OG0003063.ref.mafft.n 	 2 	 0.0202 	 1.075 	 0.0281 	 1.3917
+Timema 	 OG0003066.ref.mafft.n 	 2 	 0.0637 	 1.067 	 0.0760 	 1.1943
+Timema 	 OG0003067.ref.mafft.n 	 2 	 0.1668 	 1.363 	 0.2289 	 1.3726
+Timema 	 OG0003069.ref.mafft.n 	 2 	 0.0174 	 1.113 	 0.0316 	 1.8170
+Timema 	 OG0003070.ref.mafft.n 	 2 	 0.1196 	 1.202 	 0.1526 	 1.2761
+Timema 	 OG0003071.ref.mafft.n 	 2 	 0.1293 	 1.028 	 0.1655 	 1.2803
+Timema 	 OG0003072.ref.mafft.n 	 2 	 0.0289 	 1.175 	 0.0531 	 1.8385
+Timema 	 OG0003075.ref.mafft.n 	 2 	 0.2095 	 1.204 	 0.2280 	 1.0883
+Timema 	 OG0003076.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003078.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003079.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003080.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003082.ref.mafft.n 	 2 	 0.0911 	 1.044 	 0.1146 	 1.2589
+Timema 	 OG0003084.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003087.ref.mafft.n 	 2 	 0.1125 	 1.061 	 0.1289 	 1.1458
+Timema 	 OG0003088.ref.mafft.n 	 2 	 0.1767 	 1.158 	 0.1885 	 1.0664
+Timema 	 OG0003089.ref.mafft.n 	 2 	 0.2057 	 1.755 	 0.2947 	 1.4322
+Timema 	 OG0003090.ref.mafft.n 	 2 	 0.1483 	 1.040 	 0.1650 	 1.1126
+Timema 	 OG0003092.ref.mafft.n 	 2 	 0.0235 	 0.990 	 0.0307 	 1.3047
+Timema 	 OG0003093.ref.mafft.n 	 2 	 0.1902 	 1.005 	 0.1559 	 0.8197
+Timema 	 OG0003095.ref.mafft.n 	 2 	 0.0638 	 0.983 	 0.0823 	 1.2909
+Timema 	 OG0003096.ref.mafft.n 	 2 	 0.1224 	 1.960 	 0.2357 	 1.9251
+Timema 	 OG0003098.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003099.ref.mafft.n 	 2 	 0.1273 	 1.459 	 0.1772 	 1.3921
+Timema 	 OG0003100.ref.mafft.n 	 2 	 0.1658 	 1.100 	 0.1725 	 1.0404
+Timema 	 OG0003104.ref.mafft.n 	 2 	 0.0923 	 1.114 	 0.1161 	 1.2588
+Timema 	 OG0003106.ref.mafft.n 	 2 	 0.0966 	 1.300 	 0.1289 	 1.3337
+Timema 	 OG0003107.ref.mafft.n 	 2 	 0.0933 	 1.084 	 0.1129 	 1.2104
+Timema 	 OG0003108.ref.mafft.n 	 2 	 0.1185 	 0.859 	 0.1051 	 0.8871
+Timema 	 OG0003109.ref.mafft.n 	 2 	 0.0282 	 1.184 	 0.0453 	 1.6047
+Timema 	 OG0003110.ref.mafft.n 	 2 	 0.0964 	 0.905 	 0.0996 	 1.0334
+Timema 	 OG0003111.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003112.ref.mafft.n 	 2 	 0.2359 	 1.320 	 0.2500 	 1.0601
+Timema 	 OG0003115.ref.mafft.n 	 2 	 0.1856 	 1.827 	 0.2996 	 1.6138
+Timema 	 OG0003117.ref.mafft.n 	 2 	 0.1535 	 1.751 	 0.2460 	 1.6027
+Timema 	 OG0003118.ref.mafft.n 	 2 	 0.1059 	 1.141 	 0.1262 	 1.1920
+Timema 	 OG0003120.ref.mafft.n 	 2 	 0.1305 	 1.523 	 0.2151 	 1.6487
+Timema 	 OG0003121.ref.mafft.n 	 2 	 0.2429 	 1.046 	 0.1938 	 0.7980
+Timema 	 OG0003122.ref.mafft.n 	 2 	 0.0718 	 2.025 	 0.1700 	 2.3680
+Timema 	 OG0003123.ref.mafft.n 	 2 	 0.0878 	 1.054 	 0.1196 	 1.3622
+Timema 	 OG0003124.ref.mafft.n 	 2 	 0.1392 	 2.494 	 0.2320 	 1.6664
+Timema 	 OG0003125.ref.mafft.n 	 2 	 0.1532 	 1.593 	 0.2238 	 1.4608
+Timema 	 OG0003127.ref.mafft.n 	 2 	 0.1208 	 2.373 	 0.2856 	 2.3646
+Timema 	 OG0003128.ref.mafft.n 	 2 	 0.0675 	 0.906 	 0.0699 	 1.0366
+Timema 	 OG0003130.ref.mafft.n 	 2 	 0.0303 	 0.896 	 0.0364 	 1.1999
+Timema 	 OG0003131.ref.mafft.n 	 2 	 0.2749 	 1.580 	 0.3233 	 1.1760
+Timema 	 OG0003132.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003134.ref.mafft.n 	 2 	 0.1859 	 1.065 	 0.1639 	 0.8819
+Timema 	 OG0003135.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003136.ref.mafft.n 	 2 	 0.0553 	 3.409 	 0.2174 	 3.9285
+Timema 	 OG0003138.ref.mafft.n 	 2 	 0.0562 	 1.784 	 0.1278 	 2.2742
+Timema 	 OG0003139.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003140.ref.mafft.n 	 2 	 0.2258 	 0.959 	 0.2036 	 0.9018
+Timema 	 OG0003141.ref.mafft.n 	 2 	 0.4082 	 0.974 	 0.2437 	 0.5969
+Timema 	 OG0003142.ref.mafft.n 	 2 	 0.2643 	 0.742 	 0.1401 	 0.5301
+Timema 	 OG0003143.ref.mafft.n 	 2 	 0.0878 	 0.875 	 0.0900 	 1.0256
+Timema 	 OG0003144.ref.mafft.n 	 2 	 0.1976 	 2.564 	 0.4266 	 2.1591
+Timema 	 OG0003147.ref.mafft.n 	 2 	 0.1802 	 1.434 	 0.2404 	 1.3340
+Timema 	 OG0003148.ref.mafft.n 	 2 	 0.1315 	 2.549 	 0.3075 	 2.3380
+Timema 	 OG0003149.ref.mafft.n 	 2 	 0.2260 	 1.618 	 0.3203 	 1.4170
+Timema 	 OG0003151.ref.mafft.n 	 2 	 0.2489 	 1.388 	 0.2496 	 1.0028
+Timema 	 OG0003152.ref.mafft.n 	 2 	 0.0795 	 0.580 	 0.0611 	 0.7685
+Timema 	 OG0003155.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003156.ref.mafft.n 	 2 	 0.0855 	 1.319 	 0.1322 	 1.5465
+Timema 	 OG0003159.ref.mafft.n 	 2 	 0.2383 	 1.244 	 0.2359 	 0.9896
+Timema 	 OG0003161.ref.mafft.n 	 2 	 0.0862 	 0.732 	 0.0919 	 1.0652
+Timema 	 OG0003163.ref.mafft.n 	 2 	 0.4403 	 1.312 	 0.3342 	 0.7590
+Timema 	 OG0003164.ref.mafft.n 	 2 	 0.1394 	 1.357 	 0.2118 	 1.5194
+Timema 	 OG0003165.ref.mafft.n 	 2 	 0.1126 	 1.051 	 0.1395 	 1.2388
+Timema 	 OG0003166.ref.mafft.n 	 2 	 0.2206 	 0.960 	 0.1704 	 0.7723
+Timema 	 OG0003167.ref.mafft.n 	 2 	 0.0367 	 1.288 	 0.0720 	 1.9643
+Timema 	 OG0003168.ref.mafft.n 	 2 	 0.0674 	 0.694 	 0.0623 	 0.9239
+Timema 	 OG0003169.ref.mafft.n 	 2 	 0.0908 	 0.627 	 0.0648 	 0.7138
+Timema 	 OG0003170.ref.mafft.n 	 2 	 0.0218 	 1.420 	 0.0664 	 3.0455
+Timema 	 OG0003172.ref.mafft.n 	 2 	 0.0758 	 0.748 	 0.0636 	 0.8394
+Timema 	 OG0003174.ref.mafft.n 	 2 	 0.1360 	 1.094 	 0.1525 	 1.1216
+Timema 	 OG0003175.ref.mafft.n 	 2 	 0.2106 	 1.949 	 0.3268 	 1.5521
+Timema 	 OG0003177.ref.mafft.n 	 2 	 0.1281 	 1.646 	 0.2169 	 1.6929
+Timema 	 OG0003178.ref.mafft.n 	 2 	 0.2869 	 1.340 	 0.2847 	 0.9926
+Timema 	 OG0003179.ref.mafft.n 	 2 	 0.0558 	 0.786 	 0.0586 	 1.0513
+Timema 	 OG0003180.ref.mafft.n 	 2 	 0.2306 	 0.900 	 0.1788 	 0.7754
+Timema 	 OG0003181.ref.mafft.n 	 2 	 0.1051 	 0.850 	 0.0913 	 0.8687
+Timema 	 OG0003182.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003183.ref.mafft.n 	 2 	 0.0955 	 1.132 	 0.1246 	 1.3046
+Timema 	 OG0003185.ref.mafft.n 	 2 	 0.1347 	 1.160 	 0.1640 	 1.2176
+Timema 	 OG0003186.ref.mafft.n 	 2 	 0.1890 	 1.110 	 0.1849 	 0.9784
+Timema 	 OG0003187.ref.mafft.n 	 2 	 0.1547 	 1.080 	 0.1903 	 1.2299
+Timema 	 OG0003192.ref.mafft.n 	 2 	 0.1048 	 0.958 	 0.1150 	 1.0978
+Timema 	 OG0003193.ref.mafft.n 	 2 	 0.1695 	 1.332 	 0.2039 	 1.2035
+Timema 	 OG0003195.ref.mafft.n 	 2 	 0.3524 	 1.071 	 0.2723 	 0.7726
+Timema 	 OG0003197.ref.mafft.n 	 2 	 0.1697 	 1.655 	 0.2239 	 1.3194
+Timema 	 OG0003199.ref.mafft.n 	 2 	 0.1027 	 1.402 	 0.1737 	 1.6912
+Timema 	 OG0003200.ref.mafft.n 	 2 	 0.1500 	 1.488 	 0.2119 	 1.4126
+Timema 	 OG0003201.ref.mafft.n 	 2 	 0.0639 	 1.130 	 0.0849 	 1.3275
+Timema 	 OG0003202.ref.mafft.n 	 2 	 0.1188 	 2.877 	 0.3287 	 2.7680
+Timema 	 OG0003203.ref.mafft.n 	 2 	 0.1183 	 1.122 	 0.1491 	 1.2605
+Timema 	 OG0003204.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003205.ref.mafft.n 	 2 	 0.1015 	 1.411 	 0.1566 	 1.5427
+Timema 	 OG0003206.ref.mafft.n 	 2 	 0.2138 	 1.147 	 0.1980 	 0.9259
+Timema 	 OG0003207.ref.mafft.n 	 2 	 0.0902 	 1.083 	 0.1173 	 1.2997
+Timema 	 OG0003208.ref.mafft.n 	 2 	 0.1198 	 1.186 	 0.1803 	 1.5052
+Timema 	 OG0003209.ref.mafft.n 	 2 	 0.3188 	 2.026 	 0.4266 	 1.3383
+Timema 	 OG0003210.ref.mafft.n 	 2 	 0.2384 	 1.682 	 0.3128 	 1.3124
+Timema 	 OG0003211.ref.mafft.n 	 2 	 0.0446 	 0.985 	 0.0641 	 1.4354
+Timema 	 OG0003212.ref.mafft.n 	 2 	 0.0684 	 1.060 	 0.1161 	 1.6975
+Timema 	 OG0003213.ref.mafft.n 	 2 	 0.0544 	 1.065 	 0.0813 	 1.4952
+Timema 	 OG0003215.ref.mafft.n 	 2 	 0.1872 	 1.442 	 0.2231 	 1.1916
+Timema 	 OG0003216.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003217.ref.mafft.n 	 2 	 0.1546 	 0.959 	 0.1511 	 0.9775
+Timema 	 OG0003218.ref.mafft.n 	 2 	 0.1643 	 1.169 	 0.1878 	 1.1434
+Timema 	 OG0003219.ref.mafft.n 	 2 	 0.1971 	 1.404 	 0.2289 	 1.1617
+Timema 	 OG0003221.ref.mafft.n 	 2 	 0.0885 	 1.087 	 0.1089 	 1.2306
+Timema 	 OG0003222.ref.mafft.n 	 2 	 0.1275 	 1.004 	 0.1375 	 1.0789
+Timema 	 OG0003223.ref.mafft.n 	 2 	 0.0387 	 1.553 	 0.0675 	 1.7429
+Timema 	 OG0003224.ref.mafft.n 	 2 	 0.1345 	 1.257 	 0.1610 	 1.1968
+Timema 	 OG0003225.ref.mafft.n 	 2 	 0.0779 	 1.331 	 0.1108 	 1.4222
+Timema 	 OG0003227.ref.mafft.n 	 2 	 0.0459 	 0.933 	 0.0736 	 1.6036
+Timema 	 OG0003228.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003230.ref.mafft.n 	 2 	 0.1919 	 1.148 	 0.2142 	 1.1162
+Timema 	 OG0003231.ref.mafft.n 	 2 	 0.2492 	 2.241 	 0.4271 	 1.7137
+Timema 	 OG0003233.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003234.ref.mafft.n 	 2 	 0.0964 	 5.150 	 0.4963 	 5.1482
+Timema 	 OG0003237.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003239.ref.mafft.n 	 2 	 0.3982 	 2.207 	 0.5281 	 1.3262
+Timema 	 OG0003240.ref.mafft.n 	 2 	 0.0207 	 2.790 	 0.0745 	 3.6017
+Timema 	 OG0003241.ref.mafft.n 	 2 	 0.1402 	 1.649 	 0.2314 	 1.6499
+Timema 	 OG0003242.ref.mafft.n 	 2 	 0.1873 	 1.511 	 0.2513 	 1.3421
+Timema 	 OG0003243.ref.mafft.n 	 2 	 0.1713 	 1.052 	 0.1655 	 0.9658
+Timema 	 OG0003244.ref.mafft.n 	 2 	 0.2770 	 1.196 	 0.2498 	 0.9016
+Timema 	 OG0003245.ref.mafft.n 	 2 	 0.0877 	 1.057 	 0.1130 	 1.2887
+Timema 	 OG0003247.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003249.ref.mafft.n 	 2 	 0.2115 	 3.594 	 0.6393 	 3.0236
+Timema 	 OG0003250.ref.mafft.n 	 2 	 0.3420 	 2.210 	 0.4627 	 1.3531
+Timema 	 OG0003251.ref.mafft.n 	 2 	 0.1593 	 1.606 	 0.2589 	 1.6255
+Timema 	 OG0003252.ref.mafft.n 	 2 	 0.1780 	 2.416 	 0.3414 	 1.9182
+Timema 	 OG0003253.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003254.ref.mafft.n 	 2 	 0.1097 	 0.800 	 0.1068 	 0.9736
+Timema 	 OG0003255.ref.mafft.n 	 2 	 0.2758 	 1.205 	 0.2466 	 0.8943
+Timema 	 OG0003258.ref.mafft.n 	 2 	 0.0589 	 1.348 	 0.0862 	 1.4630
+Timema 	 OG0003259.ref.mafft.n 	 2 	 0.0786 	 1.963 	 0.1587 	 2.0182
+Timema 	 OG0003260.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003262.ref.mafft.n 	 2 	 0.0653 	 0.826 	 0.0712 	 1.0902
+Timema 	 OG0003264.ref.mafft.n 	 2 	 0.1324 	 2.107 	 0.2830 	 2.1376
+Timema 	 OG0003266.ref.mafft.n 	 2 	 0.2083 	 1.088 	 0.1848 	 0.8873
+Timema 	 OG0003267.ref.mafft.n 	 2 	 0.0928 	 0.899 	 0.1046 	 1.1277
+Timema 	 OG0003269.ref.mafft.n 	 2 	 0.2172 	 1.692 	 0.3053 	 1.4059
+Timema 	 OG0003270.ref.mafft.n 	 2 	 0.0665 	 1.001 	 0.1185 	 1.7822
+Timema 	 OG0003271.ref.mafft.n 	 2 	 0.1739 	 1.610 	 0.2331 	 1.3404
+Timema 	 OG0003272.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003273.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003274.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003275.ref.mafft.n 	 2 	 0.2698 	 1.260 	 0.2693 	 0.9983
+Timema 	 OG0003276.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003277.ref.mafft.n 	 2 	 0.2392 	 1.013 	 0.1974 	 0.8253
+Timema 	 OG0003278.ref.mafft.n 	 2 	 0.1015 	 1.803 	 0.2007 	 1.9764
+Timema 	 OG0003279.ref.mafft.n 	 2 	 0.0232 	 0.537 	 0.0178 	 0.7645
+Timema 	 OG0003281.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003282.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003284.ref.mafft.n 	 2 	 0.1780 	 1.623 	 0.2566 	 1.4415
+Timema 	 OG0003285.ref.mafft.n 	 2 	 0.4503 	 1.796 	 0.4685 	 1.0404
+Timema 	 OG0003287.ref.mafft.n 	 2 	 0.2570 	 2.260 	 0.4675 	 1.8191
+Timema 	 OG0003289.ref.mafft.n 	 2 	 0.2887 	 1.241 	 0.2597 	 0.8996
+Timema 	 OG0003290.ref.mafft.n 	 2 	 0.1211 	 0.992 	 0.1154 	 0.9530
+Timema 	 OG0003292.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003293.ref.mafft.n 	 2 	 0.1259 	 1.245 	 0.1703 	 1.3526
+Timema 	 OG0003296.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003297.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003298.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003299.ref.mafft.n 	 2 	 0.1191 	 0.981 	 0.1381 	 1.1592
+Timema 	 OG0003302.ref.mafft.n 	 2 	 0.1997 	 1.239 	 0.2198 	 1.1010
+Timema 	 OG0003305.ref.mafft.n 	 2 	 0.0392 	 1.066 	 0.0584 	 1.4890
+Timema 	 OG0003307.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003309.ref.mafft.n 	 2 	 0.0375 	 1.267 	 0.0618 	 1.6503
+Timema 	 OG0003310.ref.mafft.n 	 2 	 0.2611 	 1.347 	 0.2722 	 1.0427
+Timema 	 OG0003311.ref.mafft.n 	 2 	 0.0741 	 0.713 	 0.0630 	 0.8498
+Timema 	 OG0003312.ref.mafft.n 	 2 	 0.1440 	 1.678 	 0.2247 	 1.5600
+Timema 	 OG0003313.ref.mafft.n 	 2 	 0.1464 	 1.125 	 0.1695 	 1.1577
+Timema 	 OG0003315.ref.mafft.n 	 2 	 0.2239 	 1.110 	 0.1955 	 0.8731
+Timema 	 OG0003316.ref.mafft.n 	 2 	 0.0969 	 1.361 	 0.1446 	 1.4931
+Timema 	 OG0003317.ref.mafft.n 	 2 	 0.1646 	 3.156 	 0.4308 	 2.6166
+Timema 	 OG0003319.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003320.ref.mafft.n 	 2 	 0.0231 	 0.932 	 0.0305 	 1.3221
+Timema 	 OG0003322.ref.mafft.n 	 2 	 0.1554 	 1.343 	 0.1960 	 1.2609
+Timema 	 OG0003323.ref.mafft.n 	 2 	 0.0655 	 1.938 	 0.1528 	 2.3339
+Timema 	 OG0003324.ref.mafft.n 	 2 	 0.0692 	 1.367 	 0.1192 	 1.7225
+Timema 	 OG0003325.ref.mafft.n 	 2 	 0.1239 	 1.305 	 0.1566 	 1.2634
+Timema 	 OG0003326.ref.mafft.n 	 2 	 0.2377 	 1.439 	 0.2607 	 1.0967
+Timema 	 OG0003328.ref.mafft.n 	 2 	 0.2239 	 2.186 	 0.3894 	 1.7390
+Timema 	 OG0003330.ref.mafft.n 	 2 	 0.0386 	 1.809 	 0.0791 	 2.0482
+Timema 	 OG0003331.ref.mafft.n 	 2 	 0.0358 	 1.256 	 0.0622 	 1.7395
+Timema 	 OG0003332.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003333.ref.mafft.n 	 2 	 0.2205 	 1.861 	 0.3255 	 1.4757
+Timema 	 OG0003334.ref.mafft.n 	 2 	 0.2002 	 1.230 	 0.2033 	 1.0157
+Timema 	 OG0003335.ref.mafft.n 	 2 	 0.0793 	 1.184 	 0.1088 	 1.3724
+Timema 	 OG0003336.ref.mafft.n 	 2 	 0.0996 	 1.515 	 0.1781 	 1.7883
+Timema 	 OG0003338.ref.mafft.n 	 2 	 0.1792 	 1.667 	 0.2800 	 1.5626
+Timema 	 OG0003339.ref.mafft.n 	 2 	 0.1788 	 1.380 	 0.2010 	 1.1243
+Timema 	 OG0003343.ref.mafft.n 	 2 	 0.0187 	 0.894 	 0.0201 	 1.0795
+Timema 	 OG0003344.ref.mafft.n 	 2 	 0.3427 	 0.938 	 0.2133 	 0.6224
+Timema 	 OG0003346.ref.mafft.n 	 2 	 0.2060 	 1.381 	 0.2249 	 1.0920
+Timema 	 OG0003347.ref.mafft.n 	 2 	 0.0500 	 1.929 	 0.1233 	 2.4679
+Timema 	 OG0003348.ref.mafft.n 	 2 	 0.0745 	 1.154 	 0.1076 	 1.4450
+Timema 	 OG0003349.ref.mafft.n 	 2 	 0.0811 	 0.688 	 0.0641 	 0.7899
+Timema 	 OG0003352.ref.mafft.n 	 2 	 0.0637 	 0.830 	 0.0653 	 1.0256
+Timema 	 OG0003354.ref.mafft.n 	 2 	 0.1500 	 1.317 	 0.2113 	 1.4093
+Timema 	 OG0003355.ref.mafft.n 	 2 	 0.2811 	 1.592 	 0.3271 	 1.1636
+Timema 	 OG0003356.ref.mafft.n 	 2 	 0.2213 	 1.840 	 0.3070 	 1.3871
+Timema 	 OG0003357.ref.mafft.n 	 2 	 0.0648 	 0.994 	 0.0798 	 1.2309
+Timema 	 OG0003358.ref.mafft.n 	 2 	 0.0972 	 1.575 	 0.1638 	 1.6851
+Timema 	 OG0003359.ref.mafft.n 	 2 	 0.0097 	 0.994 	 0.0136 	 1.3925
+Timema 	 OG0003360.ref.mafft.n 	 2 	 0.1493 	 1.079 	 0.1495 	 1.0018
+Timema 	 OG0003362.ref.mafft.n 	 2 	 0.0626 	 1.162 	 0.0908 	 1.4499
+Timema 	 OG0003363.ref.mafft.n 	 2 	 0.0948 	 1.057 	 0.1050 	 1.1079
+Timema 	 OG0003364.ref.mafft.n 	 2 	 0.1083 	 2.105 	 0.2380 	 2.1986
+Timema 	 OG0003366.ref.mafft.n 	 2 	 0.1066 	 1.126 	 0.1537 	 1.4421
+Timema 	 OG0003369.ref.mafft.n 	 2 	 0.0611 	 2.481 	 0.1597 	 2.6123
+Timema 	 OG0003370.ref.mafft.n 	 2 	 0.0846 	 1.145 	 0.1134 	 1.3399
+Timema 	 OG0003372.ref.mafft.n 	 2 	 0.1688 	 1.122 	 0.1590 	 0.9417
+Timema 	 OG0003373.ref.mafft.n 	 2 	 0.1061 	 0.899 	 0.1133 	 1.0677
+Timema 	 OG0003374.ref.mafft.n 	 2 	 0.0777 	 1.257 	 0.1229 	 1.5822
+Timema 	 OG0003375.ref.mafft.n 	 2 	 0.0951 	 1.594 	 0.1619 	 1.7016
+Timema 	 OG0003376.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003377.ref.mafft.n 	 2 	 0.2592 	 1.127 	 0.2341 	 0.9034
+Timema 	 OG0003378.ref.mafft.n 	 2 	 0.3352 	 1.681 	 0.3668 	 1.0945
+Timema 	 OG0003379.ref.mafft.n 	 2 	 0.1976 	 2.321 	 0.3720 	 1.8823
+Timema 	 OG0003383.ref.mafft.n 	 2 	 0.3936 	 0.856 	 0.2129 	 0.5409
+Timema 	 OG0003384.ref.mafft.n 	 2 	 0.0781 	 0.938 	 0.0917 	 1.1742
+Timema 	 OG0003385.ref.mafft.n 	 2 	 0.3684 	 2.248 	 0.5360 	 1.4549
+Timema 	 OG0003386.ref.mafft.n 	 2 	 0.3547 	 1.180 	 0.2698 	 0.7607
+Timema 	 OG0003387.ref.mafft.n 	 2 	 0.1839 	 2.152 	 0.3462 	 1.8823
+Timema 	 OG0003388.ref.mafft.n 	 2 	 0.2458 	 2.010 	 0.3860 	 1.5699
+Timema 	 OG0003389.ref.mafft.n 	 2 	 0.3640 	 1.259 	 0.2961 	 0.8133
+Timema 	 OG0003390.ref.mafft.n 	 2 	 0.3057 	 1.073 	 0.2282 	 0.7466
+Timema 	 OG0003391.ref.mafft.n 	 2 	 0.1858 	 1.159 	 0.1495 	 0.8048
+Timema 	 OG0003392.ref.mafft.n 	 2 	 0.0560 	 1.034 	 0.0839 	 1.4977
+Timema 	 OG0003393.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003394.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003397.ref.mafft.n 	 2 	 0.1605 	 2.404 	 0.3633 	 2.2637
+Timema 	 OG0003398.ref.mafft.n 	 2 	 0.1632 	 1.409 	 0.2200 	 1.3483
+Timema 	 OG0003399.ref.mafft.n 	 2 	 0.0178 	 6.379 	 0.1400 	 7.8480
+Timema 	 OG0003400.ref.mafft.n 	 2 	 0.1513 	 0.970 	 0.1516 	 1.0025
+Timema 	 OG0003401.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003402.ref.mafft.n 	 2 	 0.1001 	 1.325 	 0.1470 	 1.4689
+Timema 	 OG0003405.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003406.ref.mafft.n 	 2 	 0.1110 	 1.404 	 0.1580 	 1.4236
+Timema 	 OG0003407.ref.mafft.n 	 2 	 0.1968 	 1.053 	 0.1809 	 0.9189
+Timema 	 OG0003409.ref.mafft.n 	 2 	 0.1898 	 1.381 	 0.2282 	 1.2026
+Timema 	 OG0003411.ref.mafft.n 	 2 	 0.2626 	 1.183 	 0.2299 	 0.8757
+Timema 	 OG0003412.ref.mafft.n 	 2 	 0.0315 	 1.097 	 0.0420 	 1.3314
+Timema 	 OG0003413.ref.mafft.n 	 2 	 0.0570 	 1.427 	 0.1051 	 1.8437
+Timema 	 OG0003414.ref.mafft.n 	 2 	 0.4166 	 2.382 	 0.5975 	 1.4343
+Timema 	 OG0003415.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003416.ref.mafft.n 	 2 	 0.0420 	 1.563 	 0.1035 	 2.4642
+Timema 	 OG0003417.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003418.ref.mafft.n 	 2 	 0.0913 	 1.553 	 0.1512 	 1.6567
+Timema 	 OG0003419.ref.mafft.n 	 2 	 0.1153 	 0.897 	 0.1042 	 0.9038
+Timema 	 OG0003420.ref.mafft.n 	 2 	 0.0455 	 1.060 	 0.0890 	 1.9574
+Timema 	 OG0003421.ref.mafft.n 	 2 	 0.0943 	 0.971 	 0.0996 	 1.0560
+Timema 	 OG0003422.ref.mafft.n 	 2 	 0.3268 	 1.564 	 0.3463 	 1.0598
+Timema 	 OG0003424.ref.mafft.n 	 2 	 0.0487 	 1.863 	 0.1195 	 2.4514
+Timema 	 OG0003425.ref.mafft.n 	 2 	 0.2166 	 0.942 	 0.1781 	 0.8224
+Timema 	 OG0003426.ref.mafft.n 	 2 	 0.2037 	 1.255 	 0.2383 	 1.1697
+Timema 	 OG0003427.ref.mafft.n 	 2 	 0.1441 	 1.985 	 0.2926 	 2.0303
+Timema 	 OG0003428.ref.mafft.n 	 2 	 0.3935 	 2.187 	 0.5140 	 1.3062
+Timema 	 OG0003429.ref.mafft.n 	 2 	 0.2919 	 1.360 	 0.2905 	 0.9952
+Timema 	 OG0003430.ref.mafft.n 	 2 	 0.2176 	 1.547 	 0.2782 	 1.2782
+Timema 	 OG0003431.ref.mafft.n 	 2 	 0.2302 	 1.478 	 0.2689 	 1.1679
+Timema 	 OG0003432.ref.mafft.n 	 2 	 0.4517 	 1.873 	 0.4817 	 1.0662
+Timema 	 OG0003434.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003435.ref.mafft.n 	 2 	 0.0754 	 1.148 	 0.0989 	 1.3118
+Timema 	 OG0003436.ref.mafft.n 	 2 	 0.1027 	 1.263 	 0.1336 	 1.3013
+Timema 	 OG0003437.ref.mafft.n 	 2 	 0.0731 	 1.417 	 0.1098 	 1.5026
+Timema 	 OG0003439.ref.mafft.n 	 2 	 0.1774 	 1.518 	 0.2355 	 1.3272
+Timema 	 OG0003440.ref.mafft.n 	 2 	 0.1578 	 1.498 	 0.2166 	 1.3725
+Timema 	 OG0003442.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003443.ref.mafft.n 	 2 	 0.1315 	 1.294 	 0.1766 	 1.3433
+Timema 	 OG0003444.ref.mafft.n 	 2 	 0.1793 	 1.761 	 0.2942 	 1.6407
+Timema 	 OG0003445.ref.mafft.n 	 2 	 0.2256 	 1.437 	 0.2530 	 1.1218
+Timema 	 OG0003447.ref.mafft.n 	 2 	 0.0864 	 1.169 	 0.1197 	 1.3848
+Timema 	 OG0003449.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003450.ref.mafft.n 	 2 	 0.1061 	 1.025 	 0.1179 	 1.1107
+Timema 	 OG0003452.ref.mafft.n 	 2 	 0.1228 	 1.101 	 0.1333 	 1.0857
+Timema 	 OG0003453.ref.mafft.n 	 2 	 0.0804 	 1.264 	 0.1172 	 1.4583
+Timema 	 OG0003454.ref.mafft.n 	 2 	 0.1604 	 1.588 	 0.2227 	 1.3881
+Timema 	 OG0003455.ref.mafft.n 	 2 	 0.0239 	 1.595 	 0.0601 	 2.5094
+Timema 	 OG0003456.ref.mafft.n 	 2 	 0.2250 	 1.261 	 0.2415 	 1.0732
+Timema 	 OG0003458.ref.mafft.n 	 2 	 0.0545 	 0.871 	 0.0624 	 1.1448
+Timema 	 OG0003460.ref.mafft.n 	 2 	 0.0690 	 7.273 	 0.5984 	 8.6663
+Timema 	 OG0003461.ref.mafft.n 	 2 	 0.0415 	 1.027 	 0.0666 	 1.6024
+Timema 	 OG0003462.ref.mafft.n 	 2 	 0.1753 	 1.824 	 0.2861 	 1.6320
+Timema 	 OG0003463.ref.mafft.n 	 2 	 0.1392 	 1.145 	 0.1605 	 1.1529
+Timema 	 OG0003466.ref.mafft.n 	 2 	 0.2472 	 1.919 	 0.3685 	 1.4905
+Timema 	 OG0003467.ref.mafft.n 	 2 	 0.1320 	 1.013 	 0.1375 	 1.0423
+Timema 	 OG0003468.ref.mafft.n 	 2 	 0.0360 	 1.011 	 0.0471 	 1.3064
+Timema 	 OG0003470.ref.mafft.n 	 2 	 0.0267 	 1.763 	 0.0611 	 2.2907
+Timema 	 OG0003471.ref.mafft.n 	 2 	 0.1095 	 1.118 	 0.1318 	 1.2037
+Timema 	 OG0003473.ref.mafft.n 	 2 	 0.0524 	 1.133 	 0.0762 	 1.4531
+Timema 	 OG0003474.ref.mafft.n 	 2 	 0.1035 	 1.338 	 0.1572 	 1.5190
+Timema 	 OG0003475.ref.mafft.n 	 2 	 0.2683 	 1.021 	 0.2084 	 0.7766
+Timema 	 OG0003476.ref.mafft.n 	 2 	 0.2136 	 1.538 	 0.3004 	 1.4064
+Timema 	 OG0003477.ref.mafft.n 	 2 	 0.1644 	 1.491 	 0.2350 	 1.4296
+Timema 	 OG0003478.ref.mafft.n 	 2 	 0.1145 	 1.313 	 0.1465 	 1.2790
+Timema 	 OG0003479.ref.mafft.n 	 2 	 0.0608 	 0.660 	 0.0514 	 0.8459
+Timema 	 OG0003480.ref.mafft.n 	 2 	 0.1097 	 1.347 	 0.1546 	 1.4089
+Timema 	 OG0003481.ref.mafft.n 	 2 	 0.1690 	 1.600 	 0.2192 	 1.2975
+Timema 	 OG0003484.ref.mafft.n 	 2 	 0.1148 	 0.899 	 0.1085 	 0.9452
+Timema 	 OG0003487.ref.mafft.n 	 2 	 0.3667 	 2.341 	 0.5400 	 1.4725
+Timema 	 OG0003488.ref.mafft.n 	 2 	 0.0428 	 1.512 	 0.0760 	 1.7733
+Timema 	 OG0003489.ref.mafft.n 	 2 	 0.0928 	 0.535 	 0.0775 	 0.8355
+Timema 	 OG0003491.ref.mafft.n 	 2 	 0.1345 	 1.195 	 0.1677 	 1.2467
+Timema 	 OG0003492.ref.mafft.n 	 2 	 0.2525 	 1.653 	 0.3339 	 1.3224
+Timema 	 OG0003494.ref.mafft.n 	 2 	 0.0453 	 1.012 	 0.0616 	 1.3607
+Timema 	 OG0003495.ref.mafft.n 	 2 	 0.0697 	 3.387 	 0.2615 	 3.7515
+Timema 	 OG0003496.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003497.ref.mafft.n 	 2 	 0.0589 	 1.147 	 0.0762 	 1.2934
+Timema 	 OG0003498.ref.mafft.n 	 2 	 0.0890 	 1.909 	 0.1985 	 2.2300
+Timema 	 OG0003499.ref.mafft.n 	 2 	 0.1354 	 1.163 	 0.1531 	 1.1301
+Timema 	 OG0003500.ref.mafft.n 	 2 	 0.1243 	 0.987 	 0.1399 	 1.1250
+Timema 	 OG0003501.ref.mafft.n 	 2 	 0.0531 	 1.098 	 0.0714 	 1.3458
+Timema 	 OG0003502.ref.mafft.n 	 2 	 0.0757 	 1.140 	 0.0969 	 1.2794
+Timema 	 OG0003503.ref.mafft.n 	 2 	 0.0633 	 1.218 	 0.0963 	 1.5206
+Timema 	 OG0003504.ref.mafft.n 	 2 	 0.2945 	 2.299 	 0.4706 	 1.5980
+Timema 	 OG0003507.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003508.ref.mafft.n 	 2 	 0.0874 	 1.055 	 0.1325 	 1.5167
+Timema 	 OG0003509.ref.mafft.n 	 2 	 0.2621 	 1.887 	 0.4081 	 1.5570
+Timema 	 OG0003510.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003511.ref.mafft.n 	 2 	 0.1468 	 1.189 	 0.1744 	 1.1880
+Timema 	 OG0003512.ref.mafft.n 	 2 	 0.1029 	 1.022 	 0.1200 	 1.1659
+Timema 	 OG0003515.ref.mafft.n 	 2 	 0.0863 	 1.244 	 0.1232 	 1.4270
+Timema 	 OG0003516.ref.mafft.n 	 2 	 0.1618 	 1.495 	 0.2178 	 1.3460
+Timema 	 OG0003519.ref.mafft.n 	 2 	 0.2434 	 1.395 	 0.2972 	 1.2208
+Timema 	 OG0003520.ref.mafft.n 	 2 	 0.1604 	 1.016 	 0.1712 	 1.0668
+Timema 	 OG0003521.ref.mafft.n 	 2 	 0.1615 	 1.730 	 0.2527 	 1.5644
+Timema 	 OG0003522.ref.mafft.n 	 2 	 0.2868 	 1.097 	 0.2359 	 0.8224
+Timema 	 OG0003524.ref.mafft.n 	 2 	 0.1409 	 1.141 	 0.1637 	 1.1623
+Timema 	 OG0003525.ref.mafft.n 	 2 	 0.2688 	 1.183 	 0.2482 	 0.9234
+Timema 	 OG0003527.ref.mafft.n 	 2 	 0.1677 	 1.031 	 0.1601 	 0.9551
+Timema 	 OG0003528.ref.mafft.n 	 2 	 0.0224 	 0.932 	 0.0322 	 1.4392
+Timema 	 OG0003529.ref.mafft.n 	 2 	 0.4619 	 1.174 	 0.3036 	 0.6574
+Timema 	 OG0003530.ref.mafft.n 	 2 	 0.0786 	 1.296 	 0.1112 	 1.4142
+Timema 	 OG0003532.ref.mafft.n 	 2 	 0.0346 	 0.752 	 0.0356 	 1.0282
+Timema 	 OG0003533.ref.mafft.n 	 2 	 0.1543 	 1.147 	 0.1539 	 0.9973
+Timema 	 OG0003534.ref.mafft.n 	 2 	 0.0655 	 1.768 	 0.1463 	 2.2336
+Timema 	 OG0003536.ref.mafft.n 	 2 	 0.1466 	 1.595 	 0.2299 	 1.5678
+Timema 	 OG0003537.ref.mafft.n 	 2 	 0.2531 	 1.061 	 0.2149 	 0.8492
+Timema 	 OG0003538.ref.mafft.n 	 2 	 0.2148 	 1.606 	 0.3050 	 1.4199
+Timema 	 OG0003539.ref.mafft.n 	 2 	 0.0504 	 1.915 	 0.1242 	 2.4652
+Timema 	 OG0003540.ref.mafft.n 	 2 	 0.0465 	 0.769 	 0.0531 	 1.1423
+Timema 	 OG0003541.ref.mafft.n 	 2 	 0.1154 	 2.213 	 0.2573 	 2.2300
+Timema 	 OG0003542.ref.mafft.n 	 2 	 0.1535 	 0.692 	 0.1125 	 0.7329
+Timema 	 OG0003543.ref.mafft.n 	 2 	 0.0482 	 1.164 	 0.0723 	 1.5019
+Timema 	 OG0003545.ref.mafft.n 	 2 	 0.0109 	 1.198 	 0.0211 	 1.9439
+Timema 	 OG0003546.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003548.ref.mafft.n 	 2 	 0.2615 	 1.895 	 0.3722 	 1.4233
+Timema 	 OG0003549.ref.mafft.n 	 2 	 0.1031 	 1.182 	 0.1418 	 1.3755
+Timema 	 OG0003550.ref.mafft.n 	 2 	 0.1205 	 1.055 	 0.1449 	 1.2021
+Timema 	 OG0003551.ref.mafft.n 	 2 	 0.1098 	 0.914 	 0.1045 	 0.9517
+Timema 	 OG0003552.ref.mafft.n 	 2 	 0.3072 	 1.759 	 0.3745 	 1.2189
+Timema 	 OG0003553.ref.mafft.n 	 2 	 0.0948 	 1.045 	 0.1354 	 1.4286
+Timema 	 OG0003554.ref.mafft.n 	 2 	 0.4421 	 1.637 	 0.4173 	 0.9439
+Timema 	 OG0003555.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003556.ref.mafft.n 	 2 	 0.1954 	 1.363 	 0.2251 	 1.1518
+Timema 	 OG0003557.ref.mafft.n 	 2 	 0.0820 	 1.531 	 0.1436 	 1.7506
+Timema 	 OG0003558.ref.mafft.n 	 2 	 0.2556 	 1.243 	 0.2690 	 1.0526
+Timema 	 OG0003559.ref.mafft.n 	 2 	 0.0673 	 0.885 	 0.0967 	 1.4378
+Timema 	 OG0003561.ref.mafft.n 	 2 	 0.1002 	 1.972 	 0.2074 	 2.0694
+Timema 	 OG0003563.ref.mafft.n 	 2 	 0.1443 	 0.874 	 0.1325 	 0.9184
+Timema 	 OG0003564.ref.mafft.n 	 2 	 0.1174 	 1.095 	 0.1270 	 1.0824
+Timema 	 OG0003565.ref.mafft.n 	 2 	 0.2367 	 1.391 	 0.2686 	 1.1348
+Timema 	 OG0003566.ref.mafft.n 	 2 	 0.1943 	 1.320 	 0.2236 	 1.1506
+Timema 	 OG0003567.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003568.ref.mafft.n 	 2 	 0.2263 	 4.322 	 0.7749 	 3.4239
+Timema 	 OG0003569.ref.mafft.n 	 2 	 0.2862 	 1.140 	 0.2626 	 0.9176
+Timema 	 OG0003570.ref.mafft.n 	 2 	 0.0547 	 1.149 	 0.0737 	 1.3465
+Timema 	 OG0003571.ref.mafft.n 	 2 	 0.0534 	 5.919 	 0.3773 	 7.0653
+Timema 	 OG0003574.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003577.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003578.ref.mafft.n 	 2 	 0.1234 	 1.149 	 0.1640 	 1.3293
+Timema 	 OG0003579.ref.mafft.n 	 2 	 0.1593 	 2.104 	 0.2845 	 1.7857
+Timema 	 OG0003581.ref.mafft.n 	 2 	 0.2404 	 1.681 	 0.3294 	 1.3698
+Timema 	 OG0003582.ref.mafft.n 	 2 	 0.1330 	 0.996 	 0.1362 	 1.0235
+Timema 	 OG0003583.ref.mafft.n 	 2 	 0.2105 	 1.674 	 0.2784 	 1.3225
+Timema 	 OG0003584.ref.mafft.n 	 2 	 0.1357 	 1.233 	 0.1605 	 1.1824
+Timema 	 OG0003586.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003587.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003588.ref.mafft.n 	 2 	 0.4066 	 0.976 	 0.2455 	 0.6039
+Timema 	 OG0003589.ref.mafft.n 	 2 	 0.1799 	 0.964 	 0.1661 	 0.9233
+Timema 	 OG0003590.ref.mafft.n 	 2 	 0.2296 	 1.716 	 0.3020 	 1.3154
+Timema 	 OG0003592.ref.mafft.n 	 2 	 0.1055 	 1.492 	 0.1791 	 1.6972
+Timema 	 OG0003598.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003599.ref.mafft.n 	 2 	 0.2449 	 1.779 	 0.3436 	 1.4029
+Timema 	 OG0003600.ref.mafft.n 	 2 	 0.1845 	 1.370 	 0.2350 	 1.2737
+Timema 	 OG0003601.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003602.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003603.ref.mafft.n 	 2 	 0.4003 	 1.559 	 0.4040 	 1.0093
+Timema 	 OG0003605.ref.mafft.n 	 2 	 0.3001 	 2.282 	 0.5116 	 1.7050
+Timema 	 OG0003606.ref.mafft.n 	 2 	 0.0968 	 0.964 	 0.1243 	 1.2847
+Timema 	 OG0003607.ref.mafft.n 	 2 	 0.1536 	 0.978 	 0.1527 	 0.9940
+Timema 	 OG0003608.ref.mafft.n 	 2 	 0.0196 	 0.808 	 0.0311 	 1.5891
+Timema 	 OG0003609.ref.mafft.n 	 2 	 0.0991 	 1.147 	 0.1278 	 1.2899
+Timema 	 OG0003610.ref.mafft.n 	 2 	 0.1163 	 1.510 	 0.1996 	 1.7160
+Timema 	 OG0003613.ref.mafft.n 	 2 	 0.0158 	 0.821 	 0.0229 	 1.4512
+Timema 	 OG0003614.ref.mafft.n 	 2 	 0.1304 	 1.910 	 0.2678 	 2.0544
+Timema 	 OG0003615.ref.mafft.n 	 2 	 0.0554 	 1.031 	 0.0774 	 1.3964
+Timema 	 OG0003616.ref.mafft.n 	 2 	 0.0884 	 0.989 	 0.0980 	 1.1091
+Timema 	 OG0003619.ref.mafft.n 	 2 	 0.2479 	 0.569 	 0.1175 	 0.4742
+Timema 	 OG0003620.ref.mafft.n 	 2 	 0.5637 	 1.380 	 0.3895 	 0.6910
+Timema 	 OG0003621.ref.mafft.n 	 2 	 0.1307 	 0.884 	 0.1345 	 1.0290
+Timema 	 OG0003622.ref.mafft.n 	 2 	 0.2403 	 1.716 	 0.3231 	 1.3448
+Timema 	 OG0003623.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003624.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003625.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003626.ref.mafft.n 	 2 	 0.1419 	 0.912 	 0.1737 	 1.2235
+Timema 	 OG0003627.ref.mafft.n 	 2 	 0.1510 	 0.982 	 0.1444 	 0.9559
+Timema 	 OG0003628.ref.mafft.n 	 2 	 0.2733 	 1.194 	 0.2393 	 0.8756
+Timema 	 OG0003629.ref.mafft.n 	 2 	 0.2439 	 1.161 	 0.2274 	 0.9321
+Timema 	 OG0003630.ref.mafft.n 	 2 	 0.0448 	 0.916 	 0.0599 	 1.3361
+Timema 	 OG0003631.ref.mafft.n 	 2 	 0.0572 	 0.885 	 0.0673 	 1.1755
+Timema 	 OG0003632.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003634.ref.mafft.n 	 2 	 0.0610 	 0.812 	 0.0769 	 1.2615
+Timema 	 OG0003635.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003636.ref.mafft.n 	 2 	 0.1422 	 1.534 	 0.1998 	 1.4054
+Timema 	 OG0003638.ref.mafft.n 	 2 	 0.0734 	 1.057 	 0.0933 	 1.2701
+Timema 	 OG0003639.ref.mafft.n 	 2 	 0.0683 	 1.080 	 0.0960 	 1.4047
+Timema 	 OG0003641.ref.mafft.n 	 2 	 0.3228 	 2.266 	 0.5021 	 1.5555
+Timema 	 OG0003642.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003643.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003644.ref.mafft.n 	 2 	 0.0313 	 1.079 	 0.0523 	 1.6705
+Timema 	 OG0003645.ref.mafft.n 	 2 	 0.1655 	 1.575 	 0.1705 	 1.0299
+Timema 	 OG0003646.ref.mafft.n 	 2 	 0.1442 	 2.463 	 0.3457 	 2.3975
+Timema 	 OG0003648.ref.mafft.n 	 2 	 0.0599 	 1.497 	 0.0773 	 1.2895
+Timema 	 OG0003650.ref.mafft.n 	 2 	 0.0716 	 1.719 	 0.1420 	 1.9832
+Timema 	 OG0003651.ref.mafft.n 	 2 	 0.2734 	 1.777 	 0.3462 	 1.2662
+Timema 	 OG0003653.ref.mafft.n 	 2 	 0.3966 	 1.458 	 0.3747 	 0.9449
+Timema 	 OG0003654.ref.mafft.n 	 2 	 0.3581 	 1.424 	 0.3196 	 0.8925
+Timema 	 OG0003655.ref.mafft.n 	 2 	 0.1354 	 1.258 	 0.1735 	 1.2807
+Timema 	 OG0003656.ref.mafft.n 	 2 	 0.1456 	 1.520 	 0.1955 	 1.3423
+Timema 	 OG0003657.ref.mafft.n 	 2 	 0.0472 	 0.751 	 0.0569 	 1.2051
+Timema 	 OG0003658.ref.mafft.n 	 2 	 0.1571 	 0.806 	 0.1399 	 0.8907
+Timema 	 OG0003659.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003660.ref.mafft.n 	 2 	 0.1291 	 1.992 	 0.2585 	 2.0026
+Timema 	 OG0003661.ref.mafft.n 	 2 	 0.2072 	 1.131 	 0.2394 	 1.1554
+Timema 	 OG0003662.ref.mafft.n 	 2 	 0.1202 	 0.898 	 0.1401 	 1.1651
+Timema 	 OG0003663.ref.mafft.n 	 2 	 0.0094 	 1.471 	 0.0274 	 2.9023
+Timema 	 OG0003665.ref.mafft.n 	 2 	 0.1358 	 1.417 	 0.1942 	 1.4295
+Timema 	 OG0003666.ref.mafft.n 	 2 	 0.1713 	 1.678 	 0.2981 	 1.7399
+Timema 	 OG0003667.ref.mafft.n 	 2 	 0.2047 	 1.141 	 0.2177 	 1.0634
+Timema 	 OG0003668.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003669.ref.mafft.n 	 2 	 0.3157 	 1.505 	 0.3156 	 0.9998
+Timema 	 OG0003671.ref.mafft.n 	 2 	 0.0726 	 1.242 	 0.1235 	 1.7021
+Timema 	 OG0003672.ref.mafft.n 	 2 	 0.2210 	 0.798 	 0.1643 	 0.7434
+Timema 	 OG0003673.ref.mafft.n 	 2 	 0.2982 	 1.972 	 0.4428 	 1.4848
+Timema 	 OG0003674.ref.mafft.n 	 2 	 0.1989 	 1.103 	 0.1926 	 0.9683
+Timema 	 OG0003676.ref.mafft.n 	 2 	 0.1358 	 1.413 	 0.2068 	 1.5228
+Timema 	 OG0003677.ref.mafft.n 	 2 	 0.0333 	 1.384 	 0.0686 	 2.0595
+Timema 	 OG0003678.ref.mafft.n 	 2 	 0.3783 	 1.564 	 0.3634 	 0.9607
+Timema 	 OG0003679.ref.mafft.n 	 2 	 0.2846 	 1.607 	 0.3179 	 1.1172
+Timema 	 OG0003680.ref.mafft.n 	 2 	 0.0927 	 1.181 	 0.1284 	 1.3859
+Timema 	 OG0003681.ref.mafft.n 	 2 	 0.1532 	 4.411 	 0.6934 	 4.5268
+Timema 	 OG0003682.ref.mafft.n 	 2 	 0.2569 	 1.427 	 0.2986 	 1.1623
+Timema 	 OG0003683.ref.mafft.n 	 2 	 0.2550 	 2.125 	 0.4022 	 1.5776
+Timema 	 OG0003684.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003685.ref.mafft.n 	 2 	 0.1696 	 3.053 	 0.4526 	 2.6690
+Timema 	 OG0003686.ref.mafft.n 	 2 	 0.0709 	 1.428 	 0.1198 	 1.6913
+Timema 	 OG0003687.ref.mafft.n 	 2 	 0.0240 	 0.941 	 0.0415 	 1.7320
+Timema 	 OG0003688.ref.mafft.n 	 2 	 0.1528 	 1.080 	 0.1699 	 1.1122
+Timema 	 OG0003689.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003690.ref.mafft.n 	 2 	 0.0439 	 1.066 	 0.0417 	 0.9515
+Timema 	 OG0003692.ref.mafft.n 	 2 	 0.0168 	 1.510 	 0.0371 	 2.2051
+Timema 	 OG0003693.ref.mafft.n 	 2 	 0.1507 	 2.825 	 0.3732 	 2.4764
+Timema 	 OG0003696.ref.mafft.n 	 2 	 0.1038 	 1.134 	 0.1300 	 1.2520
+Timema 	 OG0003697.ref.mafft.n 	 2 	 0.1536 	 1.144 	 0.1686 	 1.0972
+Timema 	 OG0003698.ref.mafft.n 	 2 	 0.3068 	 1.754 	 0.3582 	 1.1677
+Timema 	 OG0003700.ref.mafft.n 	 2 	 0.0180 	 1.285 	 0.0380 	 2.1063
+Timema 	 OG0003703.ref.mafft.n 	 2 	 0.1871 	 1.155 	 0.2013 	 1.0756
+Timema 	 OG0003704.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003705.ref.mafft.n 	 2 	 0.0189 	 0.988 	 0.0272 	 1.4351
+Timema 	 OG0003706.ref.mafft.n 	 2 	 0.3373 	 0.881 	 0.1987 	 0.5891
+Timema 	 OG0003707.ref.mafft.n 	 2 	 0.1725 	 1.495 	 0.2355 	 1.3652
+Timema 	 OG0003708.ref.mafft.n 	 2 	 0.1387 	 1.091 	 0.1625 	 1.1720
+Timema 	 OG0003709.ref.mafft.n 	 2 	 0.1955 	 1.619 	 0.2631 	 1.3462
+Timema 	 OG0003711.ref.mafft.n 	 2 	 0.1742 	 1.128 	 0.1659 	 0.9526
+Timema 	 OG0003712.ref.mafft.n 	 2 	 0.1147 	 1.725 	 0.1893 	 1.6506
+Timema 	 OG0003714.ref.mafft.n 	 2 	 0.1094 	 1.039 	 0.1330 	 1.2160
+Timema 	 OG0003715.ref.mafft.n 	 2 	 0.0317 	 1.456 	 0.0723 	 2.2829
+Timema 	 OG0003717.ref.mafft.n 	 2 	 0.2011 	 1.280 	 0.2116 	 1.0524
+Timema 	 OG0003718.ref.mafft.n 	 2 	 0.2848 	 1.311 	 0.2641 	 0.9273
+Timema 	 OG0003719.ref.mafft.n 	 2 	 0.0234 	 1.106 	 0.0395 	 1.6888
+Timema 	 OG0003720.ref.mafft.n 	 2 	 0.1686 	 1.061 	 0.1929 	 1.1445
+Timema 	 OG0003721.ref.mafft.n 	 2 	 0.1866 	 1.297 	 0.2298 	 1.2316
+Timema 	 OG0003722.ref.mafft.n 	 2 	 0.0583 	 0.856 	 0.0686 	 1.1754
+Timema 	 OG0003724.ref.mafft.n 	 2 	 0.2212 	 1.122 	 0.2045 	 0.9243
+Timema 	 OG0003725.ref.mafft.n 	 2 	 0.1419 	 0.994 	 0.1475 	 1.0399
+Timema 	 OG0003726.ref.mafft.n 	 2 	 0.0107 	 0.685 	 0.0126 	 1.1776
+Timema 	 OG0003727.ref.mafft.n 	 2 	 0.1454 	 1.606 	 0.2177 	 1.4977
+Timema 	 OG0003728.ref.mafft.n 	 2 	 0.1014 	 1.549 	 0.1888 	 1.8617
+Timema 	 OG0003730.ref.mafft.n 	 2 	 0.1692 	 1.330 	 0.2049 	 1.2108
+Timema 	 OG0003732.ref.mafft.n 	 2 	 0.2651 	 2.012 	 0.3997 	 1.5080
+Timema 	 OG0003734.ref.mafft.n 	 2 	 0.0868 	 6.026 	 0.4907 	 5.6534
+Timema 	 OG0003735.ref.mafft.n 	 2 	 0.0969 	 0.893 	 0.0996 	 1.0275
+Timema 	 OG0003737.ref.mafft.n 	 2 	 0.0731 	 1.203 	 0.1248 	 1.7068
+Timema 	 OG0003741.ref.mafft.n 	 2 	 0.1060 	 1.066 	 0.1380 	 1.3021
+Timema 	 OG0003742.ref.mafft.n 	 2 	 0.1586 	 1.229 	 0.2117 	 1.3345
+Timema 	 OG0003743.ref.mafft.n 	 2 	 0.1092 	 1.100 	 0.1342 	 1.2295
+Timema 	 OG0003744.ref.mafft.n 	 2 	 0.1093 	 1.251 	 0.1591 	 1.4547
+Timema 	 OG0003745.ref.mafft.n 	 2 	 0.0706 	 0.984 	 0.0825 	 1.1692
+Timema 	 OG0003746.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003747.ref.mafft.n 	 2 	 0.0853 	 1.339 	 0.1485 	 1.7405
+Timema 	 OG0003748.ref.mafft.n 	 2 	 0.2844 	 1.217 	 0.2523 	 0.8872
+Timema 	 OG0003750.ref.mafft.n 	 2 	 0.2124 	 1.296 	 0.2253 	 1.0604
+Timema 	 OG0003751.ref.mafft.n 	 2 	 0.4981 	 1.946 	 0.5110 	 1.0260
+Timema 	 OG0003753.ref.mafft.n 	 2 	 0.1807 	 0.954 	 0.1717 	 0.9502
+Timema 	 OG0003754.ref.mafft.n 	 2 	 0.3640 	 1.713 	 0.3988 	 1.0956
+Timema 	 OG0003755.ref.mafft.n 	 2 	 0.0795 	 1.067 	 0.0878 	 1.1036
+Timema 	 OG0003756.ref.mafft.n 	 2 	 0.1839 	 1.327 	 0.2163 	 1.1763
+Timema 	 OG0003757.ref.mafft.n 	 2 	 0.1427 	 0.924 	 0.1497 	 1.0489
+Timema 	 OG0003758.ref.mafft.n 	 2 	 0.0711 	 0.614 	 0.0580 	 0.8156
+Timema 	 OG0003759.ref.mafft.n 	 2 	 0.1948 	 1.111 	 0.1950 	 1.0010
+Timema 	 OG0003760.ref.mafft.n 	 2 	 0.0775 	 1.308 	 0.1189 	 1.5343
+Timema 	 OG0003761.ref.mafft.n 	 2 	 0.1775 	 1.440 	 0.2129 	 1.1993
+Timema 	 OG0003762.ref.mafft.n 	 2 	 0.0954 	 1.356 	 0.1447 	 1.5171
+Timema 	 OG0003763.ref.mafft.n 	 2 	 0.2184 	 1.600 	 0.2829 	 1.2954
+Timema 	 OG0003764.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003765.ref.mafft.n 	 2 	 0.0652 	 1.674 	 0.1299 	 1.9929
+Timema 	 OG0003767.ref.mafft.n 	 2 	 0.1607 	 1.106 	 0.1707 	 1.0622
+Timema 	 OG0003768.ref.mafft.n 	 2 	 0.1147 	 0.928 	 0.1059 	 0.9234
+Timema 	 OG0003770.ref.mafft.n 	 2 	 0.0958 	 1.541 	 0.1650 	 1.7227
+Timema 	 OG0003771.ref.mafft.n 	 2 	 0.0481 	 1.445 	 0.0948 	 1.9706
+Timema 	 OG0003772.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003773.ref.mafft.n 	 2 	 0.1954 	 1.958 	 0.2916 	 1.4925
+Timema 	 OG0003774.ref.mafft.n 	 2 	 0.1381 	 2.163 	 0.2982 	 2.1591
+Timema 	 OG0003776.ref.mafft.n 	 2 	 0.0669 	 1.121 	 0.0992 	 1.4821
+Timema 	 OG0003777.ref.mafft.n 	 2 	 0.0214 	 0.766 	 0.0268 	 1.2549
+Timema 	 OG0003778.ref.mafft.n 	 2 	 0.2614 	 1.088 	 0.2391 	 0.9149
+Timema 	 OG0003779.ref.mafft.n 	 2 	 0.2378 	 0.836 	 0.1734 	 0.7293
+Timema 	 OG0003780.ref.mafft.n 	 2 	 0.0755 	 0.951 	 0.1091 	 1.4459
+Timema 	 OG0003781.ref.mafft.n 	 2 	 0.2039 	 1.235 	 0.2245 	 1.1008
+Timema 	 OG0003782.ref.mafft.n 	 2 	 0.2166 	 1.017 	 0.1704 	 0.7870
+Timema 	 OG0003784.ref.mafft.n 	 2 	 0.0626 	 1.224 	 0.0937 	 1.4981
+Timema 	 OG0003785.ref.mafft.n 	 2 	 0.2165 	 1.750 	 0.3230 	 1.4922
+Timema 	 OG0003786.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003787.ref.mafft.n 	 2 	 0.0820 	 1.384 	 0.1341 	 1.6346
+Timema 	 OG0003788.ref.mafft.n 	 2 	 0.3330 	 1.889 	 0.4178 	 1.2546
+Timema 	 OG0003790.ref.mafft.n 	 2 	 0.5906 	 2.695 	 0.7553 	 1.2789
+Timema 	 OG0003791.ref.mafft.n 	 2 	 0.4236 	 2.240 	 0.5643 	 1.3321
+Timema 	 OG0003792.ref.mafft.n 	 2 	 0.1795 	 1.187 	 0.1890 	 1.0530
+Timema 	 OG0003793.ref.mafft.n 	 2 	 0.0559 	 1.428 	 0.0996 	 1.7811
+Timema 	 OG0003794.ref.mafft.n 	 2 	 0.1966 	 1.076 	 0.1847 	 0.9395
+Timema 	 OG0003795.ref.mafft.n 	 2 	 0.2129 	 1.646 	 0.2735 	 1.2844
+Timema 	 OG0003796.ref.mafft.n 	 2 	 0.0402 	 1.634 	 0.0968 	 2.4075
+Timema 	 OG0003797.ref.mafft.n 	 2 	 0.3230 	 0.964 	 0.2175 	 0.6735
+Timema 	 OG0003798.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003799.ref.mafft.n 	 2 	 0.1486 	 0.924 	 0.1351 	 0.9088
+Timema 	 OG0003800.ref.mafft.n 	 2 	 0.2546 	 1.621 	 0.3329 	 1.3075
+Timema 	 OG0003801.ref.mafft.n 	 2 	 0.0740 	 0.914 	 0.0778 	 1.0516
+Timema 	 OG0003803.ref.mafft.n 	 2 	 0.2600 	 1.836 	 0.3598 	 1.3841
+Timema 	 OG0003804.ref.mafft.n 	 2 	 0.0429 	 1.163 	 0.0675 	 1.5755
+Timema 	 OG0003805.ref.mafft.n 	 2 	 0.1726 	 1.391 	 0.2351 	 1.3621
+Timema 	 OG0003807.ref.mafft.n 	 2 	 0.2101 	 1.087 	 0.2044 	 0.9728
+Timema 	 OG0003810.ref.mafft.n 	 2 	 0.0848 	 0.924 	 0.0889 	 1.0488
+Timema 	 OG0003811.ref.mafft.n 	 2 	 0.0747 	 1.542 	 0.1291 	 1.7286
+Timema 	 OG0003813.ref.mafft.n 	 2 	 0.2525 	 1.663 	 0.3109 	 1.2314
+Timema 	 OG0003815.ref.mafft.n 	 2 	 0.0746 	 1.145 	 0.0969 	 1.2988
+Timema 	 OG0003816.ref.mafft.n 	 2 	 0.1649 	 1.727 	 0.2543 	 1.5420
+Timema 	 OG0003818.ref.mafft.n 	 2 	 0.0644 	 0.974 	 0.0779 	 1.2094
+Timema 	 OG0003819.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003821.ref.mafft.n 	 2 	 0.2120 	 0.906 	 0.1724 	 0.8131
+Timema 	 OG0003822.ref.mafft.n 	 2 	 0.2702 	 1.010 	 0.1940 	 0.7179
+Timema 	 OG0003823.ref.mafft.n 	 2 	 0.2105 	 1.365 	 0.2430 	 1.1541
+Timema 	 OG0003824.ref.mafft.n 	 2 	 0.2045 	 0.870 	 0.1503 	 0.7352
+Timema 	 OG0003825.ref.mafft.n 	 2 	 0.1339 	 1.351 	 0.1891 	 1.4121
+Timema 	 OG0003830.ref.mafft.n 	 2 	 0.3230 	 2.352 	 0.5166 	 1.5995
+Timema 	 OG0003832.ref.mafft.n 	 2 	 0.4913 	 1.600 	 0.4326 	 0.8805
+Timema 	 OG0003833.ref.mafft.n 	 2 	 0.1553 	 2.027 	 0.2922 	 1.8813
+Timema 	 OG0003834.ref.mafft.n 	 2 	 0.2009 	 1.646 	 0.2793 	 1.3907
+Timema 	 OG0003836.ref.mafft.n 	 2 	 0.0587 	 3.126 	 0.2041 	 3.4748
+Timema 	 OG0003838.ref.mafft.n 	 2 	 0.0862 	 0.992 	 0.1120 	 1.3001
+Timema 	 OG0003839.ref.mafft.n 	 2 	 0.2849 	 1.352 	 0.2792 	 0.9800
+Timema 	 OG0003840.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003841.ref.mafft.n 	 2 	 1.7872 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0003842.ref.mafft.n 	 2 	 0.0696 	 1.139 	 0.0982 	 1.4111
+Timema 	 OG0003843.ref.mafft.n 	 2 	 0.2381 	 1.634 	 0.2962 	 1.2443
+Timema 	 OG0003845.ref.mafft.n 	 2 	 0.1231 	 1.570 	 0.2440 	 1.9818
+Timema 	 OG0003846.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003847.ref.mafft.n 	 2 	 0.0473 	 1.090 	 0.0776 	 1.6415
+Timema 	 OG0003848.ref.mafft.n 	 2 	 0.1348 	 1.801 	 0.2389 	 1.7720
+Timema 	 OG0003849.ref.mafft.n 	 2 	 0.1240 	 1.256 	 0.1625 	 1.3107
+Timema 	 OG0003850.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003851.ref.mafft.n 	 2 	 0.1033 	 2.056 	 0.2111 	 2.0444
+Timema 	 OG0003853.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003854.ref.mafft.n 	 2 	 0.2157 	 2.084 	 0.3451 	 1.6003
+Timema 	 OG0003855.ref.mafft.n 	 2 	 0.1974 	 1.521 	 0.2855 	 1.4463
+Timema 	 OG0003856.ref.mafft.n 	 2 	 0.2403 	 1.615 	 0.2813 	 1.1706
+Timema 	 OG0003858.ref.mafft.n 	 2 	 0.3756 	 2.466 	 0.5999 	 1.5973
+Timema 	 OG0003859.ref.mafft.n 	 2 	 0.2277 	 1.659 	 0.3598 	 1.5800
+Timema 	 OG0003860.ref.mafft.n 	 2 	 0.1221 	 1.745 	 0.2166 	 1.7739
+Timema 	 OG0003861.ref.mafft.n 	 2 	 0.0576 	 1.305 	 0.0896 	 1.5552
+Timema 	 OG0003862.ref.mafft.n 	 2 	 0.0485 	 0.979 	 0.0752 	 1.5514
+Timema 	 OG0003863.ref.mafft.n 	 2 	 0.0497 	 1.175 	 0.0743 	 1.4956
+Timema 	 OG0003864.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003865.ref.mafft.n 	 2 	 0.1676 	 1.344 	 0.1999 	 1.1925
+Timema 	 OG0003866.ref.mafft.n 	 2 	 0.2880 	 1.515 	 0.3100 	 1.0760
+Timema 	 OG0003867.ref.mafft.n 	 2 	 0.1717 	 1.213 	 0.2099 	 1.2226
+Timema 	 OG0003869.ref.mafft.n 	 2 	 0.1152 	 0.684 	 0.0879 	 0.7631
+Timema 	 OG0003871.ref.mafft.n 	 2 	 0.1011 	 1.160 	 0.1378 	 1.3633
+Timema 	 OG0003872.ref.mafft.n 	 2 	 0.3261 	 2.337 	 0.5107 	 1.5657
+Timema 	 OG0003873.ref.mafft.n 	 2 	 0.1423 	 1.092 	 0.1521 	 1.0691
+Timema 	 OG0003874.ref.mafft.n 	 2 	 0.3748 	 1.632 	 0.3838 	 1.0238
+Timema 	 OG0003875.ref.mafft.n 	 2 	 0.1707 	 1.672 	 0.2564 	 1.5027
+Timema 	 OG0003876.ref.mafft.n 	 2 	 0.2363 	 1.141 	 0.2305 	 0.9756
+Timema 	 OG0003877.ref.mafft.n 	 2 	 0.3241 	 1.285 	 0.2720 	 0.8394
+Timema 	 OG0003878.ref.mafft.n 	 2 	 0.0920 	 1.176 	 0.1297 	 1.4098
+Timema 	 OG0003880.ref.mafft.n 	 2 	 0.3001 	 2.207 	 0.4595 	 1.5313
+Timema 	 OG0003881.ref.mafft.n 	 2 	 0.0214 	 0.872 	 0.0375 	 1.7498
+Timema 	 OG0003882.ref.mafft.n 	 2 	 0.2692 	 2.468 	 0.5079 	 1.8867
+Timema 	 OG0003883.ref.mafft.n 	 2 	 0.0527 	 0.548 	 0.0547 	 1.0377
+Timema 	 OG0003884.ref.mafft.n 	 2 	 0.1142 	 1.405 	 0.1891 	 1.6561
+Timema 	 OG0003887.ref.mafft.n 	 2 	 0.1907 	 1.262 	 0.2045 	 1.0728
+Timema 	 OG0003888.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003889.ref.mafft.n 	 2 	 0.0712 	 1.301 	 0.1189 	 1.6708
+Timema 	 OG0003890.ref.mafft.n 	 2 	 0.3505 	 1.136 	 0.2553 	 0.7283
+Timema 	 OG0003892.ref.mafft.n 	 2 	 0.0636 	 1.213 	 0.1089 	 1.7131
+Timema 	 OG0003893.ref.mafft.n 	 2 	 0.3128 	 1.134 	 0.2490 	 0.7962
+Timema 	 OG0003894.ref.mafft.n 	 2 	 0.2488 	 2.134 	 0.3873 	 1.5566
+Timema 	 OG0003895.ref.mafft.n 	 2 	 0.1422 	 1.281 	 0.2046 	 1.4384
+Timema 	 OG0003896.ref.mafft.n 	 2 	 0.0425 	 1.177 	 0.0649 	 1.5255
+Timema 	 OG0003897.ref.mafft.n 	 2 	 0.2683 	 2.408 	 0.4814 	 1.7943
+Timema 	 OG0003898.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003899.ref.mafft.n 	 2 	 0.1712 	 1.059 	 0.2007 	 1.1724
+Timema 	 OG0003900.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003902.ref.mafft.n 	 2 	 0.0718 	 4.273 	 0.3102 	 4.3184
+Timema 	 OG0003903.ref.mafft.n 	 2 	 0.0767 	 1.203 	 0.1129 	 1.4733
+Timema 	 OG0003906.ref.mafft.n 	 2 	 0.1374 	 1.203 	 0.1560 	 1.1353
+Timema 	 OG0003907.ref.mafft.n 	 2 	 0.4924 	 1.283 	 0.3299 	 0.6701
+Timema 	 OG0003908.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003909.ref.mafft.n 	 2 	 0.2498 	 1.259 	 0.2490 	 0.9970
+Timema 	 OG0003910.ref.mafft.n 	 2 	 0.1125 	 1.556 	 0.2041 	 1.8139
+Timema 	 OG0003911.ref.mafft.n 	 2 	 0.1980 	 1.348 	 0.2505 	 1.2651
+Timema 	 OG0003912.ref.mafft.n 	 2 	 0.0450 	 6.383 	 0.3476 	 7.7222
+Timema 	 OG0003913.ref.mafft.n 	 2 	 0.1031 	 1.464 	 0.1702 	 1.6505
+Timema 	 OG0003914.ref.mafft.n 	 2 	 0.0560 	 7.287 	 0.4446 	 7.9374
+Timema 	 OG0003916.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003917.ref.mafft.n 	 2 	 0.1085 	 1.181 	 0.1631 	 1.5028
+Timema 	 OG0003918.ref.mafft.n 	 2 	 0.1120 	 0.990 	 0.1252 	 1.1184
+Timema 	 OG0003919.ref.mafft.n 	 2 	 0.2809 	 1.699 	 0.3407 	 1.2129
+Timema 	 OG0003920.ref.mafft.n 	 2 	 0.0767 	 1.191 	 0.1332 	 1.7351
+Timema 	 OG0003921.ref.mafft.n 	 2 	 0.0471 	 0.824 	 0.0633 	 1.3453
+Timema 	 OG0003922.ref.mafft.n 	 2 	 0.0534 	 0.908 	 0.0707 	 1.3248
+Timema 	 OG0003925.ref.mafft.n 	 2 	 0.2843 	 1.274 	 0.2586 	 0.9094
+Timema 	 OG0003926.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003929.ref.mafft.n 	 2 	 0.0756 	 1.275 	 0.1064 	 1.4074
+Timema 	 OG0003930.ref.mafft.n 	 2 	 0.0246 	 0.829 	 0.0297 	 1.2096
+Timema 	 OG0003932.ref.mafft.n 	 2 	 0.1632 	 2.074 	 0.3087 	 1.8912
+Timema 	 OG0003933.ref.mafft.n 	 2 	 0.1781 	 1.149 	 0.1927 	 1.0814
+Timema 	 OG0003934.ref.mafft.n 	 2 	 0.1706 	 1.744 	 0.2679 	 1.5704
+Timema 	 OG0003936.ref.mafft.n 	 2 	 0.0258 	 0.788 	 0.0270 	 1.0444
+Timema 	 OG0003937.ref.mafft.n 	 2 	 0.2529 	 1.395 	 0.2712 	 1.0724
+Timema 	 OG0003940.ref.mafft.n 	 2 	 0.0106 	 1.497 	 0.0218 	 2.0461
+Timema 	 OG0003941.ref.mafft.n 	 2 	 0.1665 	 1.826 	 0.2990 	 1.7956
+Timema 	 OG0003942.ref.mafft.n 	 2 	 0.2601 	 0.950 	 0.1921 	 0.7386
+Timema 	 OG0003943.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003944.ref.mafft.n 	 2 	 0.2546 	 1.474 	 0.3007 	 1.1812
+Timema 	 OG0003945.ref.mafft.n 	 2 	 0.3018 	 1.821 	 0.3903 	 1.2932
+Timema 	 OG0003946.ref.mafft.n 	 2 	 0.4188 	 2.194 	 0.5504 	 1.3143
+Timema 	 OG0003948.ref.mafft.n 	 2 	 0.2605 	 1.091 	 0.2179 	 0.8364
+Timema 	 OG0003949.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003950.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003951.ref.mafft.n 	 2 	 0.1165 	 1.086 	 0.1519 	 1.3037
+Timema 	 OG0003952.ref.mafft.n 	 2 	 0.1248 	 1.627 	 0.2036 	 1.6315
+Timema 	 OG0003955.ref.mafft.n 	 2 	 0.1053 	 1.257 	 0.1260 	 1.1960
+Timema 	 OG0003956.ref.mafft.n 	 2 	 0.0318 	 3.101 	 0.1351 	 4.2514
+Timema 	 OG0003957.ref.mafft.n 	 2 	 0.2358 	 1.371 	 0.2328 	 0.9876
+Timema 	 OG0003958.ref.mafft.n 	 2 	 0.2424 	 1.321 	 0.2550 	 1.0519
+Timema 	 OG0003959.ref.mafft.n 	 2 	 0.0772 	 1.287 	 0.1307 	 1.6942
+Timema 	 OG0003960.ref.mafft.n 	 2 	 0.1194 	 1.494 	 0.1960 	 1.6416
+Timema 	 OG0003961.ref.mafft.n 	 2 	 0.1551 	 0.926 	 0.1424 	 0.9182
+Timema 	 OG0003962.ref.mafft.n 	 2 	 0.2466 	 1.795 	 0.3348 	 1.3576
+Timema 	 OG0003963.ref.mafft.n 	 2 	 0.1906 	 0.704 	 0.1381 	 0.7249
+Timema 	 OG0003964.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003965.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003966.ref.mafft.n 	 2 	 0.0742 	 1.972 	 0.1820 	 2.4523
+Timema 	 OG0003967.ref.mafft.n 	 2 	 0.2268 	 1.095 	 0.2180 	 0.9611
+Timema 	 OG0003970.ref.mafft.n 	 2 	 0.0465 	 1.083 	 0.0675 	 1.4503
+Timema 	 OG0003971.ref.mafft.n 	 2 	 0.0823 	 3.282 	 0.2630 	 3.1967
+Timema 	 OG0003974.ref.mafft.n 	 2 	 0.0477 	 1.212 	 0.0698 	 1.4632
+Timema 	 OG0003975.ref.mafft.n 	 2 	 0.0322 	 1.284 	 0.0673 	 2.0935
+Timema 	 OG0003976.ref.mafft.n 	 2 	 0.2647 	 1.246 	 0.2870 	 1.0841
+Timema 	 OG0003979.ref.mafft.n 	 2 	 0.1711 	 1.868 	 0.3149 	 1.8406
+Timema 	 OG0003980.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003981.ref.mafft.n 	 2 	 0.3554 	 2.688 	 0.6022 	 1.6946
+Timema 	 OG0003982.ref.mafft.n 	 2 	 0.0609 	 1.138 	 0.0897 	 1.4729
+Timema 	 OG0003983.ref.mafft.n 	 2 	 0.0587 	 1.097 	 0.0874 	 1.4887
+Timema 	 OG0003984.ref.mafft.n 	 2 	 0.4275 	 0.889 	 0.2316 	 0.5419
+Timema 	 OG0003985.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003986.ref.mafft.n 	 2 	 0.0284 	 1.039 	 0.0453 	 1.5949
+Timema 	 OG0003987.ref.mafft.n 	 2 	 0.1069 	 1.533 	 0.1795 	 1.6795
+Timema 	 OG0003988.ref.mafft.n 	 2 	 0.0869 	 1.259 	 0.1243 	 1.4308
+Timema 	 OG0003989.ref.mafft.n 	 2 	 0.0567 	 0.661 	 0.0609 	 1.0742
+Timema 	 OG0003991.ref.mafft.n 	 2 	 0.1543 	 2.422 	 0.3379 	 2.1902
+Timema 	 OG0003993.ref.mafft.n 	 2 	 0.1253 	 1.536 	 0.2222 	 1.7726
+Timema 	 OG0003995.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003997.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0003998.ref.mafft.n 	 2 	 0.2610 	 2.603 	 0.4950 	 1.8962
+Timema 	 OG0003999.ref.mafft.n 	 2 	 0.2570 	 1.338 	 0.2659 	 1.0344
+Timema 	 OG0004000.ref.mafft.n 	 2 	 0.3299 	 1.065 	 0.2532 	 0.7676
+Timema 	 OG0004001.ref.mafft.n 	 2 	 0.0654 	 0.707 	 0.0768 	 1.1742
+Timema 	 OG0004002.ref.mafft.n 	 2 	 0.1138 	 0.624 	 0.0864 	 0.7592
+Timema 	 OG0004003.ref.mafft.n 	 2 	 0.0473 	 1.175 	 0.0730 	 1.5411
+Timema 	 OG0004005.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004006.ref.mafft.n 	 2 	 0.2474 	 1.178 	 0.2391 	 0.9666
+Timema 	 OG0004008.ref.mafft.n 	 2 	 0.0580 	 0.962 	 0.0936 	 1.6145
+Timema 	 OG0004009.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004010.ref.mafft.n 	 2 	 0.1823 	 2.288 	 0.3680 	 2.0189
+Timema 	 OG0004011.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004012.ref.mafft.n 	 2 	 0.2253 	 0.973 	 0.1916 	 0.8505
+Timema 	 OG0004015.ref.mafft.n 	 2 	 0.1517 	 0.626 	 0.0977 	 0.6436
+Timema 	 OG0004016.ref.mafft.n 	 2 	 0.0365 	 1.356 	 0.0643 	 1.7601
+Timema 	 OG0004017.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004018.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004019.ref.mafft.n 	 2 	 0.1751 	 0.966 	 0.1704 	 0.9734
+Timema 	 OG0004020.ref.mafft.n 	 2 	 0.0852 	 0.299 	 0.0461 	 0.5412
+Timema 	 OG0004021.ref.mafft.n 	 2 	 0.3095 	 0.958 	 0.2026 	 0.6548
+Timema 	 OG0004022.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004023.ref.mafft.n 	 2 	 0.3877 	 2.384 	 0.5713 	 1.4737
+Timema 	 OG0004024.ref.mafft.n 	 2 	 0.1481 	 1.518 	 0.2417 	 1.6323
+Timema 	 OG0004025.ref.mafft.n 	 2 	 0.0653 	 1.091 	 0.0897 	 1.3752
+Timema 	 OG0004026.ref.mafft.n 	 2 	 0.1610 	 0.737 	 0.1255 	 0.7796
+Timema 	 OG0004027.ref.mafft.n 	 2 	 0.1355 	 1.351 	 0.1892 	 1.3961
+Timema 	 OG0004029.ref.mafft.n 	 2 	 0.1578 	 1.022 	 0.1559 	 0.9883
+Timema 	 OG0004032.ref.mafft.n 	 2 	 0.0228 	 1.385 	 0.0447 	 1.9584
+Timema 	 OG0004033.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004034.ref.mafft.n 	 2 	 0.1054 	 0.941 	 0.1079 	 1.0240
+Timema 	 OG0004035.ref.mafft.n 	 2 	 0.0939 	 1.418 	 0.1468 	 1.5643
+Timema 	 OG0004036.ref.mafft.n 	 2 	 0.1277 	 0.985 	 0.1360 	 1.0651
+Timema 	 OG0004038.ref.mafft.n 	 2 	 0.1319 	 0.934 	 0.1171 	 0.8874
+Timema 	 OG0004039.ref.mafft.n 	 2 	 0.4085 	 2.217 	 0.5541 	 1.3564
+Timema 	 OG0004040.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004042.ref.mafft.n 	 2 	 0.1191 	 1.108 	 0.1549 	 1.3004
+Timema 	 OG0004043.ref.mafft.n 	 2 	 0.1359 	 1.165 	 0.1579 	 1.1612
+Timema 	 OG0004044.ref.mafft.n 	 2 	 0.0242 	 0.902 	 0.0316 	 1.3067
+Timema 	 OG0004047.ref.mafft.n 	 2 	 0.3886 	 1.420 	 0.3372 	 0.8677
+Timema 	 OG0004049.ref.mafft.n 	 2 	 0.1987 	 2.406 	 0.3693 	 1.8588
+Timema 	 OG0004051.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004052.ref.mafft.n 	 2 	 0.3599 	 1.310 	 0.2927 	 0.8134
+Timema 	 OG0004053.ref.mafft.n 	 2 	 0.1155 	 1.584 	 0.1876 	 1.6239
+Timema 	 OG0004054.ref.mafft.n 	 2 	 0.1539 	 1.551 	 0.2003 	 1.3014
+Timema 	 OG0004055.ref.mafft.n 	 2 	 0.2397 	 1.631 	 0.3223 	 1.3445
+Timema 	 OG0004056.ref.mafft.n 	 2 	 0.1206 	 1.164 	 0.1528 	 1.2672
+Timema 	 OG0004057.ref.mafft.n 	 2 	 0.0904 	 1.238 	 0.1054 	 1.1653
+Timema 	 OG0004058.ref.mafft.n 	 2 	 0.2233 	 1.242 	 0.2409 	 1.0786
+Timema 	 OG0004059.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004060.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004061.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004062.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004064.ref.mafft.n 	 2 	 0.0247 	 0.746 	 0.0254 	 1.0288
+Timema 	 OG0004069.ref.mafft.n 	 2 	 0.1290 	 1.687 	 0.1990 	 1.5427
+Timema 	 OG0004070.ref.mafft.n 	 2 	 0.1462 	 1.529 	 0.2041 	 1.3957
+Timema 	 OG0004072.ref.mafft.n 	 2 	 0.3024 	 1.969 	 0.4384 	 1.4497
+Timema 	 OG0004073.ref.mafft.n 	 2 	 0.0864 	 1.013 	 0.1092 	 1.2643
+Timema 	 OG0004075.ref.mafft.n 	 2 	 0.0694 	 1.398 	 0.1238 	 1.7839
+Timema 	 OG0004077.ref.mafft.n 	 2 	 0.4784 	 1.605 	 0.4235 	 0.8853
+Timema 	 OG0004078.ref.mafft.n 	 2 	 0.0588 	 0.762 	 0.0528 	 0.8982
+Timema 	 OG0004079.ref.mafft.n 	 2 	 0.0571 	 0.915 	 0.0664 	 1.1628
+Timema 	 OG0004080.ref.mafft.n 	 2 	 0.0554 	 1.176 	 0.1116 	 2.0137
+Timema 	 OG0004081.ref.mafft.n 	 2 	 0.2188 	 2.260 	 0.4137 	 1.8905
+Timema 	 OG0004082.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004083.ref.mafft.n 	 2 	 0.1832 	 1.008 	 0.1911 	 1.0435
+Timema 	 OG0004084.ref.mafft.n 	 2 	 0.2297 	 2.454 	 0.4481 	 1.9508
+Timema 	 OG0004085.ref.mafft.n 	 2 	 0.0842 	 1.412 	 0.1664 	 1.9770
+Timema 	 OG0004086.ref.mafft.n 	 2 	 0.1145 	 0.565 	 0.0688 	 0.6008
+Timema 	 OG0004087.ref.mafft.n 	 2 	 0.1327 	 1.092 	 0.1443 	 1.0877
+Timema 	 OG0004088.ref.mafft.n 	 2 	 0.1129 	 0.901 	 0.1080 	 0.9567
+Timema 	 OG0004089.ref.mafft.n 	 2 	 0.1485 	 1.269 	 0.1867 	 1.2573
+Timema 	 OG0004090.ref.mafft.n 	 2 	 0.0874 	 3.310 	 0.2528 	 2.8917
+Timema 	 OG0004091.ref.mafft.n 	 2 	 0.1621 	 1.300 	 0.2233 	 1.3769
+Timema 	 OG0004092.ref.mafft.n 	 2 	 0.0474 	 1.113 	 0.0688 	 1.4535
+Timema 	 OG0004093.ref.mafft.n 	 2 	 0.0880 	 1.980 	 0.1934 	 2.1987
+Timema 	 OG0004094.ref.mafft.n 	 2 	 0.2427 	 1.474 	 0.2860 	 1.1784
+Timema 	 OG0004095.ref.mafft.n 	 2 	 0.0924 	 2.126 	 0.2034 	 2.2007
+Timema 	 OG0004096.ref.mafft.n 	 2 	 0.2118 	 1.522 	 0.2627 	 1.2403
+Timema 	 OG0004098.ref.mafft.n 	 2 	 0.0442 	 1.774 	 0.0864 	 1.9536
+Timema 	 OG0004099.ref.mafft.n 	 2 	 0.0807 	 1.285 	 0.1380 	 1.7106
+Timema 	 OG0004100.ref.mafft.n 	 2 	 0.0820 	 1.968 	 0.1821 	 2.2205
+Timema 	 OG0004102.ref.mafft.n 	 2 	 0.1022 	 1.154 	 0.1393 	 1.3636
+Timema 	 OG0004103.ref.mafft.n 	 2 	 0.0502 	 1.073 	 0.0682 	 1.3575
+Timema 	 OG0004104.ref.mafft.n 	 2 	 0.0528 	 1.021 	 0.0953 	 1.8059
+Timema 	 OG0004105.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004106.ref.mafft.n 	 2 	 0.2298 	 2.230 	 0.4236 	 1.8432
+Timema 	 OG0004107.ref.mafft.n 	 2 	 0.1297 	 1.770 	 0.2325 	 1.7918
+Timema 	 OG0004108.ref.mafft.n 	 2 	 0.1729 	 2.067 	 0.3013 	 1.7423
+Timema 	 OG0004109.ref.mafft.n 	 2 	 0.0761 	 1.984 	 0.1699 	 2.2345
+Timema 	 OG0004110.ref.mafft.n 	 2 	 0.0704 	 1.115 	 0.1016 	 1.4436
+Timema 	 OG0004112.ref.mafft.n 	 2 	 0.2756 	 1.202 	 0.2353 	 0.8540
+Timema 	 OG0004113.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004114.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004116.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004118.ref.mafft.n 	 2 	 0.3563 	 1.674 	 0.3815 	 1.0707
+Timema 	 OG0004120.ref.mafft.n 	 2 	 0.0664 	 1.003 	 0.1001 	 1.5084
+Timema 	 OG0004122.ref.mafft.n 	 2 	 0.1556 	 1.114 	 0.1626 	 1.0450
+Timema 	 OG0004124.ref.mafft.n 	 2 	 0.0854 	 0.837 	 0.1019 	 1.1935
+Timema 	 OG0004125.ref.mafft.n 	 2 	 0.1052 	 0.643 	 0.1033 	 0.9824
+Timema 	 OG0004127.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004129.ref.mafft.n 	 2 	 0.0719 	 3.086 	 0.3072 	 4.2728
+Timema 	 OG0004130.ref.mafft.n 	 2 	 0.0906 	 1.382 	 0.1456 	 1.6071
+Timema 	 OG0004131.ref.mafft.n 	 2 	 0.2138 	 1.624 	 0.2952 	 1.3808
+Timema 	 OG0004132.ref.mafft.n 	 2 	 0.5442 	 1.997 	 0.5443 	 1.0002
+Timema 	 OG0004133.ref.mafft.n 	 2 	 0.0542 	 1.520 	 0.0948 	 1.7496
+Timema 	 OG0004134.ref.mafft.n 	 2 	 0.1001 	 1.863 	 0.1615 	 1.6137
+Timema 	 OG0004136.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004137.ref.mafft.n 	 2 	 0.1907 	 2.093 	 0.3437 	 1.8024
+Timema 	 OG0004138.ref.mafft.n 	 2 	 0.1516 	 0.898 	 0.1374 	 0.9063
+Timema 	 OG0004139.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004142.ref.mafft.n 	 2 	 0.0644 	 1.162 	 0.0931 	 1.4450
+Timema 	 OG0004143.ref.mafft.n 	 2 	 0.2241 	 1.556 	 0.2950 	 1.3163
+Timema 	 OG0004144.ref.mafft.n 	 2 	 0.3338 	 2.598 	 0.6287 	 1.8835
+Timema 	 OG0004145.ref.mafft.n 	 2 	 0.0272 	 1.866 	 0.0597 	 2.1909
+Timema 	 OG0004146.ref.mafft.n 	 2 	 0.2173 	 1.344 	 0.2224 	 1.0234
+Timema 	 OG0004148.ref.mafft.n 	 2 	 0.5666 	 1.577 	 0.4408 	 0.7780
+Timema 	 OG0004149.ref.mafft.n 	 2 	 0.1835 	 2.189 	 0.3347 	 1.8239
+Timema 	 OG0004150.ref.mafft.n 	 2 	 0.1888 	 1.016 	 0.1753 	 0.9287
+Timema 	 OG0004151.ref.mafft.n 	 2 	 0.3578 	 2.190 	 0.5136 	 1.4355
+Timema 	 OG0004152.ref.mafft.n 	 2 	 0.1377 	 0.759 	 0.1125 	 0.8173
+Timema 	 OG0004153.ref.mafft.n 	 2 	 0.1582 	 1.201 	 0.1914 	 1.2097
+Timema 	 OG0004154.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004155.ref.mafft.n 	 2 	 0.1645 	 1.115 	 0.1731 	 1.0518
+Timema 	 OG0004156.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004158.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004160.ref.mafft.n 	 2 	 0.2538 	 0.963 	 0.1998 	 0.7873
+Timema 	 OG0004161.ref.mafft.n 	 2 	 0.1399 	 1.269 	 0.1656 	 1.1834
+Timema 	 OG0004162.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004163.ref.mafft.n 	 2 	 0.1127 	 1.423 	 0.1578 	 1.4005
+Timema 	 OG0004164.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004165.ref.mafft.n 	 2 	 0.0636 	 1.241 	 0.1025 	 1.6111
+Timema 	 OG0004166.ref.mafft.n 	 2 	 0.1522 	 1.630 	 0.2427 	 1.5954
+Timema 	 OG0004167.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004168.ref.mafft.n 	 2 	 0.0719 	 0.803 	 0.0781 	 1.0860
+Timema 	 OG0004169.ref.mafft.n 	 2 	 0.1578 	 1.660 	 0.2267 	 1.4371
+Timema 	 OG0004170.ref.mafft.n 	 2 	 0.1917 	 1.128 	 0.1871 	 0.9761
+Timema 	 OG0004171.ref.mafft.n 	 2 	 0.1533 	 1.687 	 0.2544 	 1.6594
+Timema 	 OG0004173.ref.mafft.n 	 2 	 0.2097 	 1.454 	 0.2733 	 1.3034
+Timema 	 OG0004175.ref.mafft.n 	 2 	 0.2691 	 1.033 	 0.2152 	 0.7996
+Timema 	 OG0004176.ref.mafft.n 	 2 	 0.1199 	 3.967 	 0.4709 	 3.9290
+Timema 	 OG0004177.ref.mafft.n 	 2 	 0.0904 	 1.587 	 0.1683 	 1.8620
+Timema 	 OG0004178.ref.mafft.n 	 2 	 0.1003 	 2.111 	 0.2817 	 2.8089
+Timema 	 OG0004179.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004183.ref.mafft.n 	 2 	 0.1171 	 0.685 	 0.0812 	 0.6939
+Timema 	 OG0004185.ref.mafft.n 	 2 	 0.1178 	 1.065 	 0.1274 	 1.0810
+Timema 	 OG0004186.ref.mafft.n 	 2 	 0.0620 	 1.167 	 0.0950 	 1.5332
+Timema 	 OG0004187.ref.mafft.n 	 2 	 0.0496 	 1.123 	 0.0647 	 1.3028
+Timema 	 OG0004188.ref.mafft.n 	 2 	 0.1673 	 1.535 	 0.2244 	 1.3408
+Timema 	 OG0004189.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004190.ref.mafft.n 	 2 	 0.1974 	 1.057 	 0.1851 	 0.9377
+Timema 	 OG0004192.ref.mafft.n 	 2 	 0.0984 	 1.293 	 0.1225 	 1.2441
+Timema 	 OG0004193.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004194.ref.mafft.n 	 2 	 0.0947 	 0.909 	 0.0988 	 1.0435
+Timema 	 OG0004196.ref.mafft.n 	 2 	 0.2638 	 1.359 	 0.2713 	 1.0284
+Timema 	 OG0004197.ref.mafft.n 	 2 	 0.1366 	 0.946 	 0.1578 	 1.1555
+Timema 	 OG0004198.ref.mafft.n 	 2 	 0.1040 	 1.200 	 0.1279 	 1.2298
+Timema 	 OG0004199.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004200.ref.mafft.n 	 2 	 0.1560 	 1.546 	 0.2178 	 1.3959
+Timema 	 OG0004201.ref.mafft.n 	 2 	 0.0697 	 0.756 	 0.0688 	 0.9872
+Timema 	 OG0004205.ref.mafft.n 	 2 	 0.0629 	 0.952 	 0.0899 	 1.4287
+Timema 	 OG0004206.ref.mafft.n 	 2 	 0.2154 	 1.781 	 0.3253 	 1.5106
+Timema 	 OG0004207.ref.mafft.n 	 2 	 0.0914 	 0.558 	 0.0531 	 0.5810
+Timema 	 OG0004208.ref.mafft.n 	 2 	 0.1253 	 0.681 	 0.0853 	 0.6803
+Timema 	 OG0004209.ref.mafft.n 	 2 	 0.1919 	 1.290 	 0.2502 	 1.3038
+Timema 	 OG0004210.ref.mafft.n 	 2 	 0.0263 	 0.496 	 0.0257 	 0.9770
+Timema 	 OG0004211.ref.mafft.n 	 2 	 0.0318 	 0.884 	 0.0430 	 1.3513
+Timema 	 OG0004212.ref.mafft.n 	 2 	 0.0450 	 0.820 	 0.0553 	 1.2300
+Timema 	 OG0004213.ref.mafft.n 	 2 	 0.1554 	 1.010 	 0.1458 	 0.9381
+Timema 	 OG0004215.ref.mafft.n 	 2 	 0.0570 	 1.970 	 0.1419 	 2.4903
+Timema 	 OG0004216.ref.mafft.n 	 2 	 0.3391 	 1.057 	 0.2508 	 0.7395
+Timema 	 OG0004218.ref.mafft.n 	 2 	 0.0514 	 1.653 	 0.1037 	 2.0179
+Timema 	 OG0004219.ref.mafft.n 	 2 	 0.2042 	 1.400 	 0.2475 	 1.2121
+Timema 	 OG0004220.ref.mafft.n 	 2 	 0.1179 	 2.553 	 0.2917 	 2.4741
+Timema 	 OG0004221.ref.mafft.n 	 2 	 0.1179 	 1.746 	 0.2137 	 1.8126
+Timema 	 OG0004223.ref.mafft.n 	 2 	 0.1578 	 1.658 	 0.2604 	 1.6499
+Timema 	 OG0004226.ref.mafft.n 	 2 	 0.1777 	 1.986 	 0.3081 	 1.7334
+Timema 	 OG0004227.ref.mafft.n 	 2 	 0.0760 	 2.048 	 0.1935 	 2.5476
+Timema 	 OG0004228.ref.mafft.n 	 2 	 0.0607 	 0.795 	 0.0640 	 1.0544
+Timema 	 OG0004230.ref.mafft.n 	 2 	 0.0521 	 1.128 	 0.0757 	 1.4539
+Timema 	 OG0004231.ref.mafft.n 	 2 	 0.1260 	 0.892 	 0.1250 	 0.9917
+Timema 	 OG0004232.ref.mafft.n 	 2 	 0.5863 	 1.187 	 0.3350 	 0.5714
+Timema 	 OG0004233.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004235.ref.mafft.n 	 2 	 0.3300 	 1.587 	 0.3668 	 1.1115
+Timema 	 OG0004236.ref.mafft.n 	 2 	 0.0512 	 1.385 	 0.0790 	 1.5416
+Timema 	 OG0004238.ref.mafft.n 	 2 	 0.2146 	 1.610 	 0.2631 	 1.2258
+Timema 	 OG0004239.ref.mafft.n 	 2 	 0.2268 	 1.264 	 0.2230 	 0.9832
+Timema 	 OG0004240.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004241.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004242.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004243.ref.mafft.n 	 2 	 0.0761 	 1.522 	 0.1297 	 1.7036
+Timema 	 OG0004244.ref.mafft.n 	 2 	 0.2204 	 1.005 	 0.1742 	 0.7905
+Timema 	 OG0004245.ref.mafft.n 	 2 	 0.0471 	 1.125 	 0.0670 	 1.4213
+Timema 	 OG0004246.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004247.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004248.ref.mafft.n 	 2 	 0.0576 	 1.627 	 0.1323 	 2.2963
+Timema 	 OG0004251.ref.mafft.n 	 2 	 0.2219 	 1.910 	 0.4030 	 1.8163
+Timema 	 OG0004253.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004254.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004255.ref.mafft.n 	 2 	 0.1849 	 1.165 	 0.2141 	 1.1577
+Timema 	 OG0004256.ref.mafft.n 	 2 	 0.0644 	 1.158 	 0.0847 	 1.3151
+Timema 	 OG0004259.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004260.ref.mafft.n 	 2 	 0.0585 	 1.114 	 0.0761 	 1.3015
+Timema 	 OG0004261.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004262.ref.mafft.n 	 2 	 0.1452 	 1.437 	 0.1970 	 1.3565
+Timema 	 OG0004263.ref.mafft.n 	 2 	 0.0820 	 1.825 	 0.1785 	 2.1756
+Timema 	 OG0004266.ref.mafft.n 	 2 	 0.2681 	 1.611 	 0.3093 	 1.1536
+Timema 	 OG0004267.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004268.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004269.ref.mafft.n 	 2 	 0.2810 	 1.631 	 0.3336 	 1.1870
+Timema 	 OG0004270.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004271.ref.mafft.n 	 2 	 0.2153 	 1.341 	 0.2334 	 1.0839
+Timema 	 OG0004272.ref.mafft.n 	 2 	 0.1118 	 1.036 	 0.1211 	 1.0831
+Timema 	 OG0004273.ref.mafft.n 	 2 	 0.0412 	 0.667 	 0.0418 	 1.0143
+Timema 	 OG0004274.ref.mafft.n 	 2 	 0.0328 	 0.879 	 0.0487 	 1.4828
+Timema 	 OG0004275.ref.mafft.n 	 2 	 0.0827 	 1.615 	 0.1371 	 1.6580
+Timema 	 OG0004276.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004277.ref.mafft.n 	 2 	 0.2112 	 3.804 	 0.6766 	 3.2038
+Timema 	 OG0004278.ref.mafft.n 	 2 	 0.2031 	 0.855 	 0.1620 	 0.7976
+Timema 	 OG0004279.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004280.ref.mafft.n 	 2 	 0.0600 	 1.577 	 0.1508 	 2.5155
+Timema 	 OG0004281.ref.mafft.n 	 2 	 0.2009 	 1.520 	 0.2714 	 1.3510
+Timema 	 OG0004282.ref.mafft.n 	 2 	 0.1761 	 0.895 	 0.1812 	 1.0290
+Timema 	 OG0004286.ref.mafft.n 	 2 	 0.3754 	 1.302 	 0.3056 	 0.8141
+Timema 	 OG0004287.ref.mafft.n 	 2 	 0.1062 	 1.343 	 0.1642 	 1.5464
+Timema 	 OG0004288.ref.mafft.n 	 2 	 0.1110 	 0.809 	 0.1025 	 0.9238
+Timema 	 OG0004289.ref.mafft.n 	 2 	 0.3514 	 1.630 	 0.3891 	 1.1073
+Timema 	 OG0004291.ref.mafft.n 	 2 	 0.1464 	 2.212 	 0.3326 	 2.2716
+Timema 	 OG0004294.ref.mafft.n 	 2 	 0.1799 	 0.789 	 0.1251 	 0.6957
+Timema 	 OG0004296.ref.mafft.n 	 2 	 0.1269 	 1.156 	 0.1775 	 1.3981
+Timema 	 OG0004297.ref.mafft.n 	 2 	 0.1987 	 3.288 	 0.4640 	 2.3346
+Timema 	 OG0004298.ref.mafft.n 	 2 	 0.0899 	 1.119 	 0.1130 	 1.2567
+Timema 	 OG0004299.ref.mafft.n 	 2 	 0.1720 	 2.635 	 0.3757 	 2.1843
+Timema 	 OG0004300.ref.mafft.n 	 2 	 0.5571 	 2.137 	 0.6028 	 1.0821
+Timema 	 OG0004301.ref.mafft.n 	 2 	 0.1826 	 1.046 	 0.1647 	 0.9020
+Timema 	 OG0004302.ref.mafft.n 	 2 	 0.1328 	 1.242 	 0.1930 	 1.4540
+Timema 	 OG0004303.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004304.ref.mafft.n 	 2 	 0.1117 	 1.607 	 0.1846 	 1.6522
+Timema 	 OG0004305.ref.mafft.n 	 2 	 0.0652 	 1.744 	 0.1256 	 1.9266
+Timema 	 OG0004306.ref.mafft.n 	 2 	 0.0428 	 3.585 	 0.1944 	 4.5402
+Timema 	 OG0004307.ref.mafft.n 	 2 	 0.0238 	 1.091 	 0.0319 	 1.3422
+Timema 	 OG0004308.ref.mafft.n 	 2 	 0.3259 	 1.505 	 0.3186 	 0.9775
+Timema 	 OG0004309.ref.mafft.n 	 2 	 0.1606 	 1.298 	 0.1907 	 1.1878
+Timema 	 OG0004312.ref.mafft.n 	 2 	 0.0617 	 1.417 	 0.1157 	 1.8751
+Timema 	 OG0004313.ref.mafft.n 	 2 	 0.0513 	 1.650 	 0.0944 	 1.8407
+Timema 	 OG0004314.ref.mafft.n 	 2 	 0.2277 	 1.397 	 0.2682 	 1.1777
+Timema 	 OG0004315.ref.mafft.n 	 2 	 0.3867 	 1.976 	 0.4881 	 1.2624
+Timema 	 OG0004316.ref.mafft.n 	 2 	 0.1266 	 1.564 	 0.2017 	 1.5927
+Timema 	 OG0004317.ref.mafft.n 	 2 	 0.2992 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0004319.ref.mafft.n 	 2 	 0.1885 	 1.314 	 0.2200 	 1.1669
+Timema 	 OG0004320.ref.mafft.n 	 2 	 0.1847 	 1.738 	 0.2621 	 1.4193
+Timema 	 OG0004321.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004322.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004323.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004324.ref.mafft.n 	 2 	 0.0542 	 1.458 	 0.0847 	 1.5621
+Timema 	 OG0004325.ref.mafft.n 	 2 	 0.0757 	 1.374 	 0.1228 	 1.6219
+Timema 	 OG0004327.ref.mafft.n 	 2 	 0.2950 	 1.542 	 0.3245 	 1.0998
+Timema 	 OG0004328.ref.mafft.n 	 2 	 0.0668 	 0.928 	 0.0936 	 1.4005
+Timema 	 OG0004329.ref.mafft.n 	 2 	 0.2216 	 1.010 	 0.1647 	 0.7433
+Timema 	 OG0004331.ref.mafft.n 	 2 	 0.3440 	 1.724 	 0.3914 	 1.1381
+Timema 	 OG0004332.ref.mafft.n 	 2 	 0.0816 	 1.506 	 0.1282 	 1.5714
+Timema 	 OG0004333.ref.mafft.n 	 2 	 0.2143 	 1.226 	 0.2166 	 1.0110
+Timema 	 OG0004334.ref.mafft.n 	 2 	 0.4101 	 2.277 	 0.5631 	 1.3732
+Timema 	 OG0004335.ref.mafft.n 	 2 	 0.3768 	 1.714 	 0.3999 	 1.0613
+Timema 	 OG0004337.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004338.ref.mafft.n 	 2 	 0.3153 	 1.358 	 0.3017 	 0.9569
+Timema 	 OG0004339.ref.mafft.n 	 2 	 0.0312 	 0.824 	 0.0358 	 1.1490
+Timema 	 OG0004340.ref.mafft.n 	 2 	 0.0880 	 1.199 	 0.1151 	 1.3084
+Timema 	 OG0004341.ref.mafft.n 	 2 	 0.3191 	 2.331 	 0.5121 	 1.6050
+Timema 	 OG0004343.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004344.ref.mafft.n 	 2 	 0.0603 	 1.122 	 0.0995 	 1.6493
+Timema 	 OG0004346.ref.mafft.n 	 2 	 0.0820 	 1.822 	 0.1628 	 1.9861
+Timema 	 OG0004347.ref.mafft.n 	 2 	 0.0983 	 0.893 	 0.1178 	 1.1982
+Timema 	 OG0004348.ref.mafft.n 	 2 	 0.1018 	 2.131 	 0.2215 	 2.1758
+Timema 	 OG0004349.ref.mafft.n 	 2 	 0.0723 	 1.067 	 0.0985 	 1.3609
+Timema 	 OG0004350.ref.mafft.n 	 2 	 0.2507 	 1.522 	 0.2691 	 1.0731
+Timema 	 OG0004351.ref.mafft.n 	 2 	 0.4490 	 2.101 	 0.5275 	 1.1747
+Timema 	 OG0004352.ref.mafft.n 	 2 	 0.0709 	 1.002 	 0.0893 	 1.2606
+Timema 	 OG0004354.ref.mafft.n 	 2 	 0.0424 	 1.332 	 0.0737 	 1.7391
+Timema 	 OG0004355.ref.mafft.n 	 2 	 0.1240 	 2.326 	 0.2862 	 2.3075
+Timema 	 OG0004356.ref.mafft.n 	 2 	 0.2781 	 1.626 	 0.3450 	 1.2408
+Timema 	 OG0004357.ref.mafft.n 	 2 	 0.0992 	 1.319 	 0.1272 	 1.2823
+Timema 	 OG0004359.ref.mafft.n 	 2 	 0.0506 	 0.858 	 0.0729 	 1.4412
+Timema 	 OG0004360.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004361.ref.mafft.n 	 2 	 0.0562 	 0.958 	 0.0772 	 1.3751
+Timema 	 OG0004363.ref.mafft.n 	 2 	 0.1443 	 1.184 	 0.1656 	 1.1481
+Timema 	 OG0004364.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004365.ref.mafft.n 	 2 	 0.1589 	 1.196 	 0.1749 	 1.1009
+Timema 	 OG0004366.ref.mafft.n 	 2 	 0.2088 	 2.546 	 0.4319 	 2.0684
+Timema 	 OG0004367.ref.mafft.n 	 2 	 0.0879 	 0.933 	 0.1083 	 1.2320
+Timema 	 OG0004368.ref.mafft.n 	 2 	 0.0641 	 0.964 	 0.0848 	 1.3231
+Timema 	 OG0004369.ref.mafft.n 	 2 	 0.0642 	 1.023 	 0.0921 	 1.4347
+Timema 	 OG0004370.ref.mafft.n 	 2 	 0.0891 	 0.874 	 0.0954 	 1.0706
+Timema 	 OG0004371.ref.mafft.n 	 2 	 0.1892 	 1.205 	 0.2297 	 1.2139
+Timema 	 OG0004375.ref.mafft.n 	 2 	 0.1057 	 1.034 	 0.1111 	 1.0517
+Timema 	 OG0004376.ref.mafft.n 	 2 	 0.3160 	 1.118 	 0.2434 	 0.7701
+Timema 	 OG0004377.ref.mafft.n 	 2 	 0.0449 	 0.901 	 0.0687 	 1.5299
+Timema 	 OG0004378.ref.mafft.n 	 2 	 0.3688 	 1.089 	 0.2481 	 0.6729
+Timema 	 OG0004380.ref.mafft.n 	 2 	 0.3422 	 1.457 	 0.3413 	 0.9974
+Timema 	 OG0004381.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004382.ref.mafft.n 	 2 	 0.1361 	 0.903 	 0.1356 	 0.9969
+Timema 	 OG0004384.ref.mafft.n 	 2 	 0.0217 	 1.227 	 0.0382 	 1.7575
+Timema 	 OG0004385.ref.mafft.n 	 2 	 0.0970 	 0.829 	 0.0903 	 0.9305
+Timema 	 OG0004387.ref.mafft.n 	 2 	 0.1954 	 1.344 	 0.2228 	 1.1400
+Timema 	 OG0004388.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004389.ref.mafft.n 	 2 	 0.0804 	 1.573 	 0.1534 	 1.9094
+Timema 	 OG0004390.ref.mafft.n 	 2 	 0.1004 	 1.849 	 0.2118 	 2.1099
+Timema 	 OG0004392.ref.mafft.n 	 2 	 0.1013 	 0.896 	 0.1107 	 1.0936
+Timema 	 OG0004393.ref.mafft.n 	 2 	 0.1449 	 4.521 	 0.5869 	 4.0502
+Timema 	 OG0004394.ref.mafft.n 	 2 	 0.2510 	 0.977 	 0.1980 	 0.7888
+Timema 	 OG0004395.ref.mafft.n 	 2 	 0.0899 	 1.023 	 0.1131 	 1.2591
+Timema 	 OG0004396.ref.mafft.n 	 2 	 0.0808 	 0.637 	 0.0736 	 0.9110
+Timema 	 OG0004397.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004399.ref.mafft.n 	 2 	 0.0678 	 2.903 	 0.2302 	 3.3976
+Timema 	 OG0004400.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004401.ref.mafft.n 	 2 	 0.4450 	 0.909 	 0.2333 	 0.5243
+Timema 	 OG0004402.ref.mafft.n 	 2 	 0.6057 	 1.640 	 0.4640 	 0.7661
+Timema 	 OG0004404.ref.mafft.n 	 2 	 0.2360 	 0.764 	 0.1456 	 0.6171
+Timema 	 OG0004405.ref.mafft.n 	 2 	 0.1628 	 1.676 	 0.2494 	 1.5320
+Timema 	 OG0004408.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004410.ref.mafft.n 	 2 	 0.2111 	 1.848 	 0.3243 	 1.5360
+Timema 	 OG0004411.ref.mafft.n 	 2 	 0.0488 	 0.956 	 0.0357 	 0.7314
+Timema 	 OG0004412.ref.mafft.n 	 2 	 0.1073 	 1.244 	 0.1510 	 1.4070
+Timema 	 OG0004413.ref.mafft.n 	 2 	 0.0914 	 1.851 	 0.1955 	 2.1381
+Timema 	 OG0004414.ref.mafft.n 	 2 	 0.2950 	 1.826 	 0.3701 	 1.2547
+Timema 	 OG0004415.ref.mafft.n 	 2 	 0.1220 	 1.456 	 0.1650 	 1.3520
+Timema 	 OG0004417.ref.mafft.n 	 2 	 0.0827 	 1.499 	 0.1354 	 1.6376
+Timema 	 OG0004419.ref.mafft.n 	 2 	 0.1943 	 0.888 	 0.1542 	 0.7937
+Timema 	 OG0004420.ref.mafft.n 	 2 	 0.1166 	 0.823 	 0.1199 	 1.0283
+Timema 	 OG0004421.ref.mafft.n 	 2 	 0.1565 	 1.339 	 0.1991 	 1.2720
+Timema 	 OG0004422.ref.mafft.n 	 2 	 0.1265 	 2.716 	 0.3234 	 2.5567
+Timema 	 OG0004423.ref.mafft.n 	 2 	 0.1691 	 1.094 	 0.1606 	 0.9494
+Timema 	 OG0004424.ref.mafft.n 	 2 	 0.0821 	 1.054 	 0.1223 	 1.4891
+Timema 	 OG0004426.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004427.ref.mafft.n 	 2 	 0.1179 	 1.246 	 0.1701 	 1.4423
+Timema 	 OG0004428.ref.mafft.n 	 2 	 0.0442 	 1.081 	 0.0603 	 1.3624
+Timema 	 OG0004429.ref.mafft.n 	 2 	 0.1204 	 1.271 	 0.1692 	 1.4055
+Timema 	 OG0004430.ref.mafft.n 	 2 	 0.0353 	 1.294 	 0.0677 	 1.9161
+Timema 	 OG0004431.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004433.ref.mafft.n 	 2 	 0.2386 	 2.183 	 0.4181 	 1.7518
+Timema 	 OG0004434.ref.mafft.n 	 2 	 0.0680 	 1.506 	 0.1396 	 2.0510
+Timema 	 OG0004435.ref.mafft.n 	 2 	 0.0823 	 1.011 	 0.1310 	 1.5909
+Timema 	 OG0004437.ref.mafft.n 	 2 	 0.0200 	 1.310 	 0.0375 	 1.8757
+Timema 	 OG0004438.ref.mafft.n 	 2 	 0.0531 	 1.637 	 0.1133 	 2.1346
+Timema 	 OG0004439.ref.mafft.n 	 2 	 0.2427 	 1.589 	 0.2911 	 1.1998
+Timema 	 OG0004440.ref.mafft.n 	 2 	 0.0815 	 0.553 	 0.0745 	 0.9143
+Timema 	 OG0004441.ref.mafft.n 	 2 	 0.0645 	 1.313 	 0.0945 	 1.4669
+Timema 	 OG0004442.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004443.ref.mafft.n 	 2 	 0.1623 	 1.653 	 0.2434 	 1.4992
+Timema 	 OG0004444.ref.mafft.n 	 2 	 0.2670 	 1.376 	 0.2812 	 1.0534
+Timema 	 OG0004445.ref.mafft.n 	 2 	 0.1123 	 1.539 	 0.1964 	 1.7483
+Timema 	 OG0004446.ref.mafft.n 	 2 	 0.0719 	 1.034 	 0.1001 	 1.3925
+Timema 	 OG0004447.ref.mafft.n 	 2 	 0.7959 	 0.851 	 0.2652 	 0.3332
+Timema 	 OG0004449.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004452.ref.mafft.n 	 2 	 0.1218 	 1.322 	 0.1610 	 1.3219
+Timema 	 OG0004453.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004454.ref.mafft.n 	 2 	 0.0492 	 1.108 	 0.0706 	 1.4358
+Timema 	 OG0004455.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004456.ref.mafft.n 	 2 	 0.1954 	 2.196 	 0.3528 	 1.8056
+Timema 	 OG0004457.ref.mafft.n 	 2 	 0.0985 	 1.516 	 0.1700 	 1.7258
+Timema 	 OG0004459.ref.mafft.n 	 2 	 0.0382 	 3.040 	 0.1371 	 3.5908
+Timema 	 OG0004460.ref.mafft.n 	 2 	 0.0658 	 0.999 	 0.0757 	 1.1510
+Timema 	 OG0004462.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004464.ref.mafft.n 	 2 	 0.1664 	 1.473 	 0.2208 	 1.3270
+Timema 	 OG0004465.ref.mafft.n 	 2 	 0.0177 	 1.076 	 0.0317 	 1.7971
+Timema 	 OG0004466.ref.mafft.n 	 2 	 0.1451 	 0.738 	 0.1044 	 0.7194
+Timema 	 OG0004467.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004468.ref.mafft.n 	 2 	 0.0508 	 1.528 	 0.1044 	 2.0563
+Timema 	 OG0004469.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004470.ref.mafft.n 	 2 	 0.1130 	 1.282 	 0.1380 	 1.2216
+Timema 	 OG0004471.ref.mafft.n 	 2 	 0.0481 	 0.517 	 0.0315 	 0.6554
+Timema 	 OG0004474.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004475.ref.mafft.n 	 2 	 0.0762 	 1.219 	 0.1280 	 1.6805
+Timema 	 OG0004476.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004477.ref.mafft.n 	 2 	 0.2030 	 1.576 	 0.2696 	 1.3279
+Timema 	 OG0004478.ref.mafft.n 	 2 	 0.2740 	 0.977 	 0.2076 	 0.7575
+Timema 	 OG0004480.ref.mafft.n 	 2 	 0.0930 	 1.010 	 0.1148 	 1.2352
+Timema 	 OG0004481.ref.mafft.n 	 2 	 0.0314 	 1.258 	 0.0492 	 1.5651
+Timema 	 OG0004483.ref.mafft.n 	 2 	 0.0933 	 1.100 	 0.1290 	 1.3824
+Timema 	 OG0004484.ref.mafft.n 	 2 	 0.2120 	 1.167 	 0.2081 	 0.9818
+Timema 	 OG0004485.ref.mafft.n 	 2 	 0.1634 	 0.982 	 0.1914 	 1.1717
+Timema 	 OG0004486.ref.mafft.n 	 2 	 0.0303 	 1.166 	 0.0474 	 1.5624
+Timema 	 OG0004487.ref.mafft.n 	 2 	 0.1636 	 0.922 	 0.1544 	 0.9437
+Timema 	 OG0004490.ref.mafft.n 	 2 	 0.1940 	 0.756 	 0.1494 	 0.7705
+Timema 	 OG0004492.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004493.ref.mafft.n 	 2 	 0.1405 	 1.192 	 0.1459 	 1.0383
+Timema 	 OG0004497.ref.mafft.n 	 2 	 0.1662 	 1.477 	 0.2305 	 1.3866
+Timema 	 OG0004499.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004500.ref.mafft.n 	 2 	 0.1366 	 1.408 	 0.1697 	 1.2424
+Timema 	 OG0004501.ref.mafft.n 	 2 	 0.0565 	 1.221 	 0.1088 	 1.9243
+Timema 	 OG0004502.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004503.ref.mafft.n 	 2 	 0.0788 	 1.123 	 0.1009 	 1.2810
+Timema 	 OG0004504.ref.mafft.n 	 2 	 0.2912 	 2.551 	 0.5213 	 1.7900
+Timema 	 OG0004505.ref.mafft.n 	 2 	 0.1677 	 1.355 	 0.1972 	 1.1762
+Timema 	 OG0004506.ref.mafft.n 	 2 	 0.1946 	 1.324 	 0.2292 	 1.1778
+Timema 	 OG0004507.ref.mafft.n 	 2 	 0.0651 	 0.818 	 0.0787 	 1.2088
+Timema 	 OG0004508.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004510.ref.mafft.n 	 2 	 0.2762 	 2.089 	 0.4193 	 1.5181
+Timema 	 OG0004511.ref.mafft.n 	 2 	 0.1605 	 1.326 	 0.1974 	 1.2297
+Timema 	 OG0004515.ref.mafft.n 	 2 	 0.3235 	 1.119 	 0.2476 	 0.7655
+Timema 	 OG0004516.ref.mafft.n 	 2 	 0.0932 	 0.873 	 0.0989 	 1.0605
+Timema 	 OG0004520.ref.mafft.n 	 2 	 0.3837 	 1.512 	 0.3731 	 0.9724
+Timema 	 OG0004521.ref.mafft.n 	 2 	 0.2338 	 1.424 	 0.2852 	 1.2196
+Timema 	 OG0004524.ref.mafft.n 	 2 	 0.1121 	 0.944 	 0.1078 	 0.9614
+Timema 	 OG0004525.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004526.ref.mafft.n 	 2 	 0.1674 	 1.367 	 0.1955 	 1.1677
+Timema 	 OG0004527.ref.mafft.n 	 2 	 0.1296 	 1.335 	 0.1810 	 1.3966
+Timema 	 OG0004528.ref.mafft.n 	 2 	 0.2091 	 1.110 	 0.2353 	 1.1252
+Timema 	 OG0004529.ref.mafft.n 	 2 	 0.0466 	 1.470 	 0.1135 	 2.4346
+Timema 	 OG0004532.ref.mafft.n 	 2 	 0.0891 	 1.466 	 0.1489 	 1.6723
+Timema 	 OG0004533.ref.mafft.n 	 2 	 0.0931 	 0.851 	 0.0971 	 1.0428
+Timema 	 OG0004534.ref.mafft.n 	 2 	 0.1824 	 1.069 	 0.1807 	 0.9905
+Timema 	 OG0004535.ref.mafft.n 	 2 	 0.2785 	 1.234 	 0.2445 	 0.8780
+Timema 	 OG0004537.ref.mafft.n 	 2 	 0.0344 	 3.747 	 0.1702 	 4.9555
+Timema 	 OG0004538.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004539.ref.mafft.n 	 2 	 0.0394 	 1.536 	 0.0914 	 2.3182
+Timema 	 OG0004540.ref.mafft.n 	 2 	 0.3277 	 1.786 	 0.3943 	 1.2031
+Timema 	 OG0004541.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004542.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004543.ref.mafft.n 	 2 	 0.4102 	 1.540 	 0.3890 	 0.9484
+Timema 	 OG0004544.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004545.ref.mafft.n 	 2 	 0.0739 	 1.158 	 0.0998 	 1.3493
+Timema 	 OG0004546.ref.mafft.n 	 2 	 0.2496 	 1.324 	 0.2932 	 1.1747
+Timema 	 OG0004547.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004549.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004551.ref.mafft.n 	 2 	 0.0936 	 0.667 	 0.0967 	 1.0334
+Timema 	 OG0004552.ref.mafft.n 	 2 	 0.1441 	 1.067 	 0.1539 	 1.0677
+Timema 	 OG0004553.ref.mafft.n 	 2 	 0.1322 	 1.682 	 0.2308 	 1.7451
+Timema 	 OG0004554.ref.mafft.n 	 2 	 0.4454 	 1.683 	 0.4328 	 0.9717
+Timema 	 OG0004555.ref.mafft.n 	 2 	 0.1585 	 2.146 	 0.3478 	 2.1948
+Timema 	 OG0004556.ref.mafft.n 	 2 	 0.0629 	 0.591 	 0.0634 	 1.0079
+Timema 	 OG0004557.ref.mafft.n 	 2 	 0.2240 	 1.503 	 0.2674 	 1.1936
+Timema 	 OG0004558.ref.mafft.n 	 2 	 0.1190 	 4.261 	 0.5169 	 4.3458
+Timema 	 OG0004559.ref.mafft.n 	 2 	 0.0596 	 1.260 	 0.0809 	 1.3564
+Timema 	 OG0004560.ref.mafft.n 	 2 	 0.1236 	 1.994 	 0.2269 	 1.8367
+Timema 	 OG0004561.ref.mafft.n 	 2 	 0.0981 	 0.783 	 0.0995 	 1.0146
+Timema 	 OG0004562.ref.mafft.n 	 2 	 0.1011 	 1.043 	 0.1077 	 1.0659
+Timema 	 OG0004563.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004564.ref.mafft.n 	 2 	 0.0261 	 0.888 	 0.0337 	 1.2911
+Timema 	 OG0004565.ref.mafft.n 	 2 	 0.2114 	 2.595 	 0.4331 	 2.0486
+Timema 	 OG0004567.ref.mafft.n 	 2 	 0.1375 	 0.939 	 0.1359 	 0.9883
+Timema 	 OG0004568.ref.mafft.n 	 2 	 0.1747 	 1.185 	 0.1884 	 1.0786
+Timema 	 OG0004569.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004571.ref.mafft.n 	 2 	 0.2309 	 1.339 	 0.2778 	 1.2031
+Timema 	 OG0004573.ref.mafft.n 	 2 	 0.0288 	 1.759 	 0.0614 	 2.1281
+Timema 	 OG0004574.ref.mafft.n 	 2 	 0.0717 	 1.043 	 0.1148 	 1.6027
+Timema 	 OG0004575.ref.mafft.n 	 2 	 0.3028 	 2.986 	 0.6529 	 2.1562
+Timema 	 OG0004576.ref.mafft.n 	 2 	 0.0837 	 1.338 	 0.1550 	 1.8523
+Timema 	 OG0004578.ref.mafft.n 	 2 	 0.2828 	 2.328 	 0.4922 	 1.7405
+Timema 	 OG0004579.ref.mafft.n 	 2 	 0.0637 	 0.833 	 0.0853 	 1.3391
+Timema 	 OG0004580.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004581.ref.mafft.n 	 2 	 0.0199 	 1.033 	 0.0237 	 1.1874
+Timema 	 OG0004582.ref.mafft.n 	 2 	 0.2337 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0004584.ref.mafft.n 	 2 	 0.1110 	 1.203 	 0.1556 	 1.4014
+Timema 	 OG0004585.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004586.ref.mafft.n 	 2 	 0.0426 	 2.178 	 0.1121 	 2.6344
+Timema 	 OG0004588.ref.mafft.n 	 2 	 0.0404 	 1.832 	 0.0839 	 2.0783
+Timema 	 OG0004589.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004590.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004591.ref.mafft.n 	 2 	 0.1275 	 0.651 	 0.1023 	 0.8022
+Timema 	 OG0004592.ref.mafft.n 	 2 	 0.2524 	 3.010 	 0.5537 	 2.1933
+Timema 	 OG0004594.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004595.ref.mafft.n 	 2 	 0.0753 	 1.174 	 0.1212 	 1.6094
+Timema 	 OG0004596.ref.mafft.n 	 2 	 0.1852 	 1.237 	 0.2139 	 1.1547
+Timema 	 OG0004597.ref.mafft.n 	 2 	 0.0996 	 1.762 	 0.1825 	 1.8322
+Timema 	 OG0004598.ref.mafft.n 	 2 	 0.0927 	 1.303 	 0.1335 	 1.4395
+Timema 	 OG0004599.ref.mafft.n 	 2 	 0.0152 	 1.124 	 0.0262 	 1.7242
+Timema 	 OG0004601.ref.mafft.n 	 2 	 0.2640 	 1.400 	 0.2776 	 1.0512
+Timema 	 OG0004602.ref.mafft.n 	 2 	 0.1433 	 1.215 	 0.1795 	 1.2526
+Timema 	 OG0004603.ref.mafft.n 	 2 	 0.1941 	 2.651 	 0.4725 	 2.4341
+Timema 	 OG0004604.ref.mafft.n 	 2 	 0.0573 	 1.384 	 0.0886 	 1.5451
+Timema 	 OG0004605.ref.mafft.n 	 2 	 0.4619 	 1.955 	 0.4748 	 1.0278
+Timema 	 OG0004607.ref.mafft.n 	 2 	 0.3454 	 1.849 	 0.4171 	 1.2074
+Timema 	 OG0004608.ref.mafft.n 	 2 	 0.2374 	 1.894 	 0.3655 	 1.5391
+Timema 	 OG0004609.ref.mafft.n 	 2 	 0.1238 	 1.064 	 0.1353 	 1.0928
+Timema 	 OG0004610.ref.mafft.n 	 2 	 0.0440 	 1.066 	 0.0615 	 1.3972
+Timema 	 OG0004611.ref.mafft.n 	 2 	 0.2147 	 1.125 	 0.2017 	 0.9392
+Timema 	 OG0004612.ref.mafft.n 	 2 	 0.1162 	 1.001 	 0.1319 	 1.1350
+Timema 	 OG0004613.ref.mafft.n 	 2 	 0.1198 	 1.207 	 0.1433 	 1.1959
+Timema 	 OG0004614.ref.mafft.n 	 2 	 0.2869 	 2.083 	 0.4229 	 1.4738
+Timema 	 OG0004616.ref.mafft.n 	 2 	 0.1204 	 1.059 	 0.1401 	 1.1633
+Timema 	 OG0004617.ref.mafft.n 	 2 	 0.0896 	 1.098 	 0.1135 	 1.2665
+Timema 	 OG0004618.ref.mafft.n 	 2 	 0.1503 	 1.108 	 0.1932 	 1.2860
+Timema 	 OG0004620.ref.mafft.n 	 2 	 0.0819 	 1.249 	 0.1091 	 1.3317
+Timema 	 OG0004621.ref.mafft.n 	 2 	 0.2593 	 1.259 	 0.2688 	 1.0365
+Timema 	 OG0004622.ref.mafft.n 	 2 	 0.1135 	 1.097 	 0.1292 	 1.1388
+Timema 	 OG0004623.ref.mafft.n 	 2 	 0.0673 	 1.354 	 0.1037 	 1.5407
+Timema 	 OG0004624.ref.mafft.n 	 2 	 0.1576 	 1.255 	 0.2403 	 1.5248
+Timema 	 OG0004625.ref.mafft.n 	 2 	 0.1187 	 1.313 	 0.1774 	 1.4940
+Timema 	 OG0004626.ref.mafft.n 	 2 	 0.2038 	 1.082 	 0.2125 	 1.0423
+Timema 	 OG0004627.ref.mafft.n 	 2 	 0.0543 	 1.117 	 0.0993 	 1.8286
+Timema 	 OG0004628.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004631.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004632.ref.mafft.n 	 2 	 0.4019 	 2.654 	 0.6375 	 1.5860
+Timema 	 OG0004633.ref.mafft.n 	 2 	 0.1021 	 2.440 	 0.2408 	 2.3585
+Timema 	 OG0004634.ref.mafft.n 	 2 	 0.3529 	 1.212 	 0.2663 	 0.7546
+Timema 	 OG0004635.ref.mafft.n 	 2 	 0.1951 	 1.307 	 0.2272 	 1.1648
+Timema 	 OG0004636.ref.mafft.n 	 2 	 0.3859 	 1.336 	 0.3164 	 0.8200
+Timema 	 OG0004637.ref.mafft.n 	 2 	 0.0534 	 0.856 	 0.0613 	 1.1473
+Timema 	 OG0004638.ref.mafft.n 	 2 	 0.2303 	 1.239 	 0.2310 	 1.0033
+Timema 	 OG0004639.ref.mafft.n 	 2 	 0.1023 	 2.842 	 0.3651 	 3.5702
+Timema 	 OG0004640.ref.mafft.n 	 2 	 0.0900 	 1.264 	 0.1300 	 1.4457
+Timema 	 OG0004642.ref.mafft.n 	 2 	 0.1764 	 2.333 	 0.3935 	 2.2306
+Timema 	 OG0004643.ref.mafft.n 	 2 	 0.0945 	 1.907 	 0.1866 	 1.9739
+Timema 	 OG0004644.ref.mafft.n 	 2 	 0.2463 	 1.636 	 0.2994 	 1.2159
+Timema 	 OG0004645.ref.mafft.n 	 2 	 0.2033 	 1.116 	 0.2089 	 1.0276
+Timema 	 OG0004646.ref.mafft.n 	 2 	 0.1618 	 1.925 	 0.2747 	 1.6980
+Timema 	 OG0004648.ref.mafft.n 	 2 	 0.0216 	 1.209 	 0.0325 	 1.5059
+Timema 	 OG0004649.ref.mafft.n 	 2 	 0.0255 	 0.560 	 0.0285 	 1.1167
+Timema 	 OG0004651.ref.mafft.n 	 2 	 0.2280 	 1.530 	 0.2702 	 1.1849
+Timema 	 OG0004652.ref.mafft.n 	 2 	 0.1154 	 1.337 	 0.1456 	 1.2611
+Timema 	 OG0004653.ref.mafft.n 	 2 	 0.0984 	 1.466 	 0.1668 	 1.6954
+Timema 	 OG0004654.ref.mafft.n 	 2 	 0.0692 	 0.914 	 0.0944 	 1.3639
+Timema 	 OG0004655.ref.mafft.n 	 2 	 0.1302 	 1.515 	 0.1658 	 1.2742
+Timema 	 OG0004656.ref.mafft.n 	 2 	 0.1223 	 1.337 	 0.1700 	 1.3901
+Timema 	 OG0004657.ref.mafft.n 	 2 	 0.2450 	 1.597 	 0.2958 	 1.2071
+Timema 	 OG0004658.ref.mafft.n 	 2 	 0.1972 	 2.709 	 0.4457 	 2.2600
+Timema 	 OG0004659.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004660.ref.mafft.n 	 2 	 0.0933 	 0.857 	 0.0926 	 0.9930
+Timema 	 OG0004663.ref.mafft.n 	 2 	 0.0325 	 1.323 	 0.0678 	 2.0884
+Timema 	 OG0004664.ref.mafft.n 	 2 	 0.3175 	 0.910 	 0.1924 	 0.6059
+Timema 	 OG0004665.ref.mafft.n 	 2 	 0.3696 	 1.301 	 0.3211 	 0.8688
+Timema 	 OG0004666.ref.mafft.n 	 2 	 0.0634 	 2.035 	 0.1668 	 2.6296
+Timema 	 OG0004667.ref.mafft.n 	 2 	 0.3743 	 1.026 	 0.2462 	 0.6578
+Timema 	 OG0004668.ref.mafft.n 	 2 	 0.1952 	 1.242 	 0.2065 	 1.0576
+Timema 	 OG0004670.ref.mafft.n 	 2 	 0.0449 	 2.183 	 0.1194 	 2.6612
+Timema 	 OG0004671.ref.mafft.n 	 2 	 0.2407 	 1.602 	 0.3132 	 1.3013
+Timema 	 OG0004672.ref.mafft.n 	 2 	 0.5051 	 2.047 	 0.5670 	 1.1225
+Timema 	 OG0004674.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004676.ref.mafft.n 	 2 	 0.2072 	 1.797 	 0.2889 	 1.3945
+Timema 	 OG0004677.ref.mafft.n 	 2 	 0.1634 	 1.180 	 0.1839 	 1.1255
+Timema 	 OG0004678.ref.mafft.n 	 2 	 0.1623 	 1.544 	 0.2395 	 1.4754
+Timema 	 OG0004679.ref.mafft.n 	 2 	 0.1561 	 1.372 	 0.1983 	 1.2699
+Timema 	 OG0004680.ref.mafft.n 	 2 	 0.1086 	 0.896 	 0.1105 	 1.0174
+Timema 	 OG0004681.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004682.ref.mafft.n 	 2 	 0.0513 	 0.798 	 0.0508 	 0.9895
+Timema 	 OG0004683.ref.mafft.n 	 2 	 0.2295 	 1.380 	 0.2526 	 1.1003
+Timema 	 OG0004684.ref.mafft.n 	 2 	 0.1818 	 1.388 	 0.2372 	 1.3045
+Timema 	 OG0004685.ref.mafft.n 	 2 	 0.3117 	 1.243 	 0.2659 	 0.8528
+Timema 	 OG0004686.ref.mafft.n 	 2 	 0.1090 	 2.669 	 0.2717 	 2.4922
+Timema 	 OG0004687.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004688.ref.mafft.n 	 2 	 0.1348 	 2.104 	 0.2710 	 2.0105
+Timema 	 OG0004689.ref.mafft.n 	 2 	 0.1597 	 0.942 	 0.1429 	 0.8948
+Timema 	 OG0004691.ref.mafft.n 	 2 	 0.0767 	 1.622 	 0.1703 	 2.2189
+Timema 	 OG0004692.ref.mafft.n 	 2 	 0.1082 	 1.631 	 0.1852 	 1.7116
+Timema 	 OG0004695.ref.mafft.n 	 2 	 0.0672 	 2.127 	 0.1497 	 2.2295
+Timema 	 OG0004696.ref.mafft.n 	 2 	 0.2532 	 1.139 	 0.2384 	 0.9417
+Timema 	 OG0004698.ref.mafft.n 	 2 	 0.0897 	 0.985 	 0.1105 	 1.2323
+Timema 	 OG0004699.ref.mafft.n 	 2 	 0.2705 	 1.647 	 0.3219 	 1.1900
+Timema 	 OG0004701.ref.mafft.n 	 2 	 0.2244 	 1.617 	 0.3200 	 1.4259
+Timema 	 OG0004702.ref.mafft.n 	 2 	 0.2255 	 1.214 	 0.2404 	 1.0659
+Timema 	 OG0004704.ref.mafft.n 	 2 	 0.0915 	 1.535 	 0.1445 	 1.5787
+Timema 	 OG0004705.ref.mafft.n 	 2 	 0.1916 	 1.745 	 0.3413 	 1.7815
+Timema 	 OG0004706.ref.mafft.n 	 2 	 0.1409 	 1.428 	 0.1854 	 1.3160
+Timema 	 OG0004707.ref.mafft.n 	 2 	 0.1206 	 1.435 	 0.1765 	 1.4636
+Timema 	 OG0004708.ref.mafft.n 	 2 	 0.1629 	 2.313 	 0.3585 	 2.2012
+Timema 	 OG0004709.ref.mafft.n 	 2 	 0.1489 	 1.334 	 0.2112 	 1.4183
+Timema 	 OG0004710.ref.mafft.n 	 2 	 0.2659 	 1.364 	 0.2626 	 0.9876
+Timema 	 OG0004711.ref.mafft.n 	 2 	 0.1351 	 1.368 	 0.1992 	 1.4752
+Timema 	 OG0004713.ref.mafft.n 	 2 	 0.2089 	 1.425 	 0.2529 	 1.2102
+Timema 	 OG0004714.ref.mafft.n 	 2 	 0.1299 	 0.906 	 0.1433 	 1.1027
+Timema 	 OG0004715.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004716.ref.mafft.n 	 2 	 0.1638 	 1.011 	 0.1592 	 0.9717
+Timema 	 OG0004717.ref.mafft.n 	 2 	 0.1645 	 1.942 	 0.2847 	 1.7313
+Timema 	 OG0004718.ref.mafft.n 	 2 	 0.1412 	 1.036 	 0.1605 	 1.1368
+Timema 	 OG0004719.ref.mafft.n 	 2 	 0.0201 	 2.214 	 0.0569 	 2.8374
+Timema 	 OG0004720.ref.mafft.n 	 2 	 0.1268 	 1.283 	 0.1822 	 1.4371
+Timema 	 OG0004721.ref.mafft.n 	 2 	 0.5489 	 2.157 	 0.6021 	 1.0970
+Timema 	 OG0004722.ref.mafft.n 	 2 	 0.1363 	 1.363 	 0.2027 	 1.4872
+Timema 	 OG0004723.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004724.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004725.ref.mafft.n 	 2 	 0.2137 	 1.516 	 0.2644 	 1.2374
+Timema 	 OG0004727.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004728.ref.mafft.n 	 2 	 0.1276 	 1.174 	 0.1871 	 1.4659
+Timema 	 OG0004730.ref.mafft.n 	 2 	 0.0339 	 0.950 	 0.0427 	 1.2597
+Timema 	 OG0004731.ref.mafft.n 	 2 	 0.0337 	 1.018 	 0.0516 	 1.5317
+Timema 	 OG0004732.ref.mafft.n 	 2 	 0.1703 	 1.236 	 0.1781 	 1.0461
+Timema 	 OG0004733.ref.mafft.n 	 2 	 0.3170 	 1.240 	 0.2650 	 0.8359
+Timema 	 OG0004734.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004735.ref.mafft.n 	 2 	 0.0707 	 1.311 	 0.1050 	 1.4852
+Timema 	 OG0004736.ref.mafft.n 	 2 	 0.0427 	 1.264 	 0.0789 	 1.8491
+Timema 	 OG0004737.ref.mafft.n 	 2 	 0.0912 	 0.901 	 0.1144 	 1.2548
+Timema 	 OG0004739.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004740.ref.mafft.n 	 2 	 0.1283 	 1.169 	 0.1700 	 1.3243
+Timema 	 OG0004741.ref.mafft.n 	 2 	 0.0925 	 1.158 	 0.1219 	 1.3168
+Timema 	 OG0004742.ref.mafft.n 	 2 	 0.2880 	 1.368 	 0.2875 	 0.9983
+Timema 	 OG0004743.ref.mafft.n 	 2 	 0.2216 	 1.317 	 0.2326 	 1.0495
+Timema 	 OG0004744.ref.mafft.n 	 2 	 0.0942 	 1.181 	 0.1215 	 1.2898
+Timema 	 OG0004746.ref.mafft.n 	 2 	 0.2168 	 1.061 	 0.2155 	 0.9941
+Timema 	 OG0004747.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004748.ref.mafft.n 	 2 	 0.2341 	 1.510 	 0.2702 	 1.1542
+Timema 	 OG0004749.ref.mafft.n 	 2 	 0.1745 	 1.205 	 0.2178 	 1.2478
+Timema 	 OG0004751.ref.mafft.n 	 2 	 0.2274 	 1.313 	 0.2578 	 1.1336
+Timema 	 OG0004753.ref.mafft.n 	 2 	 0.0947 	 0.898 	 0.0956 	 1.0100
+Timema 	 OG0004754.ref.mafft.n 	 2 	 0.1861 	 1.210 	 0.1920 	 1.0320
+Timema 	 OG0004755.ref.mafft.n 	 2 	 0.1281 	 0.465 	 0.0682 	 0.5325
+Timema 	 OG0004756.ref.mafft.n 	 2 	 0.1147 	 1.081 	 0.1351 	 1.1777
+Timema 	 OG0004758.ref.mafft.n 	 2 	 0.1538 	 2.552 	 0.3854 	 2.5068
+Timema 	 OG0004759.ref.mafft.n 	 2 	 0.2324 	 0.892 	 0.1684 	 0.7245
+Timema 	 OG0004760.ref.mafft.n 	 2 	 0.1542 	 1.157 	 0.1771 	 1.1486
+Timema 	 OG0004761.ref.mafft.n 	 2 	 0.1025 	 0.983 	 0.1058 	 1.0319
+Timema 	 OG0004762.ref.mafft.n 	 2 	 0.1236 	 1.722 	 0.2382 	 1.9278
+Timema 	 OG0004763.ref.mafft.n 	 2 	 0.5540 	 2.285 	 0.6418 	 1.1585
+Timema 	 OG0004764.ref.mafft.n 	 2 	 0.0607 	 1.142 	 0.0874 	 1.4392
+Timema 	 OG0004765.ref.mafft.n 	 2 	 0.0784 	 5.230 	 0.3896 	 4.9721
+Timema 	 OG0004767.ref.mafft.n 	 2 	 0.0895 	 1.786 	 0.2138 	 2.3898
+Timema 	 OG0004769.ref.mafft.n 	 2 	 0.1840 	 1.365 	 0.2328 	 1.2651
+Timema 	 OG0004770.ref.mafft.n 	 2 	 0.0970 	 1.428 	 0.1615 	 1.6650
+Timema 	 OG0004771.ref.mafft.n 	 2 	 0.3037 	 1.257 	 0.2830 	 0.9320
+Timema 	 OG0004772.ref.mafft.n 	 2 	 0.2217 	 2.446 	 0.4303 	 1.9413
+Timema 	 OG0004773.ref.mafft.n 	 2 	 0.1147 	 0.988 	 0.1331 	 1.1600
+Timema 	 OG0004774.ref.mafft.n 	 2 	 0.1003 	 1.312 	 0.1409 	 1.4047
+Timema 	 OG0004775.ref.mafft.n 	 2 	 0.2914 	 1.003 	 0.2188 	 0.7509
+Timema 	 OG0004777.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004779.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004780.ref.mafft.n 	 2 	 0.0680 	 1.802 	 0.1524 	 2.2422
+Timema 	 OG0004781.ref.mafft.n 	 2 	 0.1304 	 0.720 	 0.1264 	 0.9691
+Timema 	 OG0004782.ref.mafft.n 	 2 	 0.0230 	 1.082 	 0.0416 	 1.8119
+Timema 	 OG0004784.ref.mafft.n 	 2 	 0.2730 	 1.841 	 0.3895 	 1.4271
+Timema 	 OG0004785.ref.mafft.n 	 2 	 0.2089 	 1.000 	 0.1719 	 0.8226
+Timema 	 OG0004786.ref.mafft.n 	 2 	 0.0351 	 3.667 	 0.1445 	 4.1192
+Timema 	 OG0004787.ref.mafft.n 	 2 	 0.1349 	 1.402 	 0.2094 	 1.5522
+Timema 	 OG0004788.ref.mafft.n 	 2 	 0.1889 	 0.776 	 0.1268 	 0.6711
+Timema 	 OG0004790.ref.mafft.n 	 2 	 0.1547 	 1.178 	 0.1661 	 1.0736
+Timema 	 OG0004791.ref.mafft.n 	 2 	 0.0829 	 1.491 	 0.1289 	 1.5550
+Timema 	 OG0004792.ref.mafft.n 	 2 	 0.2076 	 1.162 	 0.2520 	 1.2138
+Timema 	 OG0004793.ref.mafft.n 	 2 	 0.1355 	 1.500 	 0.1947 	 1.4365
+Timema 	 OG0004794.ref.mafft.n 	 2 	 0.3265 	 1.896 	 0.4208 	 1.2889
+Timema 	 OG0004796.ref.mafft.n 	 2 	 0.1414 	 0.803 	 0.1206 	 0.8529
+Timema 	 OG0004797.ref.mafft.n 	 2 	 0.0857 	 1.376 	 0.1512 	 1.7641
+Timema 	 OG0004798.ref.mafft.n 	 2 	 0.1333 	 0.846 	 0.1250 	 0.9377
+Timema 	 OG0004799.ref.mafft.n 	 2 	 0.1623 	 0.944 	 0.1565 	 0.9645
+Timema 	 OG0004800.ref.mafft.n 	 2 	 0.1453 	 1.098 	 0.1618 	 1.1140
+Timema 	 OG0004802.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004803.ref.mafft.n 	 2 	 0.1697 	 1.242 	 0.2480 	 1.4608
+Timema 	 OG0004804.ref.mafft.n 	 2 	 0.2219 	 1.222 	 0.2341 	 1.0549
+Timema 	 OG0004805.ref.mafft.n 	 2 	 0.0640 	 1.154 	 0.0936 	 1.4638
+Timema 	 OG0004806.ref.mafft.n 	 2 	 0.2393 	 1.159 	 0.2045 	 0.8545
+Timema 	 OG0004807.ref.mafft.n 	 2 	 0.0655 	 0.930 	 0.0899 	 1.3742
+Timema 	 OG0004808.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004809.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004810.ref.mafft.n 	 2 	 0.2279 	 1.091 	 0.2098 	 0.9206
+Timema 	 OG0004811.ref.mafft.n 	 2 	 0.0490 	 1.168 	 0.0747 	 1.5230
+Timema 	 OG0004812.ref.mafft.n 	 2 	 0.0976 	 0.780 	 0.0738 	 0.7557
+Timema 	 OG0004813.ref.mafft.n 	 2 	 0.2676 	 1.901 	 0.3885 	 1.4519
+Timema 	 OG0004814.ref.mafft.n 	 2 	 0.0776 	 0.825 	 0.1021 	 1.3157
+Timema 	 OG0004815.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004817.ref.mafft.n 	 2 	 0.1372 	 1.050 	 0.1386 	 1.0100
+Timema 	 OG0004819.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004820.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004822.ref.mafft.n 	 2 	 0.2650 	 1.615 	 0.3109 	 1.1729
+Timema 	 OG0004823.ref.mafft.n 	 2 	 0.1507 	 1.492 	 0.1780 	 1.1809
+Timema 	 OG0004824.ref.mafft.n 	 2 	 0.4355 	 2.193 	 0.5413 	 1.2431
+Timema 	 OG0004826.ref.mafft.n 	 2 	 0.1362 	 1.195 	 0.1832 	 1.3445
+Timema 	 OG0004827.ref.mafft.n 	 2 	 0.1221 	 1.250 	 0.1696 	 1.3895
+Timema 	 OG0004828.ref.mafft.n 	 2 	 0.1779 	 1.612 	 0.2624 	 1.4748
+Timema 	 OG0004829.ref.mafft.n 	 2 	 0.2177 	 1.487 	 0.2531 	 1.1626
+Timema 	 OG0004830.ref.mafft.n 	 2 	 0.2455 	 1.778 	 0.3371 	 1.3734
+Timema 	 OG0004831.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004832.ref.mafft.n 	 2 	 0.0538 	 1.461 	 0.1050 	 1.9517
+Timema 	 OG0004833.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004834.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004836.ref.mafft.n 	 2 	 0.0652 	 1.747 	 0.1216 	 1.8636
+Timema 	 OG0004837.ref.mafft.n 	 2 	 0.3411 	 1.643 	 0.3413 	 1.0006
+Timema 	 OG0004840.ref.mafft.n 	 2 	 0.3225 	 1.427 	 0.3162 	 0.9806
+Timema 	 OG0004841.ref.mafft.n 	 2 	 0.2023 	 1.255 	 0.2176 	 1.0760
+Timema 	 OG0004843.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004845.ref.mafft.n 	 2 	 0.1000 	 0.895 	 0.0924 	 0.9243
+Timema 	 OG0004846.ref.mafft.n 	 2 	 0.1059 	 1.441 	 0.1746 	 1.6497
+Timema 	 OG0004847.ref.mafft.n 	 2 	 0.0530 	 0.854 	 0.0673 	 1.2693
+Timema 	 OG0004848.ref.mafft.n 	 2 	 0.0304 	 1.030 	 0.0571 	 1.8792
+Timema 	 OG0004850.ref.mafft.n 	 2 	 0.1360 	 1.084 	 0.1473 	 1.0829
+Timema 	 OG0004851.ref.mafft.n 	 2 	 0.1820 	 1.268 	 0.2032 	 1.1166
+Timema 	 OG0004852.ref.mafft.n 	 2 	 0.0421 	 1.330 	 0.0933 	 2.2154
+Timema 	 OG0004853.ref.mafft.n 	 2 	 0.1010 	 1.286 	 0.1630 	 1.6132
+Timema 	 OG0004854.ref.mafft.n 	 2 	 0.0692 	 1.039 	 0.0986 	 1.4249
+Timema 	 OG0004855.ref.mafft.n 	 2 	 0.2079 	 1.238 	 0.2283 	 1.0978
+Timema 	 OG0004856.ref.mafft.n 	 2 	 0.4169 	 1.165 	 0.3002 	 0.7200
+Timema 	 OG0004857.ref.mafft.n 	 2 	 0.0949 	 1.423 	 0.1560 	 1.6441
+Timema 	 OG0004858.ref.mafft.n 	 2 	 0.1145 	 1.449 	 0.1791 	 1.5643
+Timema 	 OG0004860.ref.mafft.n 	 2 	 0.1756 	 1.185 	 0.1969 	 1.1211
+Timema 	 OG0004861.ref.mafft.n 	 2 	 0.1420 	 1.159 	 0.1525 	 1.0743
+Timema 	 OG0004862.ref.mafft.n 	 2 	 0.0901 	 0.807 	 0.0942 	 1.0450
+Timema 	 OG0004863.ref.mafft.n 	 2 	 0.2057 	 1.212 	 0.2172 	 1.0560
+Timema 	 OG0004864.ref.mafft.n 	 2 	 0.2624 	 1.268 	 0.2656 	 1.0121
+Timema 	 OG0004865.ref.mafft.n 	 2 	 0.3394 	 1.349 	 0.3097 	 0.9126
+Timema 	 OG0004866.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004867.ref.mafft.n 	 2 	 0.0523 	 1.797 	 0.1271 	 2.4305
+Timema 	 OG0004868.ref.mafft.n 	 2 	 0.3671 	 1.474 	 0.3089 	 0.8414
+Timema 	 OG0004870.ref.mafft.n 	 2 	 0.0596 	 0.991 	 0.0750 	 1.2585
+Timema 	 OG0004871.ref.mafft.n 	 2 	 0.0356 	 1.860 	 0.0825 	 2.3195
+Timema 	 OG0004872.ref.mafft.n 	 2 	 0.0334 	 0.982 	 0.0424 	 1.2687
+Timema 	 OG0004873.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004874.ref.mafft.n 	 2 	 0.1333 	 0.775 	 0.1076 	 0.8070
+Timema 	 OG0004875.ref.mafft.n 	 2 	 0.2140 	 1.481 	 0.2520 	 1.1777
+Timema 	 OG0004876.ref.mafft.n 	 2 	 0.1368 	 1.327 	 0.1941 	 1.4193
+Timema 	 OG0004878.ref.mafft.n 	 2 	 0.3210 	 1.874 	 0.4081 	 1.2711
+Timema 	 OG0004879.ref.mafft.n 	 2 	 0.1773 	 3.055 	 0.5031 	 2.8375
+Timema 	 OG0004880.ref.mafft.n 	 2 	 0.0905 	 2.110 	 0.1734 	 1.9158
+Timema 	 OG0004882.ref.mafft.n 	 2 	 0.1353 	 1.209 	 0.1731 	 1.2795
+Timema 	 OG0004883.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004884.ref.mafft.n 	 2 	 0.0194 	 1.367 	 0.0374 	 1.9283
+Timema 	 OG0004885.ref.mafft.n 	 2 	 0.0840 	 1.335 	 0.1306 	 1.5546
+Timema 	 OG0004886.ref.mafft.n 	 2 	 0.0604 	 0.909 	 0.0685 	 1.1342
+Timema 	 OG0004888.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004889.ref.mafft.n 	 2 	 0.0843 	 1.077 	 0.1056 	 1.2515
+Timema 	 OG0004890.ref.mafft.n 	 2 	 0.0186 	 0.866 	 0.0209 	 1.1260
+Timema 	 OG0004892.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004894.ref.mafft.n 	 2 	 0.0745 	 2.193 	 0.2239 	 3.0041
+Timema 	 OG0004895.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004896.ref.mafft.n 	 2 	 0.1178 	 1.055 	 0.1267 	 1.0759
+Timema 	 OG0004897.ref.mafft.n 	 2 	 0.1539 	 1.122 	 0.1743 	 1.1324
+Timema 	 OG0004899.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004900.ref.mafft.n 	 2 	 0.0962 	 2.059 	 0.1969 	 2.0476
+Timema 	 OG0004901.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004902.ref.mafft.n 	 2 	 0.3625 	 1.878 	 0.4493 	 1.2394
+Timema 	 OG0004903.ref.mafft.n 	 2 	 0.0428 	 2.836 	 0.1337 	 3.1256
+Timema 	 OG0004904.ref.mafft.n 	 2 	 0.2193 	 1.636 	 0.3105 	 1.4157
+Timema 	 OG0004905.ref.mafft.n 	 2 	 0.3443 	 1.899 	 0.4261 	 1.2378
+Timema 	 OG0004906.ref.mafft.n 	 2 	 0.0209 	 0.873 	 0.0323 	 1.5482
+Timema 	 OG0004907.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004908.ref.mafft.n 	 2 	 0.2247 	 0.646 	 0.1437 	 0.6396
+Timema 	 OG0004910.ref.mafft.n 	 2 	 0.1493 	 1.708 	 0.2373 	 1.5893
+Timema 	 OG0004911.ref.mafft.n 	 2 	 0.1007 	 1.465 	 0.1580 	 1.5698
+Timema 	 OG0004912.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004915.ref.mafft.n 	 2 	 0.0435 	 0.794 	 0.0554 	 1.2738
+Timema 	 OG0004916.ref.mafft.n 	 2 	 0.1013 	 0.894 	 0.1158 	 1.1429
+Timema 	 OG0004917.ref.mafft.n 	 2 	 0.1367 	 1.160 	 0.1520 	 1.1119
+Timema 	 OG0004918.ref.mafft.n 	 2 	 0.1577 	 1.116 	 0.1766 	 1.1203
+Timema 	 OG0004919.ref.mafft.n 	 2 	 0.0496 	 1.166 	 0.0680 	 1.3691
+Timema 	 OG0004920.ref.mafft.n 	 2 	 0.1656 	 1.489 	 0.2492 	 1.5047
+Timema 	 OG0004921.ref.mafft.n 	 2 	 0.4689 	 1.198 	 0.3037 	 0.6476
+Timema 	 OG0004922.ref.mafft.n 	 2 	 0.0686 	 0.561 	 0.0621 	 0.9043
+Timema 	 OG0004924.ref.mafft.n 	 2 	 0.3632 	 1.212 	 0.2857 	 0.7865
+Timema 	 OG0004925.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004926.ref.mafft.n 	 2 	 0.0820 	 1.071 	 0.1101 	 1.3425
+Timema 	 OG0004927.ref.mafft.n 	 2 	 0.1834 	 2.303 	 0.3486 	 1.9006
+Timema 	 OG0004928.ref.mafft.n 	 2 	 0.1293 	 2.674 	 0.3249 	 2.5123
+Timema 	 OG0004929.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004931.ref.mafft.n 	 2 	 0.4015 	 1.379 	 0.3378 	 0.8413
+Timema 	 OG0004932.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004933.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004934.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004935.ref.mafft.n 	 2 	 0.2650 	 1.590 	 0.3130 	 1.1812
+Timema 	 OG0004936.ref.mafft.n 	 2 	 0.0105 	 1.434 	 0.0186 	 1.7741
+Timema 	 OG0004937.ref.mafft.n 	 2 	 0.0870 	 1.528 	 0.1403 	 1.6121
+Timema 	 OG0004939.ref.mafft.n 	 2 	 0.2275 	 2.315 	 0.4168 	 1.8320
+Timema 	 OG0004940.ref.mafft.n 	 2 	 0.0903 	 0.740 	 0.0925 	 1.0236
+Timema 	 OG0004941.ref.mafft.n 	 2 	 0.1482 	 0.816 	 0.1560 	 1.0529
+Timema 	 OG0004942.ref.mafft.n 	 2 	 0.1168 	 1.170 	 0.1518 	 1.3003
+Timema 	 OG0004943.ref.mafft.n 	 2 	 0.3952 	 2.618 	 0.6496 	 1.6437
+Timema 	 OG0004946.ref.mafft.n 	 2 	 0.1491 	 1.132 	 0.1791 	 1.2014
+Timema 	 OG0004947.ref.mafft.n 	 2 	 0.1155 	 1.171 	 0.1497 	 1.2969
+Timema 	 OG0004948.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004949.ref.mafft.n 	 2 	 0.2215 	 1.583 	 0.2799 	 1.2636
+Timema 	 OG0004951.ref.mafft.n 	 2 	 0.0563 	 0.233 	 0.0191 	 0.3401
+Timema 	 OG0004952.ref.mafft.n 	 2 	 0.0803 	 0.881 	 0.0924 	 1.1510
+Timema 	 OG0004953.ref.mafft.n 	 2 	 0.1262 	 3.535 	 0.4328 	 3.4293
+Timema 	 OG0004954.ref.mafft.n 	 2 	 0.0900 	 1.036 	 0.0940 	 1.0448
+Timema 	 OG0004955.ref.mafft.n 	 2 	 0.4079 	 1.496 	 0.3692 	 0.9051
+Timema 	 OG0004956.ref.mafft.n 	 2 	 0.2664 	 1.052 	 0.2304 	 0.8647
+Timema 	 OG0004957.ref.mafft.n 	 2 	 0.0956 	 1.012 	 0.1010 	 1.0566
+Timema 	 OG0004958.ref.mafft.n 	 2 	 0.0808 	 1.089 	 0.1041 	 1.2889
+Timema 	 OG0004960.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004961.ref.mafft.n 	 2 	 0.2217 	 1.116 	 0.2031 	 0.9160
+Timema 	 OG0004962.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004964.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004965.ref.mafft.n 	 2 	 0.3417 	 1.331 	 0.3078 	 0.9008
+Timema 	 OG0004966.ref.mafft.n 	 2 	 0.2098 	 1.438 	 0.2669 	 1.2718
+Timema 	 OG0004968.ref.mafft.n 	 2 	 0.2043 	 1.288 	 0.2230 	 1.0913
+Timema 	 OG0004969.ref.mafft.n 	 2 	 0.1365 	 1.434 	 0.2085 	 1.5270
+Timema 	 OG0004973.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004974.ref.mafft.n 	 2 	 0.0200 	 0.967 	 0.0280 	 1.3985
+Timema 	 OG0004975.ref.mafft.n 	 2 	 0.1173 	 1.208 	 0.1541 	 1.3135
+Timema 	 OG0004976.ref.mafft.n 	 2 	 0.1954 	 1.972 	 0.3444 	 1.7629
+Timema 	 OG0004977.ref.mafft.n 	 2 	 0.2148 	 1.399 	 0.2604 	 1.2127
+Timema 	 OG0004978.ref.mafft.n 	 2 	 0.1983 	 1.093 	 0.1687 	 0.8505
+Timema 	 OG0004979.ref.mafft.n 	 2 	 0.4922 	 0.902 	 0.2418 	 0.4914
+Timema 	 OG0004980.ref.mafft.n 	 2 	 0.0001 	 0.168 	 0.0000 	 0.3358
+Timema 	 OG0004981.ref.mafft.n 	 2 	 0.2715 	 1.821 	 0.3569 	 1.3142
+Timema 	 OG0004982.ref.mafft.n 	 2 	 0.1940 	 1.411 	 0.2598 	 1.3393
+Timema 	 OG0004983.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004984.ref.mafft.n 	 2 	 0.3171 	 1.533 	 0.3212 	 1.0130
+Timema 	 OG0004985.ref.mafft.n 	 2 	 0.0233 	 2.009 	 0.0664 	 2.8552
+Timema 	 OG0004986.ref.mafft.n 	 2 	 0.2796 	 1.388 	 0.3242 	 1.1594
+Timema 	 OG0004987.ref.mafft.n 	 2 	 0.1419 	 1.294 	 0.1870 	 1.3179
+Timema 	 OG0004988.ref.mafft.n 	 2 	 0.0871 	 0.909 	 0.0996 	 1.1434
+Timema 	 OG0004989.ref.mafft.n 	 2 	 0.2624 	 1.949 	 0.3896 	 1.4847
+Timema 	 OG0004990.ref.mafft.n 	 2 	 0.2095 	 1.552 	 0.2512 	 1.1988
+Timema 	 OG0004991.ref.mafft.n 	 2 	 0.0557 	 0.970 	 0.0670 	 1.2039
+Timema 	 OG0004993.ref.mafft.n 	 2 	 0.3963 	 1.649 	 0.3826 	 0.9655
+Timema 	 OG0004994.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004995.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0004996.ref.mafft.n 	 2 	 0.0625 	 5.039 	 0.3855 	 6.1690
+Timema 	 OG0004999.ref.mafft.n 	 2 	 0.0491 	 2.940 	 0.2793 	 5.6878
+Timema 	 OG0005001.ref.mafft.n 	 2 	 0.2049 	 0.859 	 0.1773 	 0.8655
+Timema 	 OG0005002.ref.mafft.n 	 2 	 0.0811 	 1.296 	 0.1134 	 1.3983
+Timema 	 OG0005003.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005004.ref.mafft.n 	 2 	 0.1305 	 2.110 	 0.1980 	 1.5180
+Timema 	 OG0005005.ref.mafft.n 	 2 	 0.1858 	 1.609 	 0.2769 	 1.4898
+Timema 	 OG0005006.ref.mafft.n 	 2 	 0.0676 	 1.425 	 0.1096 	 1.6203
+Timema 	 OG0005007.ref.mafft.n 	 2 	 0.0934 	 1.195 	 0.1345 	 1.4403
+Timema 	 OG0005008.ref.mafft.n 	 2 	 0.2843 	 1.339 	 0.2815 	 0.9900
+Timema 	 OG0005009.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005012.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005013.ref.mafft.n 	 2 	 0.3368 	 1.429 	 0.3398 	 1.0088
+Timema 	 OG0005014.ref.mafft.n 	 2 	 0.1410 	 1.672 	 0.2700 	 1.9146
+Timema 	 OG0005016.ref.mafft.n 	 2 	 0.0504 	 1.429 	 0.0938 	 1.8595
+Timema 	 OG0005018.ref.mafft.n 	 2 	 0.2300 	 1.231 	 0.2326 	 1.0112
+Timema 	 OG0005019.ref.mafft.n 	 2 	 0.1038 	 1.061 	 0.1329 	 1.2805
+Timema 	 OG0005020.ref.mafft.n 	 2 	 0.2806 	 1.288 	 0.2623 	 0.9346
+Timema 	 OG0005022.ref.mafft.n 	 2 	 0.2071 	 1.200 	 0.2328 	 1.1244
+Timema 	 OG0005023.ref.mafft.n 	 2 	 0.0331 	 1.748 	 0.0821 	 2.4838
+Timema 	 OG0005024.ref.mafft.n 	 2 	 0.3922 	 2.654 	 0.6463 	 1.6481
+Timema 	 OG0005026.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005027.ref.mafft.n 	 2 	 0.0330 	 1.923 	 0.0968 	 2.9377
+Timema 	 OG0005028.ref.mafft.n 	 2 	 0.0669 	 1.099 	 0.0926 	 1.3828
+Timema 	 OG0005029.ref.mafft.n 	 2 	 0.1193 	 1.021 	 0.1233 	 1.0337
+Timema 	 OG0005034.ref.mafft.n 	 2 	 0.1674 	 2.936 	 0.4497 	 2.6860
+Timema 	 OG0005036.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005037.ref.mafft.n 	 2 	 0.0856 	 0.701 	 0.0698 	 0.8155
+Timema 	 OG0005039.ref.mafft.n 	 2 	 0.1915 	 0.733 	 0.1492 	 0.7790
+Timema 	 OG0005040.ref.mafft.n 	 2 	 0.0742 	 1.341 	 0.1268 	 1.7092
+Timema 	 OG0005041.ref.mafft.n 	 2 	 0.0441 	 0.752 	 0.0398 	 0.9027
+Timema 	 OG0005042.ref.mafft.n 	 2 	 0.2373 	 2.952 	 0.6084 	 2.5638
+Timema 	 OG0005043.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005044.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005046.ref.mafft.n 	 2 	 0.2280 	 1.705 	 0.3143 	 1.3785
+Timema 	 OG0005047.ref.mafft.n 	 2 	 0.0980 	 1.508 	 0.1777 	 1.8142
+Timema 	 OG0005048.ref.mafft.n 	 2 	 0.0227 	 0.477 	 0.0259 	 1.1391
+Timema 	 OG0005049.ref.mafft.n 	 2 	 0.1122 	 1.069 	 0.1132 	 1.0090
+Timema 	 OG0005051.ref.mafft.n 	 2 	 0.0904 	 0.939 	 0.0965 	 1.0682
+Timema 	 OG0005052.ref.mafft.n 	 2 	 0.1016 	 1.196 	 0.1381 	 1.3593
+Timema 	 OG0005054.ref.mafft.n 	 2 	 0.2105 	 1.903 	 0.3202 	 1.5212
+Timema 	 OG0005055.ref.mafft.n 	 2 	 0.0768 	 0.732 	 0.0920 	 1.1985
+Timema 	 OG0005056.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005057.ref.mafft.n 	 2 	 0.1324 	 1.310 	 0.1750 	 1.3220
+Timema 	 OG0005058.ref.mafft.n 	 2 	 0.0662 	 0.930 	 0.0819 	 1.2377
+Timema 	 OG0005059.ref.mafft.n 	 2 	 0.1398 	 1.332 	 0.1841 	 1.3169
+Timema 	 OG0005060.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005062.ref.mafft.n 	 2 	 0.2676 	 1.390 	 0.3197 	 1.1950
+Timema 	 OG0005063.ref.mafft.n 	 2 	 0.1200 	 0.779 	 0.1011 	 0.8430
+Timema 	 OG0005064.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005065.ref.mafft.n 	 2 	 0.1693 	 0.824 	 0.1432 	 0.8459
+Timema 	 OG0005066.ref.mafft.n 	 2 	 0.2358 	 0.943 	 0.1919 	 0.8139
+Timema 	 OG0005067.ref.mafft.n 	 2 	 0.3193 	 1.346 	 0.2917 	 0.9137
+Timema 	 OG0005069.ref.mafft.n 	 2 	 0.1479 	 1.887 	 0.2520 	 1.7038
+Timema 	 OG0005070.ref.mafft.n 	 2 	 0.1066 	 1.273 	 0.1927 	 1.8075
+Timema 	 OG0005071.ref.mafft.n 	 2 	 0.3053 	 1.956 	 0.4420 	 1.4477
+Timema 	 OG0005073.ref.mafft.n 	 2 	 0.1036 	 1.234 	 0.1579 	 1.5244
+Timema 	 OG0005074.ref.mafft.n 	 2 	 0.0583 	 1.010 	 0.0900 	 1.5428
+Timema 	 OG0005075.ref.mafft.n 	 2 	 0.2634 	 1.100 	 0.2148 	 0.8154
+Timema 	 OG0005076.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005077.ref.mafft.n 	 2 	 0.2097 	 1.074 	 0.1932 	 0.9214
+Timema 	 OG0005078.ref.mafft.n 	 2 	 0.2477 	 1.874 	 0.3641 	 1.4700
+Timema 	 OG0005081.ref.mafft.n 	 2 	 0.0613 	 0.811 	 0.0885 	 1.4436
+Timema 	 OG0005082.ref.mafft.n 	 2 	 0.0953 	 1.045 	 0.0936 	 0.9830
+Timema 	 OG0005083.ref.mafft.n 	 2 	 0.1416 	 1.298 	 0.1765 	 1.2458
+Timema 	 OG0005084.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005085.ref.mafft.n 	 2 	 0.0473 	 1.164 	 0.0745 	 1.5757
+Timema 	 OG0005087.ref.mafft.n 	 2 	 0.0654 	 2.090 	 0.1625 	 2.4840
+Timema 	 OG0005088.ref.mafft.n 	 2 	 0.2059 	 1.384 	 0.2493 	 1.2107
+Timema 	 OG0005089.ref.mafft.n 	 2 	 0.0583 	 0.991 	 0.0741 	 1.2705
+Timema 	 OG0005090.ref.mafft.n 	 2 	 0.1610 	 0.783 	 0.1278 	 0.7938
+Timema 	 OG0005091.ref.mafft.n 	 2 	 0.1487 	 1.656 	 0.2327 	 1.5652
+Timema 	 OG0005092.ref.mafft.n 	 2 	 0.3188 	 1.176 	 0.2541 	 0.7973
+Timema 	 OG0005093.ref.mafft.n 	 2 	 0.0674 	 1.260 	 0.1152 	 1.7108
+Timema 	 OG0005094.ref.mafft.n 	 2 	 0.0596 	 0.663 	 0.0387 	 0.6494
+Timema 	 OG0005095.ref.mafft.n 	 2 	 0.1988 	 0.941 	 0.1743 	 0.8767
+Timema 	 OG0005096.ref.mafft.n 	 2 	 0.2548 	 1.067 	 0.2107 	 0.8268
+Timema 	 OG0005097.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005099.ref.mafft.n 	 2 	 0.2197 	 1.149 	 0.2085 	 0.9490
+Timema 	 OG0005100.ref.mafft.n 	 2 	 0.2880 	 1.100 	 0.2273 	 0.7892
+Timema 	 OG0005101.ref.mafft.n 	 2 	 0.1654 	 1.813 	 0.2590 	 1.5660
+Timema 	 OG0005102.ref.mafft.n 	 2 	 0.0108 	 1.050 	 0.0153 	 1.4137
+Timema 	 OG0005103.ref.mafft.n 	 2 	 0.0591 	 0.957 	 0.0833 	 1.4097
+Timema 	 OG0005104.ref.mafft.n 	 2 	 0.2872 	 1.422 	 0.3016 	 1.0501
+Timema 	 OG0005106.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005107.ref.mafft.n 	 2 	 0.2172 	 0.726 	 0.1451 	 0.6682
+Timema 	 OG0005108.ref.mafft.n 	 2 	 0.2449 	 1.953 	 0.3703 	 1.5120
+Timema 	 OG0005109.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005110.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005111.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005112.ref.mafft.n 	 2 	 0.2770 	 1.601 	 0.3386 	 1.2226
+Timema 	 OG0005113.ref.mafft.n 	 2 	 0.1559 	 1.504 	 0.2477 	 1.5887
+Timema 	 OG0005114.ref.mafft.n 	 2 	 0.4394 	 2.210 	 0.5726 	 1.3029
+Timema 	 OG0005115.ref.mafft.n 	 2 	 0.2983 	 1.490 	 0.3156 	 1.0578
+Timema 	 OG0005116.ref.mafft.n 	 2 	 0.1007 	 0.942 	 0.1079 	 1.0712
+Timema 	 OG0005117.ref.mafft.n 	 2 	 0.0361 	 0.967 	 0.0510 	 1.4143
+Timema 	 OG0005118.ref.mafft.n 	 2 	 0.2281 	 1.444 	 0.3015 	 1.3214
+Timema 	 OG0005119.ref.mafft.n 	 2 	 0.1648 	 1.722 	 0.2577 	 1.5641
+Timema 	 OG0005120.ref.mafft.n 	 2 	 0.0314 	 1.149 	 0.0562 	 1.7901
+Timema 	 OG0005121.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005122.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005123.ref.mafft.n 	 2 	 0.2275 	 1.379 	 0.2674 	 1.1754
+Timema 	 OG0005125.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005126.ref.mafft.n 	 2 	 0.0846 	 0.964 	 0.0996 	 1.1772
+Timema 	 OG0005127.ref.mafft.n 	 2 	 0.0640 	 0.869 	 0.0710 	 1.1093
+Timema 	 OG0005128.ref.mafft.n 	 2 	 0.4485 	 1.223 	 0.3100 	 0.6913
+Timema 	 OG0005129.ref.mafft.n 	 2 	 0.2322 	 1.333 	 0.2443 	 1.0519
+Timema 	 OG0005130.ref.mafft.n 	 2 	 0.1221 	 1.125 	 0.1258 	 1.0304
+Timema 	 OG0005131.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005132.ref.mafft.n 	 2 	 0.1473 	 0.790 	 0.1152 	 0.7825
+Timema 	 OG0005133.ref.mafft.n 	 2 	 0.2366 	 1.135 	 0.2252 	 0.9517
+Timema 	 OG0005134.ref.mafft.n 	 2 	 0.0562 	 1.950 	 0.1223 	 2.1760
+Timema 	 OG0005135.ref.mafft.n 	 2 	 0.0907 	 0.911 	 0.0925 	 1.0202
+Timema 	 OG0005136.ref.mafft.n 	 2 	 0.1411 	 1.464 	 0.2150 	 1.5237
+Timema 	 OG0005137.ref.mafft.n 	 2 	 0.1528 	 1.439 	 0.2328 	 1.5232
+Timema 	 OG0005138.ref.mafft.n 	 2 	 0.2533 	 2.333 	 0.4183 	 1.6514
+Timema 	 OG0005139.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005140.ref.mafft.n 	 2 	 0.2882 	 1.374 	 0.2842 	 0.9860
+Timema 	 OG0005141.ref.mafft.n 	 2 	 0.1435 	 0.964 	 0.1369 	 0.9541
+Timema 	 OG0005142.ref.mafft.n 	 2 	 0.2033 	 1.387 	 0.2635 	 1.2960
+Timema 	 OG0005143.ref.mafft.n 	 2 	 0.1269 	 1.269 	 0.1522 	 1.1992
+Timema 	 OG0005144.ref.mafft.n 	 2 	 0.0953 	 0.941 	 0.1133 	 1.1883
+Timema 	 OG0005145.ref.mafft.n 	 2 	 0.0240 	 0.551 	 0.0289 	 1.2068
+Timema 	 OG0005146.ref.mafft.n 	 2 	 0.2933 	 1.473 	 0.3144 	 1.0720
+Timema 	 OG0005147.ref.mafft.n 	 2 	 0.0561 	 0.704 	 0.0463 	 0.8255
+Timema 	 OG0005148.ref.mafft.n 	 2 	 0.1150 	 1.435 	 0.1556 	 1.3528
+Timema 	 OG0005149.ref.mafft.n 	 2 	 0.0112 	 1.189 	 0.0236 	 2.1046
+Timema 	 OG0005150.ref.mafft.n 	 2 	 0.2703 	 1.347 	 0.2771 	 1.0251
+Timema 	 OG0005151.ref.mafft.n 	 2 	 0.1344 	 1.015 	 0.1448 	 1.0771
+Timema 	 OG0005155.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005156.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005157.ref.mafft.n 	 2 	 0.1623 	 1.024 	 0.1661 	 1.0235
+Timema 	 OG0005159.ref.mafft.n 	 2 	 0.1001 	 1.188 	 0.1436 	 1.4351
+Timema 	 OG0005160.ref.mafft.n 	 2 	 0.3073 	 1.339 	 0.2661 	 0.8658
+Timema 	 OG0005162.ref.mafft.n 	 2 	 0.1630 	 1.315 	 0.1983 	 1.2161
+Timema 	 OG0005163.ref.mafft.n 	 2 	 0.2596 	 1.216 	 0.2395 	 0.9225
+Timema 	 OG0005165.ref.mafft.n 	 2 	 0.1679 	 1.514 	 0.2485 	 1.4796
+Timema 	 OG0005166.ref.mafft.n 	 2 	 0.0385 	 0.727 	 0.0452 	 1.1728
+Timema 	 OG0005167.ref.mafft.n 	 2 	 0.2496 	 1.424 	 0.2720 	 1.0897
+Timema 	 OG0005168.ref.mafft.n 	 2 	 0.1161 	 1.207 	 0.1408 	 1.2126
+Timema 	 OG0005170.ref.mafft.n 	 2 	 0.0717 	 0.983 	 0.0946 	 1.3182
+Timema 	 OG0005171.ref.mafft.n 	 2 	 0.2735 	 1.239 	 0.2505 	 0.9162
+Timema 	 OG0005172.ref.mafft.n 	 2 	 0.1198 	 1.086 	 0.1248 	 1.0418
+Timema 	 OG0005174.ref.mafft.n 	 2 	 0.2655 	 0.193 	 0.0366 	 0.1378
+Timema 	 OG0005175.ref.mafft.n 	 2 	 0.0623 	 0.812 	 0.0826 	 1.3267
+Timema 	 OG0005176.ref.mafft.n 	 2 	 0.2393 	 1.861 	 0.3612 	 1.5090
+Timema 	 OG0005178.ref.mafft.n 	 2 	 0.0861 	 1.842 	 0.1718 	 1.9938
+Timema 	 OG0005179.ref.mafft.n 	 2 	 0.2089 	 2.575 	 0.4271 	 2.0439
+Timema 	 OG0005181.ref.mafft.n 	 2 	 0.0411 	 1.049 	 0.0562 	 1.3684
+Timema 	 OG0005182.ref.mafft.n 	 2 	 0.0397 	 0.966 	 0.0499 	 1.2579
+Timema 	 OG0005183.ref.mafft.n 	 2 	 0.0978 	 1.486 	 0.1509 	 1.5438
+Timema 	 OG0005184.ref.mafft.n 	 2 	 0.3859 	 2.019 	 0.4949 	 1.2825
+Timema 	 OG0005185.ref.mafft.n 	 2 	 0.3263 	 1.297 	 0.2762 	 0.8466
+Timema 	 OG0005186.ref.mafft.n 	 2 	 0.3711 	 1.821 	 0.4029 	 1.0857
+Timema 	 OG0005187.ref.mafft.n 	 2 	 0.0511 	 1.223 	 0.0780 	 1.5258
+Timema 	 OG0005188.ref.mafft.n 	 2 	 0.0317 	 1.071 	 0.0413 	 1.3014
+Timema 	 OG0005189.ref.mafft.n 	 2 	 0.1346 	 1.237 	 0.1616 	 1.2005
+Timema 	 OG0005191.ref.mafft.n 	 2 	 0.0337 	 2.344 	 0.1004 	 2.9779
+Timema 	 OG0005192.ref.mafft.n 	 2 	 0.0948 	 1.686 	 0.1576 	 1.6633
+Timema 	 OG0005193.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005194.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005195.ref.mafft.n 	 2 	 0.1281 	 1.203 	 0.1438 	 1.1224
+Timema 	 OG0005196.ref.mafft.n 	 2 	 0.1875 	 1.182 	 0.1824 	 0.9727
+Timema 	 OG0005197.ref.mafft.n 	 2 	 0.2791 	 1.360 	 0.3217 	 1.1526
+Timema 	 OG0005199.ref.mafft.n 	 2 	 0.0486 	 0.999 	 0.1029 	 2.1178
+Timema 	 OG0005201.ref.mafft.n 	 2 	 0.1542 	 0.932 	 0.1567 	 1.0166
+Timema 	 OG0005202.ref.mafft.n 	 2 	 0.0665 	 1.660 	 0.1340 	 2.0163
+Timema 	 OG0005203.ref.mafft.n 	 2 	 0.4114 	 0.999 	 0.2434 	 0.5916
+Timema 	 OG0005204.ref.mafft.n 	 2 	 0.1158 	 1.210 	 0.1414 	 1.2207
+Timema 	 OG0005205.ref.mafft.n 	 2 	 0.0954 	 1.283 	 0.1325 	 1.3888
+Timema 	 OG0005206.ref.mafft.n 	 2 	 0.1640 	 1.136 	 0.1781 	 1.0858
+Timema 	 OG0005207.ref.mafft.n 	 2 	 0.0916 	 1.216 	 0.1174 	 1.2809
+Timema 	 OG0005208.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005209.ref.mafft.n 	 2 	 0.2878 	 1.576 	 0.3274 	 1.1374
+Timema 	 OG0005210.ref.mafft.n 	 2 	 0.2122 	 1.908 	 0.3224 	 1.5194
+Timema 	 OG0005211.ref.mafft.n 	 2 	 0.1512 	 1.089 	 0.1803 	 1.1926
+Timema 	 OG0005212.ref.mafft.n 	 2 	 0.1430 	 1.104 	 0.1516 	 1.0602
+Timema 	 OG0005213.ref.mafft.n 	 2 	 0.3289 	 1.407 	 0.3084 	 0.9375
+Timema 	 OG0005215.ref.mafft.n 	 2 	 0.1621 	 1.029 	 0.1817 	 1.1209
+Timema 	 OG0005216.ref.mafft.n 	 2 	 0.2704 	 1.683 	 0.3321 	 1.2283
+Timema 	 OG0005217.ref.mafft.n 	 2 	 0.0929 	 1.054 	 0.1110 	 1.1945
+Timema 	 OG0005218.ref.mafft.n 	 2 	 0.0711 	 0.751 	 0.0643 	 0.9038
+Timema 	 OG0005220.ref.mafft.n 	 2 	 0.3441 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0005222.ref.mafft.n 	 2 	 0.0346 	 1.156 	 0.0627 	 1.8107
+Timema 	 OG0005223.ref.mafft.n 	 2 	 0.2796 	 1.744 	 0.3767 	 1.3474
+Timema 	 OG0005225.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005227.ref.mafft.n 	 2 	 0.2137 	 1.317 	 0.2260 	 1.0575
+Timema 	 OG0005229.ref.mafft.n 	 2 	 0.1001 	 1.125 	 0.1139 	 1.1380
+Timema 	 OG0005230.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005231.ref.mafft.n 	 2 	 0.1202 	 2.234 	 0.2760 	 2.2956
+Timema 	 OG0005233.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005234.ref.mafft.n 	 2 	 0.0518 	 0.857 	 0.0704 	 1.3592
+Timema 	 OG0005235.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005236.ref.mafft.n 	 2 	 0.1344 	 1.121 	 0.1492 	 1.1097
+Timema 	 OG0005237.ref.mafft.n 	 2 	 0.1729 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0005239.ref.mafft.n 	 2 	 0.1079 	 1.196 	 0.1543 	 1.4302
+Timema 	 OG0005240.ref.mafft.n 	 2 	 0.0409 	 1.663 	 0.0940 	 2.2968
+Timema 	 OG0005241.ref.mafft.n 	 2 	 0.1008 	 1.353 	 0.1531 	 1.5186
+Timema 	 OG0005242.ref.mafft.n 	 2 	 0.1813 	 1.338 	 0.2239 	 1.2347
+Timema 	 OG0005243.ref.mafft.n 	 2 	 0.2526 	 1.278 	 0.2475 	 0.9797
+Timema 	 OG0005245.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005246.ref.mafft.n 	 2 	 0.0825 	 1.063 	 0.1036 	 1.2563
+Timema 	 OG0005247.ref.mafft.n 	 2 	 0.2863 	 1.358 	 0.2873 	 1.0038
+Timema 	 OG0005248.ref.mafft.n 	 2 	 0.0978 	 0.817 	 0.0974 	 0.9959
+Timema 	 OG0005250.ref.mafft.n 	 2 	 0.0727 	 2.273 	 0.2041 	 2.8089
+Timema 	 OG0005251.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005252.ref.mafft.n 	 2 	 0.0626 	 1.578 	 0.1208 	 1.9284
+Timema 	 OG0005253.ref.mafft.n 	 2 	 0.1497 	 1.334 	 0.1958 	 1.3083
+Timema 	 OG0005254.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005255.ref.mafft.n 	 2 	 0.1593 	 2.928 	 0.4500 	 2.8257
+Timema 	 OG0005256.ref.mafft.n 	 2 	 0.1064 	 1.113 	 0.1215 	 1.1417
+Timema 	 OG0005257.ref.mafft.n 	 2 	 0.1573 	 1.200 	 0.1816 	 1.1547
+Timema 	 OG0005258.ref.mafft.n 	 2 	 0.0352 	 1.338 	 0.0596 	 1.6939
+Timema 	 OG0005259.ref.mafft.n 	 2 	 0.2438 	 1.372 	 0.2775 	 1.1383
+Timema 	 OG0005260.ref.mafft.n 	 2 	 0.1520 	 1.719 	 0.2419 	 1.5915
+Timema 	 OG0005263.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005264.ref.mafft.n 	 2 	 0.1188 	 1.552 	 0.1830 	 1.5402
+Timema 	 OG0005265.ref.mafft.n 	 2 	 0.1983 	 0.686 	 0.1390 	 0.7010
+Timema 	 OG0005266.ref.mafft.n 	 2 	 0.0753 	 1.227 	 0.1268 	 1.6833
+Timema 	 OG0005268.ref.mafft.n 	 2 	 0.1086 	 1.185 	 0.1488 	 1.3701
+Timema 	 OG0005269.ref.mafft.n 	 2 	 0.2788 	 1.297 	 0.2645 	 0.9490
+Timema 	 OG0005270.ref.mafft.n 	 2 	 0.2679 	 1.469 	 0.2961 	 1.1053
+Timema 	 OG0005271.ref.mafft.n 	 2 	 0.3243 	 1.430 	 0.2991 	 0.9226
+Timema 	 OG0005272.ref.mafft.n 	 2 	 0.1738 	 1.806 	 0.3007 	 1.7304
+Timema 	 OG0005273.ref.mafft.n 	 2 	 0.1602 	 1.460 	 0.2272 	 1.4186
+Timema 	 OG0005274.ref.mafft.n 	 2 	 0.1314 	 3.037 	 0.3708 	 2.8214
+Timema 	 OG0005276.ref.mafft.n 	 2 	 0.1419 	 1.082 	 0.1498 	 1.0556
+Timema 	 OG0005277.ref.mafft.n 	 2 	 0.0829 	 0.947 	 0.0852 	 1.0278
+Timema 	 OG0005278.ref.mafft.n 	 2 	 0.0437 	 1.320 	 0.0690 	 1.5767
+Timema 	 OG0005279.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005280.ref.mafft.n 	 2 	 0.2336 	 2.987 	 0.5171 	 2.2133
+Timema 	 OG0005281.ref.mafft.n 	 2 	 0.4889 	 1.744 	 0.4574 	 0.9355
+Timema 	 OG0005282.ref.mafft.n 	 2 	 0.2219 	 1.736 	 0.3274 	 1.4754
+Timema 	 OG0005283.ref.mafft.n 	 2 	 0.0431 	 0.910 	 0.0473 	 1.0989
+Timema 	 OG0005285.ref.mafft.n 	 2 	 0.1203 	 3.492 	 0.3989 	 3.3157
+Timema 	 OG0005286.ref.mafft.n 	 2 	 0.2091 	 1.237 	 0.2120 	 1.0140
+Timema 	 OG0005287.ref.mafft.n 	 2 	 0.0467 	 0.962 	 0.0540 	 1.1565
+Timema 	 OG0005288.ref.mafft.n 	 2 	 0.2485 	 0.112 	 0.0208 	 0.0837
+Timema 	 OG0005289.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005290.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005292.ref.mafft.n 	 2 	 0.1135 	 3.365 	 0.3744 	 3.2975
+Timema 	 OG0005293.ref.mafft.n 	 2 	 0.2692 	 1.404 	 0.2804 	 1.0414
+Timema 	 OG0005295.ref.mafft.n 	 2 	 0.0732 	 1.079 	 0.1042 	 1.4237
+Timema 	 OG0005297.ref.mafft.n 	 2 	 0.0700 	 0.934 	 0.0842 	 1.2034
+Timema 	 OG0005298.ref.mafft.n 	 2 	 0.5150 	 1.389 	 0.3723 	 0.7229
+Timema 	 OG0005299.ref.mafft.n 	 2 	 0.1209 	 0.731 	 0.1010 	 0.8351
+Timema 	 OG0005300.ref.mafft.n 	 2 	 0.2154 	 1.747 	 0.3123 	 1.4496
+Timema 	 OG0005301.ref.mafft.n 	 2 	 0.2162 	 1.261 	 0.2265 	 1.0474
+Timema 	 OG0005302.ref.mafft.n 	 2 	 0.1734 	 0.135 	 0.0203 	 0.1173
+Timema 	 OG0005305.ref.mafft.n 	 2 	 0.1501 	 1.091 	 0.1646 	 1.0970
+Timema 	 OG0005306.ref.mafft.n 	 2 	 0.0237 	 1.137 	 0.0389 	 1.6398
+Timema 	 OG0005307.ref.mafft.n 	 2 	 0.0596 	 1.198 	 0.0822 	 1.3789
+Timema 	 OG0005308.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005309.ref.mafft.n 	 2 	 0.0576 	 1.079 	 0.0889 	 1.5436
+Timema 	 OG0005310.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005311.ref.mafft.n 	 2 	 0.2561 	 1.252 	 0.2495 	 0.9745
+Timema 	 OG0005312.ref.mafft.n 	 2 	 0.2044 	 1.366 	 0.2446 	 1.1969
+Timema 	 OG0005313.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005314.ref.mafft.n 	 2 	 0.2734 	 1.557 	 0.3092 	 1.1309
+Timema 	 OG0005315.ref.mafft.n 	 2 	 0.2502 	 0.612 	 0.1209 	 0.4833
+Timema 	 OG0005317.ref.mafft.n 	 2 	 0.1988 	 1.204 	 0.2531 	 1.2729
+Timema 	 OG0005318.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005319.ref.mafft.n 	 2 	 0.1297 	 1.502 	 0.2007 	 1.5480
+Timema 	 OG0005320.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005321.ref.mafft.n 	 2 	 0.1951 	 1.711 	 0.2824 	 1.4477
+Timema 	 OG0005322.ref.mafft.n 	 2 	 0.1296 	 1.434 	 0.1852 	 1.4289
+Timema 	 OG0005323.ref.mafft.n 	 2 	 0.1293 	 0.708 	 0.0941 	 0.7281
+Timema 	 OG0005324.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005325.ref.mafft.n 	 2 	 0.0892 	 1.062 	 0.1093 	 1.2252
+Timema 	 OG0005327.ref.mafft.n 	 2 	 0.3729 	 1.444 	 0.3344 	 0.8969
+Timema 	 OG0005328.ref.mafft.n 	 2 	 0.1763 	 1.214 	 0.2107 	 1.1948
+Timema 	 OG0005329.ref.mafft.n 	 2 	 0.2003 	 1.135 	 0.1949 	 0.9728
+Timema 	 OG0005330.ref.mafft.n 	 2 	 0.1218 	 1.235 	 0.1651 	 1.3552
+Timema 	 OG0005331.ref.mafft.n 	 2 	 0.1372 	 1.199 	 0.1443 	 1.0514
+Timema 	 OG0005333.ref.mafft.n 	 2 	 0.2570 	 1.466 	 0.2896 	 1.1267
+Timema 	 OG0005334.ref.mafft.n 	 2 	 0.2189 	 1.232 	 0.2202 	 1.0061
+Timema 	 OG0005335.ref.mafft.n 	 2 	 0.1381 	 1.220 	 0.1590 	 1.1513
+Timema 	 OG0005336.ref.mafft.n 	 2 	 0.2176 	 1.491 	 0.2740 	 1.2592
+Timema 	 OG0005337.ref.mafft.n 	 2 	 0.0844 	 1.014 	 0.1172 	 1.3883
+Timema 	 OG0005338.ref.mafft.n 	 2 	 0.1736 	 1.200 	 0.1819 	 1.0478
+Timema 	 OG0005339.ref.mafft.n 	 2 	 0.1411 	 1.505 	 0.2176 	 1.5419
+Timema 	 OG0005340.ref.mafft.n 	 2 	 0.2067 	 1.355 	 0.2570 	 1.2431
+Timema 	 OG0005341.ref.mafft.n 	 2 	 0.3306 	 2.492 	 0.5291 	 1.6001
+Timema 	 OG0005342.ref.mafft.n 	 2 	 0.1489 	 0.931 	 0.1339 	 0.8991
+Timema 	 OG0005343.ref.mafft.n 	 2 	 0.0840 	 1.310 	 0.1124 	 1.3389
+Timema 	 OG0005344.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005345.ref.mafft.n 	 2 	 0.1595 	 1.633 	 0.2291 	 1.4367
+Timema 	 OG0005346.ref.mafft.n 	 2 	 0.2898 	 3.270 	 0.6229 	 2.1490
+Timema 	 OG0005347.ref.mafft.n 	 2 	 0.1966 	 1.381 	 0.2576 	 1.3104
+Timema 	 OG0005349.ref.mafft.n 	 2 	 0.0150 	 0.831 	 0.0239 	 1.5989
+Timema 	 OG0005350.ref.mafft.n 	 2 	 0.1789 	 1.631 	 0.2554 	 1.4275
+Timema 	 OG0005351.ref.mafft.n 	 2 	 0.2817 	 2.648 	 0.5264 	 1.8686
+Timema 	 OG0005352.ref.mafft.n 	 2 	 0.1822 	 1.107 	 0.1783 	 0.9788
+Timema 	 OG0005353.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005354.ref.mafft.n 	 2 	 0.0526 	 0.977 	 0.0706 	 1.3413
+Timema 	 OG0005356.ref.mafft.n 	 2 	 0.0208 	 0.398 	 0.0216 	 1.0395
+Timema 	 OG0005357.ref.mafft.n 	 2 	 0.1718 	 1.140 	 0.2028 	 1.1810
+Timema 	 OG0005359.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005360.ref.mafft.n 	 2 	 0.0496 	 1.302 	 0.1060 	 2.1353
+Timema 	 OG0005363.ref.mafft.n 	 2 	 0.2181 	 1.936 	 0.3510 	 1.6094
+Timema 	 OG0005364.ref.mafft.n 	 2 	 0.1746 	 1.584 	 0.2333 	 1.3357
+Timema 	 OG0005365.ref.mafft.n 	 2 	 0.2276 	 1.664 	 0.2938 	 1.2910
+Timema 	 OG0005366.ref.mafft.n 	 2 	 0.2233 	 1.417 	 0.2638 	 1.1814
+Timema 	 OG0005367.ref.mafft.n 	 2 	 0.1189 	 1.125 	 0.1498 	 1.2598
+Timema 	 OG0005368.ref.mafft.n 	 2 	 0.0449 	 1.044 	 0.0657 	 1.4622
+Timema 	 OG0005370.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005372.ref.mafft.n 	 2 	 0.3392 	 2.013 	 0.4710 	 1.3885
+Timema 	 OG0005373.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005374.ref.mafft.n 	 2 	 0.2297 	 1.424 	 0.2536 	 1.1039
+Timema 	 OG0005376.ref.mafft.n 	 2 	 0.0516 	 0.507 	 0.0398 	 0.7707
+Timema 	 OG0005377.ref.mafft.n 	 2 	 0.1388 	 0.729 	 0.1005 	 0.7238
+Timema 	 OG0005378.ref.mafft.n 	 2 	 0.2886 	 1.857 	 0.3881 	 1.3450
+Timema 	 OG0005380.ref.mafft.n 	 2 	 0.1000 	 0.848 	 0.0904 	 0.9039
+Timema 	 OG0005381.ref.mafft.n 	 2 	 0.1489 	 1.113 	 0.1623 	 1.0903
+Timema 	 OG0005382.ref.mafft.n 	 2 	 0.1871 	 1.525 	 0.2325 	 1.2425
+Timema 	 OG0005383.ref.mafft.n 	 2 	 0.1221 	 1.051 	 0.1256 	 1.0282
+Timema 	 OG0005384.ref.mafft.n 	 2 	 0.1061 	 1.041 	 0.1171 	 1.1031
+Timema 	 OG0005385.ref.mafft.n 	 2 	 0.1603 	 1.707 	 0.2422 	 1.5109
+Timema 	 OG0005386.ref.mafft.n 	 2 	 0.0262 	 1.115 	 0.0480 	 1.8336
+Timema 	 OG0005387.ref.mafft.n 	 2 	 0.3080 	 1.761 	 0.3795 	 1.2322
+Timema 	 OG0005388.ref.mafft.n 	 2 	 0.0858 	 1.772 	 0.1675 	 1.9530
+Timema 	 OG0005389.ref.mafft.n 	 2 	 0.1130 	 1.059 	 0.1284 	 1.1359
+Timema 	 OG0005390.ref.mafft.n 	 2 	 0.0415 	 1.069 	 0.0708 	 1.7056
+Timema 	 OG0005391.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005392.ref.mafft.n 	 2 	 0.2624 	 1.298 	 0.2542 	 0.9688
+Timema 	 OG0005393.ref.mafft.n 	 2 	 0.1292 	 1.320 	 0.1647 	 1.2742
+Timema 	 OG0005394.ref.mafft.n 	 2 	 0.0781 	 1.084 	 0.0931 	 1.1925
+Timema 	 OG0005395.ref.mafft.n 	 2 	 0.2739 	 1.329 	 0.2808 	 1.0250
+Timema 	 OG0005396.ref.mafft.n 	 2 	 0.1649 	 1.324 	 0.1907 	 1.1569
+Timema 	 OG0005397.ref.mafft.n 	 2 	 0.0485 	 1.857 	 0.1113 	 2.2940
+Timema 	 OG0005398.ref.mafft.n 	 2 	 0.0969 	 1.124 	 0.1106 	 1.1415
+Timema 	 OG0005399.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005400.ref.mafft.n 	 2 	 0.3427 	 1.535 	 0.3469 	 1.0124
+Timema 	 OG0005401.ref.mafft.n 	 2 	 0.1133 	 1.227 	 0.1434 	 1.2657
+Timema 	 OG0005402.ref.mafft.n 	 2 	 0.1863 	 1.072 	 0.2108 	 1.1314
+Timema 	 OG0005404.ref.mafft.n 	 2 	 0.3928 	 0.130 	 0.0313 	 0.0796
+Timema 	 OG0005405.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005406.ref.mafft.n 	 2 	 0.1725 	 1.302 	 0.2078 	 1.2046
+Timema 	 OG0005407.ref.mafft.n 	 2 	 0.2201 	 1.124 	 0.2186 	 0.9929
+Timema 	 OG0005408.ref.mafft.n 	 2 	 0.2560 	 2.024 	 0.3964 	 1.5484
+Timema 	 OG0005409.ref.mafft.n 	 2 	 0.2407 	 1.111 	 0.2167 	 0.9004
+Timema 	 OG0005410.ref.mafft.n 	 2 	 0.1276 	 1.986 	 0.2345 	 1.8367
+Timema 	 OG0005411.ref.mafft.n 	 2 	 0.1044 	 1.234 	 0.1441 	 1.3805
+Timema 	 OG0005413.ref.mafft.n 	 2 	 0.0786 	 1.019 	 0.1278 	 1.6267
+Timema 	 OG0005414.ref.mafft.n 	 2 	 0.0959 	 0.996 	 0.1119 	 1.1663
+Timema 	 OG0005415.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005416.ref.mafft.n 	 2 	 0.0467 	 1.912 	 0.1038 	 2.2228
+Timema 	 OG0005417.ref.mafft.n 	 2 	 0.0780 	 1.268 	 0.1235 	 1.5832
+Timema 	 OG0005418.ref.mafft.n 	 2 	 2.3554 	 0.000 	 0.0000 	 0.0000
+Timema 	 OG0005420.ref.mafft.n 	 2 	 0.1514 	 1.200 	 0.1547 	 1.0213
+Timema 	 OG0005421.ref.mafft.n 	 2 	 0.1255 	 1.235 	 0.1751 	 1.3950
+Timema 	 OG0005423.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005424.ref.mafft.n 	 2 	 0.0197 	 0.780 	 0.0295 	 1.4987
+Timema 	 OG0005425.ref.mafft.n 	 2 	 0.0862 	 0.745 	 0.0460 	 0.5339
+Timema 	 OG0005426.ref.mafft.n 	 2 	 0.2358 	 1.221 	 0.2226 	 0.9443
+Timema 	 OG0005427.ref.mafft.n 	 2 	 0.1409 	 1.189 	 0.1436 	 1.0192
+Timema 	 OG0005428.ref.mafft.n 	 2 	 0.0151 	 0.655 	 0.0174 	 1.1466
+Timema 	 OG0005429.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005431.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005432.ref.mafft.n 	 2 	 0.1167 	 1.118 	 0.1693 	 1.4506
+Timema 	 OG0005433.ref.mafft.n 	 2 	 0.0487 	 1.227 	 0.0803 	 1.6478
+Timema 	 OG0005434.ref.mafft.n 	 2 	 0.1733 	 1.228 	 0.2004 	 1.1564
+Timema 	 OG0005435.ref.mafft.n 	 2 	 0.1030 	 1.049 	 0.1393 	 1.3525
+Timema 	 OG0005436.ref.mafft.n 	 2 	 0.2845 	 1.841 	 0.3779 	 1.3280
+Timema 	 OG0005437.ref.mafft.n 	 2 	 0.0814 	 0.869 	 0.0755 	 0.9280
+Timema 	 OG0005438.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005439.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005440.ref.mafft.n 	 2 	 0.1696 	 1.351 	 0.1912 	 1.1272
+Timema 	 OG0005441.ref.mafft.n 	 2 	 0.1392 	 0.935 	 0.1333 	 0.9574
+Timema 	 OG0005442.ref.mafft.n 	 2 	 0.0511 	 1.061 	 0.0762 	 1.4921
+Timema 	 OG0005443.ref.mafft.n 	 2 	 0.1925 	 0.889 	 0.1743 	 0.9054
+Timema 	 OG0005444.ref.mafft.n 	 2 	 0.1892 	 1.124 	 0.1921 	 1.0155
+Timema 	 OG0005445.ref.mafft.n 	 2 	 0.2471 	 1.113 	 0.2288 	 0.9260
+Timema 	 OG0005446.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005447.ref.mafft.n 	 2 	 0.0724 	 1.194 	 0.0922 	 1.2730
+Timema 	 OG0005448.ref.mafft.n 	 2 	 0.1054 	 0.803 	 0.0935 	 0.8870
+Timema 	 OG0005449.ref.mafft.n 	 2 	 0.1649 	 1.066 	 0.1632 	 0.9895
+Timema 	 OG0005450.ref.mafft.n 	 2 	 0.1398 	 1.883 	 0.2382 	 1.7037
+Timema 	 OG0005451.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005452.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005453.ref.mafft.n 	 2 	 0.0932 	 0.945 	 0.0913 	 0.9798
+Timema 	 OG0005454.ref.mafft.n 	 2 	 0.1432 	 1.131 	 0.1634 	 1.1409
+Timema 	 OG0005455.ref.mafft.n 	 2 	 0.1134 	 1.168 	 0.1397 	 1.2316
+Timema 	 OG0005456.ref.mafft.n 	 2 	 0.3409 	 1.773 	 0.3897 	 1.1434
+Timema 	 OG0005457.ref.mafft.n 	 2 	 0.0991 	 1.213 	 0.1571 	 1.5855
+Timema 	 OG0005458.ref.mafft.n 	 2 	 0.1776 	 1.249 	 0.1849 	 1.0410
+Timema 	 OG0005459.ref.mafft.n 	 2 	 0.1330 	 0.929 	 0.1416 	 1.0648
+Timema 	 OG0005460.ref.mafft.n 	 2 	 0.1631 	 0.985 	 0.1557 	 0.9546
+Timema 	 OG0005461.ref.mafft.n 	 2 	 0.2787 	 1.558 	 0.3145 	 1.1285
+Timema 	 OG0005464.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005466.ref.mafft.n 	 2 	 0.1329 	 1.124 	 0.1525 	 1.1478
+Timema 	 OG0005467.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005468.ref.mafft.n 	 2 	 0.1464 	 1.063 	 0.1544 	 1.0546
+Timema 	 OG0005469.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005470.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005471.ref.mafft.n 	 2 	 0.0148 	 1.459 	 0.0307 	 2.0744
+Timema 	 OG0005472.ref.mafft.n 	 2 	 0.3217 	 1.006 	 0.2156 	 0.6700
+Timema 	 OG0005473.ref.mafft.n 	 2 	 0.1493 	 1.332 	 0.1853 	 1.2418
+Timema 	 OG0005475.ref.mafft.n 	 2 	 0.1638 	 1.288 	 0.2033 	 1.2413
+Timema 	 OG0005476.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005477.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005478.ref.mafft.n 	 2 	 0.0899 	 1.157 	 0.1266 	 1.4080
+Timema 	 OG0005479.ref.mafft.n 	 2 	 0.2605 	 1.228 	 0.2379 	 0.9129
+Timema 	 OG0005480.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005481.ref.mafft.n 	 2 	 0.1037 	 1.155 	 0.1158 	 1.1168
+Timema 	 OG0005482.ref.mafft.n 	 2 	 0.1741 	 1.730 	 0.2618 	 1.5037
+Timema 	 OG0005483.ref.mafft.n 	 2 	 0.2536 	 1.258 	 0.2471 	 0.9743
+Timema 	 OG0005486.ref.mafft.n 	 2 	 0.1825 	 1.542 	 0.2417 	 1.3244
+Timema 	 OG0005487.ref.mafft.n 	 2 	 0.0332 	 1.027 	 0.0457 	 1.3740
+Timema 	 OG0005489.ref.mafft.n 	 0 	 no_branch 	  	  	 
+Timema 	 OG0005490.ref.mafft.n 	 2 	 0.1371 	 0.943 	 0.1373 	 1.0012
+Timema 	 OG0005491.ref.mafft.n 	 2 	 0.3169 	 1.309 	 0.2770 	 0.8740
+Timema 	 OG0005492.ref.mafft.n 	 2 	 0.2321 	 1.178 	 0.2258 	 0.9726

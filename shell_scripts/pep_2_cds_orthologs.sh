@@ -8,7 +8,7 @@ for file in *.fa;
 
         for sp in "${arr[@]}" ;
 
-        	do seq_name=$(grep $sp $file | awk -F "_" 'sub(FS $NF,x)');
+        	do seq_name=$(grep $sp $file | awk -F "_" 'sub(FS $NF,x)' | sed "s/\.p.[0-9]*//");
 
                 echo $seq_name"_"$sp >> $og".cds.fa";
 

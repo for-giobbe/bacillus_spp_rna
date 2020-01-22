@@ -8,7 +8,7 @@ while getopts ":c:i:o:h" o; do
             ;;
 	h) echo "
                         This script will calculate GC contant at 1+2 and 3rd codon positions for each contig and then sort them in two bin on the basis of GC3.
-			
+
 			List of non-optional arguments:
 			-i fasta-formatted input file.
 			-c GC3 cutoff (a number between 1 and 99).
@@ -46,25 +46,29 @@ while read line; do if echo $line | grep -qv ">"; then echo $line | sed "s/\(..\
 
 while read line; do if echo $line | grep -qv ">"; then echo $line | sed 's/.\{2\}\(.\)/\1/g' >> 3rd.position.gc.tmp; else echo $line >> 3rd.position.gc.tmp; fi; done < oneliner.gc.tmp
 
+echo ciao
+
 infoseq -auto -pgc 1+2.position.gc.tmp | awk -F " " '{print $1" "$7}' | awk -F ":" '{print $4}' | tail -n +2 > 1+2.gc.tmp
 
 infoseq -auto -pgc 3rd.position.gc.tmp | awk -F " " '{print $1" "$7}' | awk -F ":" '{print $4}' | tail -n +2 > 3rd.gc.tmp
 
 infoseq -auto -pgc oneliner.gc.tmp | awk -F " " '{print $1" "$7}' | awk -F ":" '{print $4}' | tail -n +2 > tot.gc.tmp
 
-paste 1+2.gc.tmp 3rd.gc.tmp tot.gc.tmp | awk '{print $1" "$2" "$4" "$6}' > $name"gc"
+echo "contig 1+2GC% 3rdGC% totGC%" > $name"gc"
+
+paste 1+2.gc.tmp 3rd.gc.tmp tot.gc.tmp | awk '{print $1" "$2" "$4" "$6}' >> $name"gc"
 
 rm *gc.tmp
 
-while read line; 
+while read line;
 
-	do gc=$(echo $line | awk '{print $3}' | awk -F "\." '{print $1}'); 
+	do gc=$(echo $line | awk '{print $3}' | awk -F "." '{print $1}');
 
-		if [[ $gc -ge $c ]]; then echo $line | awk '{print $1}' >> $name"GC3>"$c".lst"; 
+		if [[ $gc -ge $c ]]; then echo $line | awk '{print $1}' >> $name"GC3_over_"$c".lst";
 
-		else echo $line | awk '{print $1}' >> $name"GC3<"$c".lst"	
+		else echo $line | awk '{print $1}' >> $name"GC3_less_"$c".lst";
 
-		fi; 
+		fi;
 
 done < $name"gc"
 

@@ -1,0 +1,46 @@
+species = ['BRO']
+sex=['F']
+tissue=['L','G']
+
+#BAT#sample=['RNA03','RNA05','RNA06','RNA07','RNA11','RNA12']
+
+sample=['RNA01','RNA03','RNA06','RNA07','RNA08','RNA10']
+
+rule all:
+	input:
+		 'heterozigosity/BRO.vcf'
+rule sort_bam:
+	input:
+		 'heterozigosity/bams/{species}_{sex}_{tissue}_{sample}.bam'
+	output:
+		 'heterozigosity/bams/{species}_{sex}_{tissue}_{sample}.s.bam'            
+	conda:   'env/samtools.yaml'
+	shell:   'samtools sort -o {output} {input}'
+
+rule  mark_duplicates:
+	input:
+		 rules.sort_bam.output
+	output:
+		 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.bam'
+	conda:   'env/picard.yaml'
+	shell:   'picard MarkDuplicates I={input} O={output} M=marked_dup_metrics.txt'
+
+rule  add_readgroup: 
+	input:
+                 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.bam'
+	output:
+		 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.ref.bam'
+	params:
+		 rg=r"{sample}"
+	conda:   'env/samtools.yaml'
+	shell:   'samtools addreplacerg -r ID:{params.rg} -r SM:{params.rg} -o {output} {input}'
+
+rule freebayes:
+	input:
+		 bam = expand('heterozigosity/{{species}}_{sex}_{tissue}_{sample}.s.md.ref.bam', sex = sex, tissue = tissue, sample = sample),
+		 reference = 'heterozigosity/{species}.def.nuc.fa'
+	output:
+		 'heterozigosity/{species}.vcf'
+	conda:   'env/freebayes.yaml'
+	shell:   'freebayes -p 2 -f {input.reference} {input.bam} > {output}'
+
