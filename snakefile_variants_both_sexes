@@ -1,20 +1,19 @@
 species = ['BGM']
-sex=['M']
-tissue=['L','G']
 
-#BAT#sample=['RNA03','RNA05','RNA06','RNA07','RNA11','RNA12']
-#BRO#sample=['RNA01','RNA03','RNA06','RNA07','RNA08','RNA10']
-#BGM#males###
-sample=['RNA04','RNA06','RNA08','RNA20','RNA21','RNA22']
+#BGM#males###sample=['RNA04','RNA06','RNA08','RNA20','RNA21','RNA22']
 #BGM#females#sample=['RNA10','RNA12','RNA14','RNA15','RNA17','RNA19']
+
+sample=['BGM_F_L_RNA10','BGM_F_L_RNA12','BGM_F_L_RNA14','BGM_F_L_RNA15','BGM_F_L_RNA17','BGM_F_L_RNA19','BGM_F_G_RNA10','BGM_F_G_RNA12','BGM_F_G_RNA14','BGM_F_G_RNA15','BGM_F_G_RNA17','BGM_F_G_RNA19','BGM_M_L_RNA04','BGM_M_L_RNA06','BGM_M_L_RNA08','BGM_M_L_RNA20','BGM_M_L_RNA21','BGM_M_L_RNA22','BGM_M_G_RNA04','BGM_M_G_RNA06','BGM_M_G_RNA08','BGM_M_G_RNA20','BGM_M_G_RNA21','BGM_M_G_RNA22']
+
 rule all:
 	input:
-		 'heterozigosity/BGM_M.recode.vcf'
+		 'heterozigosity/BGM_mf.recode.vcf'
+
 rule sort_bam:
 	input:
-		 'heterozigosity/bams/{species}_{sex}_{tissue}_{sample}.bam'
+		 'heterozigosity/bams/{sample}.bam'
 	output:
-		 'heterozigosity/bams/{species}_{sex}_{tissue}_{sample}.s.bam'            
+		 'heterozigosity/bams/{sample}.s.bam'            
 	conda:   'env/samtools.yaml'
 	shell:   'samtools sort -o {output} {input}'
 
@@ -22,15 +21,15 @@ rule  mark_duplicates:
 	input:
 		 rules.sort_bam.output
 	output:
-		 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.bam'
+		 'heterozigosity/{sample}.s.md.bam'
 	conda:   'env/picard.yaml'
 	shell:   'picard MarkDuplicates I={input} O={output} M=marked_dup_metrics.txt'
 
 rule  add_readgroup: 
 	input:
-                 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.bam'
+                 'heterozigosity/{sample}.s.md.bam'
 	output:
-		 'heterozigosity/{species}_{sex}_{tissue}_{sample}.s.md.ref.bam'
+		 'heterozigosity/{sample}.s.md.ref.bam'
 	params:
 		 rg=r"{sample}"
 	conda:   'env/samtools.yaml'
@@ -38,10 +37,10 @@ rule  add_readgroup:
 
 rule freebayes:
 	input:
-		 bam = expand('heterozigosity/{{species}}_{sex}_{tissue}_{sample}.s.md.ref.bam', sex = sex, tissue = tissue, sample = sample),
+		 bam = expand('heterozigosity/{sample}.s.md.ref.bam', sample = sample),
 		 reference = 'heterozigosity/{species}.def.nuc.fa'
 	output:
-		 'heterozigosity/raw.{species}_{sex}.vcf'
+		 'heterozigosity/{species}_mf.vcf'
 	conda:   'env/freebayes.yaml'
 	shell:   'freebayes -p 2 -f {input.reference} {input.bam} > {output}'
 
@@ -49,6 +48,7 @@ rule vcf_filter:
 	input:
 		 rules.freebayes.output
 	output:
-                 'heterozigosity/{species}_{sex}.recode.vcf'
+                 'heterozigosity/{species}_mf.recode.vcf'
 	conda:   'env/vcftools.yaml'
 	shell:   'vcftools --min-alleles 2 --max-alleles 2 --minGQ 15 --minDP 10 --vcf {input} --out {output} --recode-INFO-all --recode'
+
