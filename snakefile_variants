@@ -1,15 +1,15 @@
 species = ['BGM']
-sex=['M']
+sex=['F']
 tissue=['L','G']
 
 #BAT#sample=['RNA03','RNA05','RNA06','RNA07','RNA11','RNA12']
 #BRO#sample=['RNA01','RNA03','RNA06','RNA07','RNA08','RNA10']
-#BGM#males###
-sample=['RNA04','RNA06','RNA08','RNA20','RNA21','RNA22']
-#BGM#females#sample=['RNA10','RNA12','RNA14','RNA15','RNA17','RNA19']
+#BGM#males###sample=['RNA04','RNA06','RNA08','RNA20','RNA21','RNA22']
+#BGM#females#
+sample=['RNA10','RNA12','RNA14','RNA15','RNA17','RNA19']
 rule all:
 	input:
-		 'heterozigosity/BGM_M.recode.vcf'
+		 'heterozigosity/BGM_F.recode.vcf'
 rule sort_bam:
 	input:
 		 'heterozigosity/bams/{species}_{sex}_{tissue}_{sample}.bam'
@@ -51,4 +51,4 @@ rule vcf_filter:
 	output:
                  'heterozigosity/{species}_{sex}.recode.vcf'
 	conda:   'env/vcftools.yaml'
-	shell:   'vcftools --min-alleles 2 --max-alleles 2 --minGQ 15 --minDP 10 --vcf {input} --out {output} --recode-INFO-all --recode'
+	shell:   'vcftools --min-alleles 2 --max-alleles 2 --minGQ 15 --minQ 40 --minDP 10 --vcf {input} --out {output} --recode-INFO-all --recode'

@@ -1,4 +1,4 @@
-for i in *.mafft.n.aln; do distmat -sequence $i -nucmethod 1 -outfile $i".distances"; done
+#for i in *.mafft.n.aln; do distmat -sequence $i -nucmethod 1 -outfile $i".distances"; done
 
 echo "OG BRO-BGM BAT-BGM BAT-BRO PHY-BAT PHY-BRO PHY-BGM" > 4sp.distances.tab
 
