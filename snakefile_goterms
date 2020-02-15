@@ -1,0 +1,32 @@
+species = ['BRO', 'BAT', 'BGM']
+
+chunk = [str(x).zfill(2) for x in range(20)]
+
+rule all:
+	input:
+		 'annotation/BRO.blastn.outfmt5'
+	shell:	 'rm *lst snakejob*'
+
+rule split_fasta:
+        input:
+                 'annotation/{species}.blastp_filtered_transcripts.nuc.ol.nonredundant.fasta' 
+        output:
+                 temp(expand('annotation/{{species}}.blastp_filtered_transcripts.nuc.ol.nonredundant.fasta.{chunk}', species = species, chunk = chunk))
+        conda:   'env/pyfasta.yaml'
+        shell:   'pyfasta split -n 20 {input}'
+
+rule blastn:
+	input:
+                 'annotation/{species}.blastp_filtered_transcripts.nuc.ol.nonredundant.fasta.{chunk}'
+	output:
+                 'annotation/{species}.{chunk}.blastn.outfmt5'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastn -query {input} -db=dbs/nt/nt -max_hsps 1 -task blastn -evalue 1e-3 -outfmt 5 -num_threads {threads} > {output}'
+
+rule merge_blastn_result:
+	input: 
+		  expand('annotation/{{species}}.{chunk}.blastn.outfmt5', chunk = chunk)
+	output:
+		  'annotation/{species}.blastn.outfmt5'
+	shell:    'cat {input} >> {output}'
