@@ -1,0 +1,49 @@
+species = ['BRO', 'BAT', 'BGM']
+
+chunk = [str(x).zfill(2) for x in range(20)]
+
+rule all:
+	input:
+		 'annotation/BRO.blastp.outfmt7',
+		 'annotation/BRO.pfam.domtblout'
+	shell:	 'rm *lst snakejob*'
+
+rule split_fasta:
+        input:
+                 'annotation/{species}.final.p.ol.orthologs.fasta' 
+        output:
+                 temp(expand('annotation/{{species}}.temp.{chunk}.fasta', species = species, chunk = chunk))
+        conda:   'env/pyfasta.yaml'
+        shell:   'pyfasta split -n 20 {input}'
+
+rule blastp:
+	input:
+                 'annotation/{species}.temp.{chunk}.fasta'
+	output:
+                 'annotation/{species}.{chunk}.blastp.outfmt7'
+	threads: 4
+	conda:   'env/blast.yaml'
+	shell:   'blastn -query {input} -db=dbs/uniprot-swissprot/uniprot_sprot.fasta -max_hsps 1 -task blastp -evalue 1e-3 -outfmt "7 qseqid sseqid evalue " -num_threads {threads} > {output}'
+
+rule merge_blastp_result:
+	input: 
+		  expand('annotation/{{species}}.{chunk}.blastp.outfmt7', chunk = chunk)
+	output:
+		  'annotation/{species}.blastp.outfmt7'
+	shell:    'cat {input} >> {output}'
+
+rule hmmscan:
+	input:
+		 'annotation/{species}.temp.{chunk}.fasta'
+	output:
+		 'annotation/{species}.{chunk}.pfam.domtblout'
+	threads: 4
+	conda:   'env/hmmscan.yaml'
+	shell:   'hmmscan --cpu {threads} --domtblout {output} dbs/pfam-a/Pfam-A.hmm {input}'
+
+rule merge_hmmscan_result:
+	input:
+		  expand('annotation/{{species}}.{chunk}.pfam.domtblout', chunk = chunk)
+	output:
+		  'annotation/{species}.pfam.domtblout'
+	shell:    'cat {input} >> {output}'
