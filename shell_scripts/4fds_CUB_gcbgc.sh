@@ -1,4 +1,4 @@
-echo "OG BAT_W-S BAT_S-W BRO_W-S BRO_S-W BGM_W-S BGM_S-W BGC_BAT BGC_BRO BGC_BGM ENC_BAT ENC_BRO ENC_BGM SCUO_BAT SCUO_BRO SCUO_BGM MILC_BAT MILC_BRO MILC_BGM BAT_4FDS BRO_4FDS BGM_4FDS" > substiution_mapping.tab
+echo "OG BAT_W-S BAT_S-W BAT_W-W BAT_S-S BRO_W-S BRO_S-W  BRO_W-W BRO_S-S BGM_W-S BGM_S-W BGM_W-W BGM_S-S BGC_BAT BGC_BAT_pval BGC_BRO BGC_BRO_pval BGC_BGM BGC_BGM_pval ENC_BAT ENC_BRO ENC_BGM SCUO_BAT SCUO_BRO SCUO_BGM MILC_BAT MILC_BRO MILC_BGM BAT_4FDS BRO_4FDS BGM_4FDS" > substiution_mapping.tab
 
 printf '#install.packages("BiocManager") \n' > r_blueprint.tmp
 printf '#BiocManager::install("coRdon") \n' >> r_blueprint.tmp
@@ -27,8 +27,8 @@ printf '# bgGC model fitting ###################################################
 printf 'bgc.BAT.init.model<-add.ls.mod(model,"BAT",separate.params="bgc[0,2000]") \n' >> r_blueprint.tmp
 printf 'bgc.BAT.model<-phyloFit(aln,init.mod=bgc.BAT.init.model) \n' >> r_blueprint.tmp
 printf 'LRT <- -2*(bgc.BAT.init.model$likelihood-bgc.BAT.model$likelihood) \n' >> r_blueprint.tmp
-printf 'p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
-printf 'if (p.value < 0.001) { \n' >> r_blueprint.tmp
+printf 'BAT.p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
+printf 'if (BAT.p.value < 0.001) { \n' >> r_blueprint.tmp
 printf '  bgc.BAT <- bgc.BAT.model$ls.model$bgc \n' >> r_blueprint.tmp
 printf '  } else { \n' >> r_blueprint.tmp
 printf '  bgc.BAT <- NA \n' >> r_blueprint.tmp
@@ -37,8 +37,8 @@ printf '  } \n' >> r_blueprint.tmp
 printf 'bgc.BRO.init.model<-add.ls.mod(model,"BRO",separate.params="bgc[0,2000]") \n' >> r_blueprint.tmp
 printf 'bgc.BRO.model<-phyloFit(aln,init.mod=bgc.BRO.init.model) \n' >> r_blueprint.tmp
 printf 'LRT <- -2*(bgc.BRO.init.model$likelihood-bgc.BRO.model$likelihood) \n' >> r_blueprint.tmp
-printf 'p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
-printf 'if (p.value < 0.001) { \n' >> r_blueprint.tmp
+printf 'BRO.p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
+printf 'if (BRO.p.value < 0.001) { \n' >> r_blueprint.tmp
 printf '  bgc.BRO <- bgc.BRO.model$ls.model$bgc \n' >> r_blueprint.tmp
 printf '} else { \n' >> r_blueprint.tmp
 printf '  bgc.BRO <- NA \n' >> r_blueprint.tmp
@@ -47,8 +47,8 @@ printf '} \n' >> r_blueprint.tmp
 printf 'bgc.BGM.init.model<-add.ls.mod(model,"BGM",separate.params="bgc[0,2000]") \n' >> r_blueprint.tmp
 printf 'bgc.BGM.model<-phyloFit(aln,init.mod=bgc.BGM.init.model) \n' >> r_blueprint.tmp
 printf 'LRT <- -2*(bgc.BGM.init.model$likelihood-bgc.BGM.model$likelihood) \n' >> r_blueprint.tmp
-printf 'p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
-printf 'if (p.value < 0.001) { \n' >> r_blueprint.tmp
+printf 'BGM.p.value <- 1-pchisq(LRT,df=1) \n' >> r_blueprint.tmp
+printf 'if (BGM.p.value < 0.001) { \n' >> r_blueprint.tmp
 printf '  bgc.BGM <- bgc.BGM.model$ls.model$bgc \n' >> r_blueprint.tmp
 printf '} else { \n' >> r_blueprint.tmp
 printf '  bgc.BGM <- NA \n' >> r_blueprint.tmp
@@ -89,7 +89,7 @@ printf 'milc.BGM<-milc[3] \n' >> r_blueprint.tmp
 printf '# write results ################################################################################################################################################ \n' >> r_blueprint.tmp
 
 printf 'sink("result.tmp") \n' >> r_blueprint.tmp
-printf 'cat(c(BAT.result$W.to.S, BAT.result$S.to.W, BRO.result$W.to.S, BRO.result$S.to.W, BGM.result$W.to.S, BGM.result$S.to.W, bgc.BAT, bgc.BRO, bgc.BGM, enc.BAT, enc.BRO, enc.BGM, scuo.BGM, scuo.BRO, scuo.BGM, milc.BGM, milc.BRO, milc.BGM,gc.fds.BAT,gc.fds.BRO,gc.fds.BGM)) \n' >> r_blueprint.tmp
+printf 'cat(c(BAT.result$W.to.S, BAT.result$S.to.W, BAT.result$W.to.W, BAT.result$S.to.S, BRO.result$W.to.S, BRO.result$S.to.W, BRO.result$W.to.W, BRO.result$S.to.S, BGM.result$W.to.S, BGM.result$S.to.W, BGM.result$W.to.W, BGM.result$S.to.S, bgc.BAT, BAT.p.value, bgc.BRO, BRO.p.value, bgc.BGM, BGM.p.value, enc.BAT, enc.BRO, enc.BGM, scuo.BAT, scuo.BRO, scuo.BGM, milc.BAT, milc.BRO, milc.BGM,gc.fds.BAT,gc.fds.BRO,gc.fds.BGM)) \n' >> r_blueprint.tmp
 printf 'cat("\n") \n' >> r_blueprint.tmp
 printf 'sink() \n' >> r_blueprint.tmp
 

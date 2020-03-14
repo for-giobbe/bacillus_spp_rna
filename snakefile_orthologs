@@ -4,3 +4,4 @@ rule ortholog_search:
         conda:   'env/orthofinder.yaml'
 	threads: 16
         shell:   'orthofinder -f {input}'
+

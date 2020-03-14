@@ -84,5 +84,3 @@ rule merge_pep:
                   '{species}.final.raw.transdecoder.pep'
         shell:    'cat {input} >> {output}'
 
-
-

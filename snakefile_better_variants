@@ -1,16 +1,15 @@
-species = ['BRO']
+species = ['BGM']
 #BAT#sample=['_F_L_RNA03','_F_L_RNA05','_F_L_RNA06','_F_L_RNA07','_F_L_RNA11','_F_L_RNA12','_F_G_RNA03','_F_G_RNA05','_F_G_RNA06','_F_G_RNA07','_F_G_RNA11','_F_G_RNA12']
-
-#BRO#
-
-sample=['_F_L_RNA01','_F_L_RNA03','_F_L_RNA06','_F_L_RNA07','_F_L_RNA08','_F_L_RNA10','_F_G_RNA01','_F_G_RNA03','_F_G_RNA06','_F_G_RNA07','_F_G_RNA08','_F_G_RNA10']
+#BRO#sample=['_F_L_RNA01','_F_L_RNA03','_F_L_RNA06','_F_L_RNA07','_F_L_RNA08','_F_L_RNA10','_F_G_RNA01','_F_G_RNA03','_F_G_RNA06','_F_G_RNA07','_F_G_RNA08','_F_G_RNA10']
 
 #BGM#males###sample=['RNA04','RNA06','RNA08','RNA20','RNA21','RNA22']
-#BGM#females#sample=['RNA10','RNA12','RNA14','RNA15','RNA17','RNA19']
+#BGM#females#
+
+sample=['_F_L_RNA10','_F_L_RNA12','_F_L_RNA14','_F_L_RNA15','_F_L_RNA17','_F_L_RNA19','_F_G_RNA10','_F_G_RNA12','_F_G_RNA14','_F_G_RNA15','_F_G_RNA17','_F_G_RNA19']
 
 rule all:
 	input:
-		 'heterozigosity_check/raw.BRO.vcf'
+		 'heterozigosity_check/BGM.recode.vcf'
 
 rule map_reads:
 	input:
@@ -19,7 +18,7 @@ rule map_reads:
 	output:
                  temp('heterozigosity_check/{species}{sample}.sam')
 	params:
-                 db='heterozigosity_check/BRO.db'
+                 db='heterozigosity_check/BGM.db'
 	threads: 4
 	conda:   'env/bowtie2.yaml'
 	shell:   'bowtie2 -x {params.db} -1 {input.left} -2 {input.right} -S {output}'
@@ -28,7 +27,7 @@ rule sam_to_bam:
 	input:
 		 rules.map_reads.output
 	output:
-                 temp('heterozigosity_check/{species}{sample}.bam')
+                 'heterozigosity_check/{species}{sample}.bam'
 	shell:   'samtools view -S -b {input} > {output}'
 
 rule sort_bam:
@@ -68,50 +67,50 @@ rule freebayes:
 	conda:   'env/freebayes.yaml'
 	shell:   'freebayes -p 2 -f {input.reference} {input.bam} > {output}'
 
-#rule vcf_filter:
-#	input:
-#		 rules.freebayes.output
-#	output:
-#                'heterozigosity/{species}.recode.vcf'
-#	conda:   'env/vcftools.yaml'
-#	shell:   'vcftools --min-alleles 2 --max-alleles 2 --minGQ 15 --minQ 40 --minDP 10 --vcf {input} --out {output} --recode-INFO-all --recode'
+rule vcf_filter_1:
+        input:
+                 rules.freebayes.output
+        output:
+                 temp('heterozigosity_check/{species}_filter_1.vcf')
+        conda:   'env/vcffilter.yaml'
+        shell:   'vcffilter -s -f "AB > 0.4 & AB < 0.6 | AB < 0.01" {input} > {output}'
 
-#rule vcf_filter_2:
-#        input:
-#                 rules.vcf_filter_1.output
-#        output:
-#                 temp('heterozigosity_check/{species}_filter_2.vcf')
-#        conda:   'env/vcffilter.yaml'
-#        shell:   'vcffilter -s -f "AB > 0.4 & AB < 0.6 | AB < 0.01" {input} > {output}'
+rule vcf_filter_2:
+        input:
+                 rules.vcf_filter_1.output
+        output:
+                 temp('heterozigosity_check/{species}_filter_2.vcf')
+        conda:   'env/vcffilter.yaml'
+        shell:   'vcffilter -f "SAF / SAR > 100 & SRF / SRR > 100 | SAR / SAF > 100 & SRR / SRF > 100" -s {input} > {output}'
 
-#rule vcf_filter_3:
-#        input:
-#                 rules.vcf_filter_2.output
-#        output:
-#                 temp('heterozigosity_check/{species}_filter_3.vcf')
-#        conda:   'env/vcffilter.yaml'
-#        shell:   'vcffilter -f "SAF / SAR > 100 & SRF / SRR > 100 | SAR / SAF > 100 & SRR / SRF > 100" -s 1.BGM_F.vcf {input} > {output}'
+rule vcf_filter_3:
+        input:
+                 rules.vcf_filter_2.output
+        output:
+                 temp('heterozigosity_check/{species}_filter_3.vcf')
+        conda:   'env/vcffilter.yaml'
+        shell:   'vcffilter -f "MQM / MQMR > 0.9 & MQM / MQMR < 1.05" {input} > {output}'
 
-#rule vcf_filter_4:
-#        input:
-#                 rules.vcf_filter_3.output
-#        output:
-#                 temp('heterozigosity_check/{species}_filter_4.vcf')
-#        conda:   'env/vcffilter.yaml'
-#        shell:   'vcffilter -f "MQM / MQMR > 0.9 & MQM / MQMR < 1.05" {input} > {output}'
+rule vcf_filter_4:
+        input:
+                 rules.vcf_filter_3.output
+        output:
+                 temp('heterozigosity_check/{species}_filter_4.vcf')
+        conda:   'env/vcffilter.yaml'
+        shell:   'vcffilter -f "PAIRED > 0.05 & PAIREDR > 0.05 & PAIREDR / PAIRED < 1.75 & PAIREDR / PAIRED > 0.25 | PAIRED < 0.05 & PAIREDR < 0.05" -s {input} > {output}'
 
-#rule vcf_filter_5:
-#        input:
-#                 rules.vcf_filter_4.output
-#        output:
-#                 temp('heterozigosity_check/{species}_filter_5.vcf')
-#        conda:   'env/vcffilter.yaml'
-#        shell:   'vcffilter -f "PAIRED > 0.05 & PAIREDR > 0.05 & PAIREDR / PAIRED < 1.75 & PAIREDR / PAIRED > 0.25 | PAIRED < 0.05 & PAIREDR < 0.05" -s {input} > {output}'
+rule vcf_filter_5:
+        input:
+                 rules.vcf_filter_4.output
+        output:
+                 temp('heterozigosity_check/{species}_filter_5.vcf')
+        conda:   'env/vcffilter.yaml'
+        shell:   'vcffilter -f "QUAL / DP > 0.25" {input} > {output}'
 
-#rule vcf_filter_6:
-#        input:
-#                 rules.vcf_filter_5.output
-#        output:
-#                 temp('heterozigosity_check/{species}_filter_6.vcf')
-#        conda:   'env/vcffilter.yaml'
-#        shell:   'vcffilter -f "QUAL / DP > 0.25" {input} > {output}'
+rule vcf_filter_6:
+       input:
+                rules.vcf_filter_5.output
+       output:  
+                'heterozigosity_check/{species}.recode.vcf'
+       conda:   'env/vcftools.yaml'
+       shell:   'vcftools --min-alleles 2 --max-alleles 2 --minGQ 15 --minQ 40 --minDP 10 --vcf {input} --out {output} --recode-INFO-all --recode'

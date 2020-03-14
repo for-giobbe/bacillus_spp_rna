@@ -4,46 +4,46 @@ chunk = [str(x).zfill(2) for x in range(20)]
 
 rule all:
 	input:
-		 'annotation/BRO.blastp.outfmt7',
-		 'annotation/BRO.pfam.domtblout'
-	shell:	 'rm *lst snakejob*'
+		 'annotation/assemblies/BRO.blastp.outfmt7',
+		 'annotation/assemblies/BRO.pfam.tblout'
+	shell:	 'rm snakejob* annotation/assemblies/*flat annotation/assemblies/*gdx'
 
 rule split_fasta:
         input:
-                 'annotation/{species}.final.p.ol.orthologs.fasta' 
+                 'annotation/assemblies/{species}.blastp_filtered_transcripts.pep.ol.nonredundant.ref.fasta' 
         output:
-                 temp(expand('annotation/{{species}}.temp.{chunk}.fasta', species = species, chunk = chunk))
+                 temp(expand('annotation/assemblies/{{species}}.blastp_filtered_transcripts.pep.ol.nonredundant.ref.{chunk}.fasta', species = species, chunk = chunk))
         conda:   'env/pyfasta.yaml'
         shell:   'pyfasta split -n 20 {input}'
 
 rule blastp:
 	input:
-                 'annotation/{species}.temp.{chunk}.fasta'
+                 'annotation/assemblies/{species}.blastp_filtered_transcripts.pep.ol.nonredundant.ref.{chunk}.fasta'
 	output:
-                 'annotation/{species}.{chunk}.blastp.outfmt7'
+                 temp('annotation/assemblies/{species}.{chunk}.blastp.outfmt7')
 	threads: 4
 	conda:   'env/blast.yaml'
-	shell:   'blastn -query {input} -db=dbs/uniprot-swissprot/uniprot_sprot.fasta -max_hsps 1 -task blastp -evalue 1e-3 -outfmt "7 qseqid sseqid evalue " -num_threads {threads} > {output}'
+	shell:   'blastp -query {input} -db=dbs/uniprot-swissprot/uniprot_sprot.fasta -max_hsps 1 -task blastp -evalue 1e-3 -outfmt "7 qseqid sseqid evalue " -num_threads {threads} > {output}'
 
 rule merge_blastp_result:
 	input: 
-		  expand('annotation/{{species}}.{chunk}.blastp.outfmt7', chunk = chunk)
+		  expand('annotation/assemblies/{{species}}.{chunk}.blastp.outfmt7', chunk = chunk)
 	output:
-		  'annotation/{species}.blastp.outfmt7'
+		  'annotation/assemblies/{species}.blastp.outfmt7'
 	shell:    'cat {input} >> {output}'
 
 rule hmmscan:
 	input:
-		 'annotation/{species}.temp.{chunk}.fasta'
+		 'annotation/assemblies/{species}.blastp_filtered_transcripts.pep.ol.nonredundant.ref.{chunk}.fasta'
 	output:
-		 'annotation/{species}.{chunk}.pfam.domtblout'
+		 temp('annotation/assemblies/{species}.{chunk}.pfam.tblout')
 	threads: 4
 	conda:   'env/hmmscan.yaml'
-	shell:   'hmmscan --cpu {threads} --domtblout {output} dbs/pfam-a/Pfam-A.hmm {input}'
+	shell:   'hmmscan --cpu {threads} --tblout {output} dbs/pfam-a/Pfam-A.hmm {input}'
 
 rule merge_hmmscan_result:
 	input:
-		  expand('annotation/{{species}}.{chunk}.pfam.domtblout', chunk = chunk)
+		  expand('annotation/assemblies/{{species}}.{chunk}.pfam.tblout', chunk = chunk)
 	output:
-		  'annotation/{species}.pfam.domtblout'
+		  'annotation/assemblies/{species}.pfam.tblout'
 	shell:    'cat {input} >> {output}'
